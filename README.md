@@ -10,25 +10,19 @@ Deepin en acción (en nombre clave "Basedata") es una colección de información
 
 * Acciones básicas de Deepin
 * Tutoriales
-* 
+* Y más...
 
-## Setup
+## Desarrollo
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+Base está construído sobre [Jekyll](http://jekyllrb.com/) versión 3.4.3, con soporte para nuevas actualizaciones.
 
-## Develop
-
-Base was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
-
-Install the dependencies with [Bundler](http://bundler.io/):
+Puedes instalar el servidor con [Bundler](http://bundler.io/):
 
 ~~~bash
 $ bundle install
 ~~~
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+Ejecuta los comandos `jekyll`:
 
 ~~~bash
 $ bundle exec jekyll serve
@@ -56,12 +50,16 @@ To add a tutorial/post to a series:
 * Add a `set` field to the tutorial front matter which points to the file name of the desired set without the `.md` extention. e.g. If I have a set at `_sets/getting-started.md` I would use this in my tutorial front matter: `set: getting-started`.
 * Add a `set_order` field to the tutorial front matter and specify a number. This is the tutorials order in the set.
 
-### Navigation
+### Navegación
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Navigation* section.
 
-### Footer
+### Pie
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
+
+### Licencia
+
+Licenciado bajo Creative Commons Atribution Share-Alkine 4.0.
