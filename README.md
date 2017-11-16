@@ -1,26 +1,16 @@
-# Base
+# Deepin en acción
 
-Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
+Deepin en acción (en nombre clave "Basedata") es una colección de información relevante sobre el sistema operativo. Está desarrollado por Deepin en Español.
 
 ![Base template screenshot](images/_screenshot.png)
 
-Base was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](https://learn.cloudcannon.com/jekyll-templates/).
+**Deepin en acción** está diseñada con el tema Base [CloudCannon](http://cloudcannon.com/) ([información](https://learn.cloudcannon.com/jekyll-templates/) y [documentación](https://learn.cloudcannon.com/)).
 
-Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](https://learn.cloudcannon.com/).
+## Lo que contiene
 
-## Features
-
-* Tutorials organised by category
-* Two types of tutorials - text and video
-* Ability to have a "tutorial series"
-* FAQ section
-* Disqus comments
-* Sticky sidebar for main headings in tutorials
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+* Acciones básicas de Deepin
+* Tutoriales
+* 
 
 ## Setup
 
