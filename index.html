@@ -21,12 +21,6 @@
 					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
 				{% endfor %}
 
-				{% for tutorial in category-tutorials %}
-					{% assign permalink = "/jekyll/" | append: tutorial | append: "/" %}
-					{% assign post = site.posts | where: "url", permalink | first %}
-					<li><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></li>
-				{% endfor %}
-
 				{% if size > 4 %}
 					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
 				{% endif %}
