@@ -8,8 +8,6 @@ categories:
 tags:
     - listados
     - guiapps
-header:
-    image_fullwidth: "header_drop.jpg"
 ---
 
 En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/) recopilamos y comentamos esas cosas importantes del software.

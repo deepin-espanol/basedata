@@ -8,8 +8,6 @@ categories:
 tags:
     - listados
     - guiapps
-header:
-    image_fullwidth: "header_drop.jpg"
 ---
 
 En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/). No obstante, te mostramos una selección de [aplicaciones]({{ site.url }}{{ site.baseurl }}/apps/) preinstaladas y listas para usar. las cuales deberías revisar para tareas cotidianas, incluyendo [aplicaciones originales]({{ site.url }}{{ site.baseurl }}/originales/) de Deepin.
