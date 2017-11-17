@@ -4,7 +4,7 @@ type: Document
 title:  "Bitwarden"
 subheadline:  "Tips"
 description: "Un servicio para proveer contraseñas"
-breadcrumb: true   
+
 categories:
     - tips
 tags:

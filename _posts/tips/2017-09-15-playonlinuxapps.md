@@ -7,7 +7,7 @@ type: Document
 
 title: "Ejecutar juegos para Windows en PlayonLinux"
 description: "Para consultar y cambiar"
-breadcrumb: true   
+
 categories:
   - tips
 tags:
