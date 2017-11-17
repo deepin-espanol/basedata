@@ -11,13 +11,13 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: La base de datos en español de los usuarios y desarrolladores de Deepin
 author:
   name: Deepin en Español
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: Ayuda de Deepin en Español
   links:
     - https://github.com/CloudCannon/base-jekyll-template
 
