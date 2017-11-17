@@ -8,7 +8,6 @@ categories:
 tags:
     - listados
     - guiapps
-
 ---
 
 En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/) recopilamos y comentamos esas cosas importantes del software.

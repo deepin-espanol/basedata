@@ -7,7 +7,6 @@ categories:
 tags:
     - dudas
     - particiones
-
 ---
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
@@ -16,17 +15,11 @@ En esta página respondemos las dudas relacionadas a las particiones en Deepin. 
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
-
-
-
 ## Preámbulo
 ### ¿Qué es una partición?
 Una partición es un contenedor del disco duro que almacena datos. Las particiones pueden tener archivos del sistema o se apoyan de la caché para arrancar el sistema operativo.
 
 Fuente: [Planeta Fedoraa](https://planetafedora.wordpress.com/acerca-de-particiones-y-puntos-de-montaje-tipos-de-formato-y-tamanos/)
-
-
-
 
 ### ¿Cuántas particiones puedo tener en mi disco duro?
 Eso dependerá de la estructura de disco duro. Para eso necesitarás de un sistema para gestionar particiones llamada "tabla". Por defecto se usa MBR, Registro de arranque principal en inglés.
@@ -34,9 +27,6 @@ Eso dependerá de la estructura de disco duro. Para eso necesitarás de un siste
 En esa tabla tienes un máximo de 4 contenedores llamadas "particiones primarias". De las cuales cada una puede dividirse en particiones lógicas.
 
 Fuente: [Planeta Fedoraa](https://planetafedora.wordpress.com/acerca-de-particiones-y-puntos-de-montaje-tipos-de-formato-y-tamanos/)
-
-
-
 
 ### ¿Porqué usamos particiones EXT4?
 En Gnu/Linux usamos el sistema de archivos extendido o EXT, de código abierto y libre de patentes. Fue presentado en 1992 con la primera versión de Linux. Un año después se implementaría su segunda versión para usar en particiones con varios giga-octetos (GB) de almacenamiento.
@@ -83,5 +73,3 @@ En caso que no sepas qué partición reparar, sdXX viene a ser el número de par
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
-
-

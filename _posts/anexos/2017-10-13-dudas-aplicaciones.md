@@ -28,9 +28,7 @@ Sí. Echa un vistazo en [Juegos para Deepin]({{ site.url }}{{ site.baseurl }}/ga
 
 Adicionalmente tendrás que modificiar parte del código para optimizar el sistema operativo, como este vídeo.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include youtube.html video_id=CnSkR96iIpY %}
 
 ## Aplicaciones pesadas
 Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>

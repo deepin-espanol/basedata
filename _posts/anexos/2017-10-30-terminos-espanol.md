@@ -8,7 +8,6 @@ categories:
 tags:
     - listados
     - traducciones
-
 ---
 
 En Deepin en Español tenemos una lista de traducciones para los hablantes de Cervantes. Desde la [instalación el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/), nosotros debemos dejar una interfaz comprensible y sencilla.
@@ -16,8 +15,6 @@ En Deepin en Español tenemos una lista de traducciones para los hablantes de Ce
 Esta página forma parte de una <a href="/dudas">serie de traducciones</a> para Deepin en Español
 
 Las reglas para añadir las palabras frecuentes son sencillas: deben ser **fáciles de recordar**, evitar los modismos y tecnicismos, hablar en usted (no "vosear" ni "tutear") y **simplificar la mayor cantidad de palabras posible**. Está enfocado al público hispanohablante (incluyendo Latinoamérica, España y otros países).
-
-
 
 ## Palabras con traducción sencilla {#glosario}
 Palabras relacionadas a la interfaz y tienen la misma cantidad de caracteres o menos. Recomendamos usar las palabras traducidas para mejorar la "experiencia de uso" en botones y menúes, y usar sinónimos si se emplean en oraciones largas.

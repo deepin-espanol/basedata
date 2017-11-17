@@ -9,8 +9,8 @@ tags:
     - dudas
     - paquetes
     - dependencias
-
 ---
+
 En esta página respondemos las dudas más comunes al actualizar Deepin desde la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). Necesitas conocer un [poco sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/) y tener los permisos de administrador para esos procedimientos.
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
@@ -45,19 +45,12 @@ Una forma más sencilla de actualizar es escribir full-upgrade y añadir `-y` al
 sudo apt full-upgrade -y
 ~~~
 
-
-
-
 ### ¿Qué paquetes voy a actualizar?
 Para comprobar los paquetes que irás a actualizar, escribe `apt list`. No requiere derechos de administrador.
 
 ~~~
 apt list —upgradable
 ~~~
-
-
-
-
 
 ### ¿Cómo gestionar los paquetes?
 Si has realizado una actualización puedes comprobar a través del Shell Aptitude. Podemos echar un vistazo los paquetes instalados. A diferencia del apt original, tiene una interfaz gráfica similar a los años 90.
@@ -68,14 +61,7 @@ sudo aptitude
 
 Debido a que no requiere la intervención del ratón, tienes que conocer los atajos de teclado (versión 0.8.6): ´q´ para retroceder o salir, ´u´ para actualizar , ´g´ para instalar o desinstalar y ´Control + T´ para ver el menú.
 
-<div class="row">
-    <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}aptitude.png" alt="Aplicación Aptitude.">
-    </div><!-- /.medium-4.columns -->
-</div>
-
-
-
+![Aplicación Aptitude]({{ site.urlimg }}aptitude.png)
 
 ## Errores comunes
 #### Veo el mensaje "Dependencias incompletas"
@@ -90,8 +76,6 @@ sudo apt-get -f install
 Si los problemas persisten, revisa [la sección Dudas técnicas]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas#conflicto)
 
 
-
-
 #### Dice que el archivo está sources.list protegido
 Eso se debe a que las actualizaciones centro de control están haciendo el trabajo de actualizar. Reinicia el equipo (método seguro) o ejecuta en la terminal
 
@@ -101,23 +85,14 @@ sudo rm /var/cache/apt/archives/lock & sudo rm /var/lib/dpkg/lock & sudo rm /var
 
 Nota: Este código usa `rm` para borrar los archivos `lock` de las tres carpetas.
 
-
-
-
 #### Me avisó que hay una nueva configuración disponible
 Está expresada en oraciones como "El distribuidor del paquete ha publicado una version actualizada". Recomendamos aceptar los nuevos cambios (en general, escribir ´y´ y pulsar ´Enter´). Más detalles en [la sección Tips]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes).
-
-
-
 
 #### Hay paquetes huérfanos
 Este comando sirve para eliminarlos.
 ~~~
 sudo apt autoremove
 ~~~
-
-
-
 
 #### Veo el mensaje "Sub-process /usr/bin/dpkg returned an error code(1)"
 Se debe a que la cola de instalaciones está en pausa, vulve a ejecutar:
@@ -126,16 +101,11 @@ Se debe a que la cola de instalaciones está en pausa, vulve a ejecutar:
 sudo dpkg –configure -a
 ~~~
 
-
-
-
 #### No puedo instalar porque los paquetes están corruptos
 Este comando sirve para limpiar la caché.
 ~~~
 sudo apt-get clean
 ~~~
-
-
 
 
 ## Lectura adicional

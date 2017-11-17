@@ -9,8 +9,8 @@ tags:
     - destacado
     - ayuda
     - grupos
-
 ---
+
 Está página es un directorio de comunidades afines a Deepin o Linux para el desarrollo de software. Contiene material interesante, experiencias personales y otras más.
 
 ***Nota:*** Solo incluimos a grupos afines de Deepin. Sin embargo, es posible que existan cambios el anexo sin previo aviso. Visitar a otras comunidades no es responsabilidad de Deepin en Español.
@@ -45,7 +45,3 @@ Está página es un directorio de comunidades afines a Deepin o Linux para el de
 * [LinuxAdictos](https://www.linuxadictos.com)
 * [MuyLinux](https://www.muylinux.com)
 * [LinuxHint](https://www.linuxhint.com)
-
-
-
-
