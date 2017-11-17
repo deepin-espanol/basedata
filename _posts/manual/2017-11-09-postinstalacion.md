@@ -12,8 +12,7 @@ tags:
     - usuarios
     - permisos
     - administrador
-image:
-    title: header_unsplash_7
+
 ---
 
 Gracias por usar Deepin. En Deepin en Español tenemos una colección de artículos para iniciar a usar.

@@ -4,7 +4,6 @@ type: Document
 #
 # Content
 #
-
 title: "Cifrar mis documentos"
 description: "La forma más práctica"
 breadcrumb: true   

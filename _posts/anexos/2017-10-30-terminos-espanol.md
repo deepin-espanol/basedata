@@ -8,8 +8,7 @@ categories:
 tags:
     - listados
     - traducciones
-header:
-    image_fullwidth: "header_drop.jpg"
+
 ---
 
 En Deepin en Español tenemos una lista de traducciones para los hablantes de Cervantes. Desde la [instalación el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/), nosotros debemos dejar una interfaz comprensible y sencilla.

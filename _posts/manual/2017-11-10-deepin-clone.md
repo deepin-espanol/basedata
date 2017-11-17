@@ -13,8 +13,7 @@ tags:
     - backup
     - particiones
     - originales
-image:
-    title: header_unsplash_7
+
 ---
 
 Deepin Clone es una aplicación para respaldar contenido del disco duro.

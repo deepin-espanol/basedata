@@ -13,8 +13,7 @@ tags:
     - backup
     - particiones
     - originales
-image:
-    title: header_unsplash_7
+
 ---
 
 Deepin Recovery es una opción para situaciones críticas. Es el equivalente al "Modo seguro". Disponible desde Deepin 15.5 y trabaja mejor con Deepin Clone.

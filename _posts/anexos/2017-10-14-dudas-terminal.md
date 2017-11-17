@@ -7,8 +7,7 @@ categories:
 tags:
     - dudas
     - comunidad
-header:
-   image_fullwidth: "hot.jpg"
+
 ---
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
 

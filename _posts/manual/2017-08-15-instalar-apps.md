@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 sidebar: right
 sidebar: left
-subheadline: Manual
+
 title:  "Instalar aplicaciones Deepin"
 description: "Deepin Store y más."
 breadcrumb: true
@@ -13,10 +13,7 @@ tags:
     - deepin
 categories:
     - manual
-image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
-    caption_url: http://unsplash.com
+
 ---
 Hay varias formas de obtener aplicaciones en *Deepin*. La forma más fácil es instalar desde la Deepin Store o externamente vía archivos DEB o Flatpak.
 
