@@ -11,19 +11,6 @@ tags:
     - dependencias
 
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Índice**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
-
 En esta página respondemos las dudas más comunes al actualizar Deepin desde la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). Necesitas conocer un [poco sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/) y tener los permisos de administrador para esos procedimientos.
 
 {% include alert success='Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias' %}
@@ -160,6 +147,3 @@ sudo apt-get clean
 ### Más en Tips
 {: .t60 }
 {% include list-posts category='tips' entries='3'%}
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->

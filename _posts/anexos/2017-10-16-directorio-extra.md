@@ -11,19 +11,6 @@ tags:
     - grupos
 
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Índice**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
-
 Está página es un directorio de comunidades afines a Deepin o Linux para el desarrollo de software. Contiene material interesante, experiencias personales y otras más.
 
 ***Nota:*** Solo incluimos a grupos afines de Deepin. Sin embargo, es posible que existan cambios el anexo sin previo aviso. Visitar a otras comunidades no es responsabilidad de Deepin en Español.
@@ -62,6 +49,3 @@ Está página es un directorio de comunidades afines a Deepin o Linux para el de
 ### Más en Tips
 {: .t60 }
 {% include list-posts category='tips' entries='3'%}
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
