@@ -11,6 +11,7 @@
 		{% assign posts = category[1] %}
 		{% assign size = posts | size %}
 		<section class="category">
+				<!--Genera categorías-->
 				<h3>
 					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
 				</h3>
@@ -19,13 +20,6 @@
 				{% assign tutorials = posts | sort: "title" %}
 				{% for tutorial in tutorials limit: 4 %}
 					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
-				{% endfor %}
-
-				<!---Para el sistema operativo-->
-				{% for tutorial in category-so %}
-					{% assign permalink = "/so/" | append: tutorial | append: "/" %}
-					{% assign post = site.posts | where: "url", permalink | first %}
-					<li><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></li>
 				{% endfor %}
 
 				{% if size > 4 %}
