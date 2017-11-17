@@ -33,6 +33,6 @@ sudo modprobe vboxdrv
 ## Lectura adicional
 * [Foro de Deepin](https://bbs.deepin.org/forum.php?mod=viewthread&tid=37873)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

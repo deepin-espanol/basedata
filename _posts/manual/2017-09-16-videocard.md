@@ -51,6 +51,6 @@ AMD:
 ## Lectura adicional
 * [Dudas sobre controladores]({{ site.url }}/anexos/dudas-drivers/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

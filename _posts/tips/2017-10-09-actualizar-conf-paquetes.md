@@ -75,6 +75,6 @@ Si por error has conservado la configuración después de que los paquetes fuera
 * [Consulta en stackexchange ](https://unix.stackexchange.com/questions/113732/a-new-version-of-configuration-file-etc-default-grub-is-available-but-the-vers)
 * [AskUbuntu](https://askubuntu.com/questions/799212/how-can-i-install-view-the-grub-file-that-a-recent-upgrade-was-providing-but-i-a/799220#799220)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

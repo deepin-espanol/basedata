@@ -46,6 +46,6 @@ Recuerda que esos métodos son medidas drásticas. Y eso puede ocurrir:
 * [Dudas sobre la terminal]({{ site.url }}{{ site.baseurl }}/anexos/dudas-terminal/).
 * [Cambiar permisos de usuario]({{ site.url }}{{ site.baseurl }}/tips/permisos-usuario/).
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

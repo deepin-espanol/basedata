@@ -43,6 +43,6 @@ Si al instalar por primera vez, te olvidaste la contraseña recurre [al tip]({{ 
 * [Hipertextual: Superusuario en Linux](https://hipertextual.com/2015/10/superusuario-en-linux)
 * [Dudas sobre la terminal]({{ site.url }}{{ site.baseurl }}/tips/dudas-terminal/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

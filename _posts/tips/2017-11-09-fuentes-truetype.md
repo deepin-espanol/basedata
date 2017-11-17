@@ -24,6 +24,6 @@ sudo apt-get install ttf-freefont ttf-mscorefonts-installer ttf-bitstream-vera t
 ## Fuente
 * [LinuxAdictos](https://www.linuxadictos.com/4-cosas-despues-instalar-debian.html)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

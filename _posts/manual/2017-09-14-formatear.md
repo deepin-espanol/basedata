@@ -37,6 +37,6 @@ Esta opción es peligrosa. Se encarga de reorganizar el sistema de partciones. R
 
 Si la partición está dañada usa esta opción. Primero verifícala con el botón secundario a una partición.
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

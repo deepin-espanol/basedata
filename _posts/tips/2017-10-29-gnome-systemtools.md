@@ -26,6 +26,6 @@ Este apunte explica como funciona GNOME System Tools para configurar la red, los
 ## Fuente
 * [Sitio web oficial](https://projects.gnome.org/gst/)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

@@ -55,6 +55,6 @@ Buscar “applicaion”.desktop y modificar la línea que diga "Exec" y añade �
 3. En la pestaña “general", clic en el botón “Definir parámetros de lanzamiento”.
 4. Y en el cuadro rellenar con: primusrun %command%
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

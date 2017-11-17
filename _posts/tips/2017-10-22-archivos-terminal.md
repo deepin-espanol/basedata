@@ -126,6 +126,6 @@ sudo mount / -o remount,rw
 * [Blog "Principiante Blog"](http://principiante-linux.blogspot.pe/2007/08/comandos-linux-mover-copiar-borrar-y.html)
 * [Soluciones al cargar Deepin]({{ site.url }}{{ site.baseurl }}/anexos/badload/)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

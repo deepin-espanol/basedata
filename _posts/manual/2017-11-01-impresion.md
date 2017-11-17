@@ -45,6 +45,6 @@ Dependiendo de la marca, los siguientes enlaces contienen los controladores:
 
 * [Dudas de controladores]({{ site.url }}{{ site.baseurl }}/anexos/dudas-drivers/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

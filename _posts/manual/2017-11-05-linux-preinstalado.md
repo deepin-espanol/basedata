@@ -27,6 +27,6 @@ A 2017:
 * [MuyLinux](https://www.muylinux.com/pcs-y-portatiles/)
 * [Hipertextual](https://hipertextual.com/archivo/2013/10/computadoras-con-linux/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

@@ -56,6 +56,6 @@ Entorno de escritorio para Puppy Linux. Su integración es limitada como su cons
 sudo apt install lxde && lxpanel-top-menu
 ~~~
 Entorno de escritorio para Puppy Linux de muy bajo consumo, recomendado para la Internet de las cosas.
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

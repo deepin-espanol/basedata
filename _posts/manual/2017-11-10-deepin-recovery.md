@@ -40,6 +40,6 @@ Si actualizas desde Deepin 15.4.1, deberás incluir `full-upgrade y sudo apt-get
 * [Página dedicada a la instalación]({{ site.url }}{{ site.baseurl }}/instalacion/)
 * [Página dedicada a las actualizaciones]({{ site.url }}{{ site.baseurl }}/update/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

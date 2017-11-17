@@ -40,6 +40,6 @@ Si no tienes el archivo script, realízalo manualmente. Necesitas [sistema de ar
 * [Repositorio en Github](https://github.com/neurobin/shc)
 * [Sitio web oficial](https://projects.gnome.org/gst/)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

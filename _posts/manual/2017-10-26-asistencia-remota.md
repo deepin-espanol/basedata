@@ -25,6 +25,6 @@ Al iniciar Deepin, tienes las opción de usar la asistencia remota para que un(a
 
 * [Sitio web ofical](https://www.deepin.org/es/original/deepin-remote-assistance/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

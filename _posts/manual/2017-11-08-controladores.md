@@ -58,6 +58,6 @@ Revisa las [Dudas sobre los controladores]({{ site.url }}{{ site.baseurl }}/tips
 * [Blog de usuario Debian](https://usuariodebian.blogspot.com/2011/04/dkms-dynamic-kernel-module-support.html)
 * [Dudas sobre los controladores]({{ site.url }}{{ site.baseurl }}/tips/dudas-drivers/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

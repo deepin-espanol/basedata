@@ -11,17 +11,6 @@ categories:
 breadcrumb: true
 show_meta: false
 ---
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Índice**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 Te mostramos en unos pasos que puedes hacer para perfeccionar este protal web. Necesitarás conocer un poco el funcionamiento y sentido común.
 
@@ -82,7 +71,3 @@ Para recibir cambios:
 
 ## Lectura adicionales
 * ["Git en Atom"]({{ site.url }}/tips/gitatom/)
-
-
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->

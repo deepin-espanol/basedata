@@ -34,6 +34,6 @@ Tercero. Si fuera necesario, desinstala el driver Nividia y elimina su configura
 * [Problemas al cargar Deepin]({{ site.url }}{{ site.baseurl }}/anexos/badload/).
 * [Solución al controlador Wifi]({{ site.url }}{{ site.baseurl }}/tips/wififix/).
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

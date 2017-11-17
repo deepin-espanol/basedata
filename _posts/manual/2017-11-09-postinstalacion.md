@@ -46,6 +46,6 @@ Gracias por usar Deepin. En Deepin en Español tenemos una colección de artícu
 * [Página dedicada a la instalación]({{ site.url }}{{ site.baseurl }}/instalacion/)
 * [Página dedicada a las actualizaciones]({{ site.url }}{{ site.baseurl }}/update/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

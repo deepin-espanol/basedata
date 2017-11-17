@@ -53,6 +53,6 @@ VLC es capaz de reproducir vídeos que estén comprimidos sin necesidad de extra
 ## Fuente y licencia
 * [Sabías que VLC es más que un reproductor](https://lignux.com/sabias-que-vlc-es-mas-que-un-reproductor-conoce-otros-10-usos-que-le-podemos-dar/), por Noel de Lignux. Licenciado bajo [Creative Commons Atribución-Compartir Igual versión 4.0](https://lignux.com/politica-y-licencia/).
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

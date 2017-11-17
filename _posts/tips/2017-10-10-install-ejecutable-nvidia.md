@@ -38,6 +38,6 @@ iniciamos nuevamente nuestro servidor de las X con:
 `service lightdm start`
 - Y la instalación está lista.
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

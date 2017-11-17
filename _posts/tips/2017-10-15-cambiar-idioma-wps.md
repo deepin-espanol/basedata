@@ -23,6 +23,6 @@ Finalmente configura el idioma y el diccionario desde los ajustes.
 ## Lectura adicional
 * [WPS en Desk.com](http://kingsoftoffice.desk.com/customer/es/portal/articles/1641557-c%C3%B3mo-cambiar-entre-las-interfaces-de-idioma-de-office-wps)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

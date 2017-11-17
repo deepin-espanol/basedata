@@ -46,6 +46,6 @@ Está página es un directorio de comunidades afines a Deepin o Linux para el de
 * [MuyLinux](https://www.muylinux.com)
 * [LinuxHint](https://www.linuxhint.com)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

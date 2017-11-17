@@ -143,7 +143,3 @@ sudo apt-get clean
 * [ComputerWegne](https://computernewage.com/2015/02/22/como-instalar-aplicaciones-en-ubuntu-desde-la-terminal-con-apt-apt-get-y-aptitude/)
 * [Página en Debian](https://www.debian.org/doc/manuals/aptitude/ch01s02.es.html)
 * [comoinstlarlinux.com](https://www.comoinstalarlinux.com/como-solucionar-problemas-al-instalar-o-actualizar-paquetes-en-ubuntu-o-linux-mint/)
-
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}

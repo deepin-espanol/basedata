@@ -102,7 +102,7 @@ No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comuni
 
 
 
-{% include _improve_content.html %}
+
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

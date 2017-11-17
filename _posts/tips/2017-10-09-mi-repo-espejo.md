@@ -66,6 +66,6 @@ Nota: Otras características para mejorar la estabilidad son a criterio de cada 
 ## Lectura adicional
 * Si deseas cooperar con la lista de espejos recomendados para Deepin, envia un mensaje a support@deepin.org (en inglés).
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

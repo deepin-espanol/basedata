@@ -58,6 +58,6 @@ Para instalar, el dispositivo de arranque debe conectarse en otro puerto.
 
 ¿Sabes alguna forma de instalar Deepin? ¡contáctanos desde el menú Nosotros!
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

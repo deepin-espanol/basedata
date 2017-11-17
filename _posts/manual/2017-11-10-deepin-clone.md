@@ -43,6 +43,6 @@ Deepin Recovery se accede en el menú de arranque.
 ## Lectura adicional
 * [Deepin Recovery]({{ site.url }}{{ site.baseurl }}/manual/deepin-recovery)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

@@ -42,6 +42,6 @@ Algunos paquetes tienen una página de configuración temporal almacenada en ´/
 ## Lectura adicional
 * [AskUbuntu](https://askubuntu.com/questions/799212/how-can-i-install-view-the-grub-file-that-a-recent-upgrade-was-providing-but-i-a/799220#799220)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

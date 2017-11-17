@@ -30,6 +30,6 @@ Deepin tiene un centro de control para los ajustes del equipo.
 * Actualizaciones
 * Información del sistema
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

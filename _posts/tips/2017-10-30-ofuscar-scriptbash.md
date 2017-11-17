@@ -35,6 +35,6 @@ Ese método también es usado para generar comandos para acceder servicios, ocul
 * [Ver los archivos desde la terminal]({{ site.url }}{{ site.baseurl }}/tips/archivos-terminal/).
 * [Usando Make Install]({{ site.url }}{{ site.baseurl }}/tips/make-install/)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

@@ -43,6 +43,6 @@ Esta servicio requiere de una cuenta de usuario. Si estás desconfiado puedes us
 * [Información sobre seguridad](https://help.bitwarden.com/article/what-encryption-is-used/)
 * [Artículo en Muy Linux](https://www.muylinux.com/2017/02/02/bitwarden-clon-open-source-lastpass/)
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

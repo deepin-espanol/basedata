@@ -32,9 +32,6 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
         <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-
-
 ## Aplicaciones pesadas
 Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>
 
@@ -51,9 +48,6 @@ Hasta el 2017, no todas las versiones funcionan con éxito, las más recientes n
 
 Fuente: [Wine](https://appdb.winehq.org/appview.php?iAppId=86), [Foro de AutoDesk](https://web.archive.org/web/20171014134437/https://forums.autodesk.com/t5/autocad-forum/autocad-support-for-linux-becoming-a-major-management-decision/td-p/3051192/page/10?nobounce), [Hipertextual](https://web.archive.org/web/20160603181746/http://hipertextual.com:80/2013/09/alternativas-libres-autocad)
 
-
-
-
 ### ¿Puedo instalar Microsoft Office?
 Sí, solo para 2010 y 2013. Hasta octubre de 2016, las versiones de 32 bits funcionan moderadamente como base a Wine 2.3.
 
@@ -62,11 +56,7 @@ De lo contrario, puedes usar una suite ofímatica [en la lista de aplicaciones](
 Fuente: [Wine](https://appdb.winehq.org/objectManager.php?sClass=application&iId=31)
 
 
-
-
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
 No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
-
-{% include _improve_content.html %}

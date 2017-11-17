@@ -43,6 +43,6 @@ Se instala con `sudo apt install powertop`. Y se ejecuta con `sudo powertop`. Si
 * [Código fuene PowerTop](https://github.com/fenrus75/powertop).
 * [Cambiar el núcleo de Linux]({{ site.url }}{{ site.baseurl }}/tips/kernel/)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

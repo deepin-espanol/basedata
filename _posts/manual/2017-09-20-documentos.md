@@ -46,6 +46,6 @@ Además de tus documentos, tienes debajo la lista de dispositivos conectados com
 * Si tienes malestar al abrir o guardar con el gestor de archivos, [desactiva la opción "Usar en otras aplicaciones"]({{ site.url }}/apps/solucion-cuadrodialogo/).
 * Puedes establecer si se montan las unidades automáticamente o quieres abrir con un clic desde los Ajustes.
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

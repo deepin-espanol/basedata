@@ -16,7 +16,7 @@ Esta página forma parte de una <a href="/dudas">serie de traducciones</a> para 
 
 En esta página nos enfocamos en **marcas de Deepin**. Intentamos traducir términos sin infringir las marcas registradas o los derechos comerciales de la empresa.
 
-{% include _improve_content.html %}
+
 
 ## Aplicaciones originales de Deepin {#originales}
 Esta lista define que nombre de aplicación debe traducirse oficialmente o conservarse por motivos de internacionalización.

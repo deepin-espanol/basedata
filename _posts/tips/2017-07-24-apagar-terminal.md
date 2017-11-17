@@ -34,6 +34,6 @@ Suspender:
 pm-suspend
 ~~~
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

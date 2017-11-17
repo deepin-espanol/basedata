@@ -70,6 +70,6 @@ Son las siglas de [Personal Package Archives]](https://es.wikipedia.org/wiki/Arc
 * [Artículo en Linuxadictos](https://www.linuxadictos.com/tutorial-como-instalar-cualquier-paquete-en-gnulinux.html)
 
 ## Lista de aplicaciones
-{: .t60 }
-{% include list-posts categories='apps' entries='10'%}
+
+
 <!--more-->

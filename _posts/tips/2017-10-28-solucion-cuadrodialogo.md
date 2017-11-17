@@ -24,6 +24,6 @@ En la versión 15.4.1 el error ocurren LibreOffice y Audicity.
 ## Fuente
 * [Salmojero Geek](https://salmorejogeek.com/2017/10/27/deepin-y-audacity-mostrar-el-cuadro-de-dialogo-completo-al-exportar-audio/)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+

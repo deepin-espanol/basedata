@@ -27,6 +27,6 @@ Deepin Video es un reproductor multimedia integrado en Deepin, con la posibilida
 
 ## Lectura adicional
 
-### Más en Manual
-{: .t60 }
-{% include list-posts category='manual' entries='3'%}
+
+
+

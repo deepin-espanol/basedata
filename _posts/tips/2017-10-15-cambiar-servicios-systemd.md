@@ -32,6 +32,6 @@ En caso que encuentres un error realcionado a Systemd, puedes iniciar [en modo T
 * [SystemD en Freedesktop](https://www.freedesktop.org/wiki/Software/systemd/)
 * [Artículo de Wikipedia](https://en.wikipedia.org/wiki/Systemd)
 
-### Más en Tips
-{: .t60 }
-{% include list-posts category='tips' entries='3'%}
+
+
+
