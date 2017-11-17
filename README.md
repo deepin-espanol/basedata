@@ -68,3 +68,4 @@ Licenciado bajo Creative Commons Atribution Share-Alkine 4.0.
 
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) para comprimir imagenes
 * [Simpleicons](https://simpleicons.org/icons/telegram.svg) para el logo de Telegram
+* [MethodDraw](http://editor.method.ac/) para editar el archivo vectorial en línea
