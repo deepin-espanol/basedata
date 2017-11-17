@@ -32,10 +32,9 @@ Más detalles: [Manual]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/)
 ### Contraseña
 La cuenta root debe tener una contraseña. Puedes cambiar desde el centro de control u ordenando en la terminal `passwd` y escribir dos veces la nueva contraseña.
 
-{% include alert terminal='sudo passwd' %}
+`sudo passwd`
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
 
 ### Otros detalles
 Si al instalar por primera vez, te olvidaste la contraseña recurre [al tip]({{ site.url }}{{ site.baseurl }}/tips/recuperar-usuario/). Si quieres gestionar los permisos recurre al [otro tip]({{ site.url }}{{ site.baseurl }}/tips/permisos-usuario/).

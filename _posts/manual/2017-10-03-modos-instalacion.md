@@ -56,7 +56,7 @@ Para instalar, el dispositivo de arranque debe conectarse en otro puerto.
         <iframe width="1280" height="720" src="//www.youtube.com/embed/Ud9aW_L67mQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-{% include alert success='¿Sabes alguna forma de instalar Deepin? ¡contáctanos desde el menú Nosotros!' %}
+¿Sabes alguna forma de instalar Deepin? ¡contáctanos desde el menú Nosotros!
 
 ### Más en Manual
 {: .t60 }

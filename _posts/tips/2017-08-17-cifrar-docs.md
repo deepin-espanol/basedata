@@ -16,7 +16,7 @@ tags:
 
 Existen formas de crear una carpeta para cifrar tus documentos. Estarás más o menos a salvo de intrusos incluyendo un código para que accedas desde otra distro compatible. Para eso necesitas permisos de aministrador.
 
-{% include alert warning='Recuerda que este paso es para usuarios con conocimiento de la terminal, algunos detalles fueron omitidos para facilitar su uso.' %}
+Recuerda que este paso es para usuarios con conocimiento de la terminal, algunos detalles fueron omitidos para facilitar su uso.'
 
 ## Requisitos
 

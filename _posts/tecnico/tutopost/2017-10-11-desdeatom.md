@@ -25,7 +25,7 @@ show_meta: false
 
 Te mostramos en unos pasos que puedes hacer para perfeccionar este protal web. Necesitarás conocer un poco el funcionamiento y sentido común.
 
-{% include alert success='Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll' %}
+Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutopost</a>, para desarrollo en Jekyll
 
 ## Paso
 
