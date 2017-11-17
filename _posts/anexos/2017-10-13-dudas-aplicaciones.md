@@ -16,9 +16,6 @@ En esta página respondemos las dudas más comunes relacionadas al funcionamient
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
-
 ## Juegos
 ### ¿Qué juegos puedo instalar?
 En teoría, puedes correr cualquier [juego diseñado para Linux]({{ site.url }}{{ site.baseurl }}/manual/juegos).
@@ -35,8 +32,8 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
         <iframe width="1280" height="720" src="//www.youtube.com/embed/CnSkR96iIpY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Aplicaciones pesadas
 Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>
@@ -46,16 +43,16 @@ Sí. Se puede instalar vía [script desde PlayonLinux](http://www.omgubuntu.co.u
 
 [Gimp]({{ site.url }}{{ site.baseurl }}/apps/gimp/), disponible en Deepin Store, tiene funcionalidades interesantes. Si lo usas, tienes la oportunidad de personalizar su interfaz.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo instalar AutoCad?
 Hasta el 2017, no todas las versiones funcionan con éxito, las más recientes no permiten instalar. Visita [esta lista de alternativas]({{ site.url }}{{ site.baseurl }}/anexos/appsprofesion/)
 
 Fuente: [Wine](https://appdb.winehq.org/appview.php?iAppId=86), [Foro de AutoDesk](https://web.archive.org/web/20171014134437/https://forums.autodesk.com/t5/autocad-forum/autocad-support-for-linux-becoming-a-major-management-decision/td-p/3051192/page/10?nobounce), [Hipertextual](https://web.archive.org/web/20160603181746/http://hipertextual.com:80/2013/09/alternativas-libres-autocad)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo instalar Microsoft Office?
 Sí, solo para 2010 y 2013. Hasta octubre de 2016, las versiones de 32 bits funcionan moderadamente como base a Wine 2.3.
@@ -64,8 +61,8 @@ De lo contrario, puedes usar una suite ofímatica [en la lista de aplicaciones](
 
 Fuente: [Wine](https://appdb.winehq.org/objectManager.php?sClass=application&iId=31)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
