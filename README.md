@@ -12,6 +12,11 @@ Deepin en acción (en nombre clave "Basedata") es una colección de información
 * Tutoriales
 * Y más...
 
+Contienen algunas modificaciones:
+* Añadido Telegram para compartir (post.html)
+* Modificada la página de inicio
+* Añadido Telegram en redes sociales
+
 ## Desarrollo
 
 Base está construído sobre [Jekyll](http://jekyllrb.com/) versión 3.4.3, con soporte para nuevas actualizaciones.
@@ -60,7 +65,7 @@ To add a tutorial/post to a series:
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
 
-### Licencia
+## Licencia
 
 Licenciado bajo Creative Commons Atribution Share-Alkine 4.0.
 
