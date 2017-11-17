@@ -13,7 +13,7 @@ En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe.
 
 En esta página respondemos las dudas relacionadas al uso de la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). .
 
-{% include alert success='Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias' %}
+Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias' %}
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -51,7 +51,7 @@ No. Si has usado "Símbolo de sistema" en Windows, las órdenes tienen algunas d
 ### ¿Qué es sudo?
 Es un juego de palabras relacionadas a "Superuser Do" para conceder como "root". Se debe anteponer `sudo` antes de la frase:
 
-{% include alert terminal='sudo apt update' %}
+`='sudo apt update' %}
 
 Fuente: [Element2048](https://element2048.wordpress.com/2007/02/12/el-comando-su-sudo-y-root/)
 
@@ -75,32 +75,32 @@ Estos son algunos comandos que puedes descubrir. En estos casos, no necesitas es
 ### Ver un tren corriendo
 LLámalo tu primer Hola mundo. Primero asegúrate tener instalado el paquete "sl" (`sudo apt install sl`) y realiza tu primera orden:
 
-{% include alert terminal='sl' %}
+`='sl' %}
 
 ### Mostrar detalles del sistema
 Para mostrar los detalles del equipo sin recurrir a otros programas necesitarás el shell ´inxi´ para ejecutar este comando:
 
-{% include alert terminal='inxi -Fx' %}
+`='inxi -Fx' %}
 
 ### Mostrar aplicaciones más pesadas
 Del shell `debian-goodies` podrás saber las 15 aplicaciones que más quitan espacio en el disco. Aquí usamos dos comandos, mostados con guión:
 
-{% include alert terminal='dpigs -n15 -H' %}
+`='dpigs -n15 -H' %}
 
 ### Ver listado de archivos
 De la página [Abrir archivos y montar unidades desde la terminal]({{ site.url }}{{ site.baseurl }}/tips/archivos-terminal/). Un detalle, para subir o abrir una carpeta usamos `cd`.
 
-{% include alert terminal='ls -l' %}
+`='ls -l' %}
 
 ### Manual de tal shell
 ¡Muy útil! Para conocer qué hace determinado shell usamos `man`. ¿Quieres saber como funciona y cuáles son sus posibilidades? Por ejemplo, para conocer `cd`, un alternativa temporal al gestor de archivos.
 
-{% include alert terminal='man cd' %}
+`='man cd' %}
 
 ### Actualizar el equipo
 Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
 
-{% include alert terminal='apt update' %}
+`='apt update' %}
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).

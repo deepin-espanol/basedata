@@ -75,7 +75,7 @@ mv archivo.txt /home/datos/
 {: .text-right }
 
 ### Borrar archivo
-{% include alert alert='¡No podrás recuerar archivos una vez borrados! Asegúrate escrbir el nombre del archivo correctamente.' %}
+¡No podrás recuerar archivos una vez borrados! Asegúrate escrbir el nombre del archivo correctamente.'
 Para borrar archivos escribimos el temido `rm`:
 
 ~~~

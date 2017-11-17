@@ -14,7 +14,7 @@ En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe.
 
 En esta página respondemos las dudas más comunes relacionadas al funcionamiento de las aplicaciones y algunos incovenientes. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/).
 
-{% include alert success='Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias' %}
+Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -39,7 +39,7 @@ Adicionalmente tendrás que modificiar parte del código para optimizar el siste
 {: .text-right }
 
 ## Aplicaciones pesadas
-{% include alert info='Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>' %}
+Otros artículos de <em>Deepin en Español</em> lo encontarás en <a href="/apps/">la categoría Aplicaciones</a>
 
 ### ¿Puedo instalar Creative Cloud?
 Sí. Se puede instalar vía [script desde PlayonLinux](http://www.omgubuntu.co.uk/2017/10/install-adobe-creative-cloud-linux). Si tienes problemas, puedes usar la versión web de Adobe Cloud o usar su versión para Android (por ejemplo, [Photoshop Fix](https://play.google.com/store/apps/details?id=com.adobe.adobephotoshopfix)), requiere [Genymotion]({{ site.url }}{{ site.baseurl }}/apps/genymotion/) o [similares]({{ site.url }}{{ site.baseurl }}/anexos/guiapps/).

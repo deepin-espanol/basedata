@@ -13,7 +13,7 @@ En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe.
 
 En esta página respondemos las dudas relacionadas al software libre y cómo lo aplicamos en la vida real. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/).
 
-{% include alert success='Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias' %}
+Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
@@ -94,7 +94,7 @@ Esto incluye al entorno de escritorio y las aplicaciones originales. También in
 
 Ten en cuenta que al usar software libre "se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía MERCANTIL implícita o sin garantizar la CONVENIENCIA PARA UN PROPÓSITO PARTICULAR".
 
-{% include alert success='Si quieres conocer la licencia GPL tienes una versión no oficial traducida al español por la [Universidad Rey Juan Carlos](https://web.archive.org/web/20160422085111/http://lslspanish.github.io:80/translation_GPLv3_to_spanish/)' %}
+Si quieres conocer la licencia GPL tienes una versión no oficial traducida al español por la [Universidad Rey Juan Carlos](https://web.archive.org/web/20160422085111/http://lslspanish.github.io:80/translation_GPLv3_to_spanish/)
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }
