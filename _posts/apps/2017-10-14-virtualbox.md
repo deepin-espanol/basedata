@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "VirtualBox"
 subheadline: "Aplicaciones"
@@ -8,7 +9,7 @@ tags:
     - emular
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/D1eYPAtbI24' frameborder='0' allowfullscreen></iframe>"
+video_id: D1eYPAtbI24
 video:
     embedURL: "https://www.youtube.com/embed/D1eYPAtbI24"
     contentURL: "https://www.youtube.com/watch?v=D1eYPAtbI24"

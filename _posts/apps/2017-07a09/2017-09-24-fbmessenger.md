@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Mensajería en Facebook"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - telefonia
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/0ln1GQ4e5lQ' frameborder='0' allowfullscreen></iframe>"
+video_id: 0ln1GQ4e5lQ
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a

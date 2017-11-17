@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Iconos Marea"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - iconos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/xWqdusXXG5k' frameborder='0' allowfullscreen></iframe>"
+video_id: xWqdusXXG5k
 video:
     embedURL: "https://www.youtube.com/embed/xWqdusXXG5k"
     contentURL: "https://www.youtube.com/watch?v=xWqdusXXG5k"

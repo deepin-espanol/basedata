@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Lightworks"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - profesional
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/Zucj0WaNLko' frameborder='0' allowfullscreen></iframe>"
+video_id: Zucj0WaNLko
 video:
     embedURL: "https://www.youtube.com/embed/Zucj0WaNLko"
     contentURL: "https://www.youtube.com/watch?v=Zucj0WaNLko"

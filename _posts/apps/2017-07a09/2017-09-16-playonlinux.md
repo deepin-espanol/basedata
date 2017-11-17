@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "PlayonLinux"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - exe
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/h742fWIe88o' frameborder='0' allowfullscreen></iframe>"
+video_id: h742fWIe88o
 video:
     embedURL: "https://www.youtube.com/embed/h742fWIe88o"
     contentURL: "https://www.youtube.com/watch?v=h742fWIe88o"

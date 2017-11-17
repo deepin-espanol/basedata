@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "WebCatalog"
 subheadline: "Aplicaciones"
@@ -8,7 +9,7 @@ tags:
     - mensajeria
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/qpw_E1ddfJw' frameborder='0' allowfullscreen></iframe>"
+video_id: qpw_E1ddfJw
 video:
     embedURL: "https://www.youtube.com/embed/qpw_E1ddfJw"
     contentURL: "https://www.youtube.com/watch?v=qpw_E1ddfJw"

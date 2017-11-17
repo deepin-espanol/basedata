@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Deepin Windows Installer"
 subheadline: "Aplicaciones"
@@ -11,7 +12,7 @@ tags:
     - originales
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/X9CtS251bv0' frameborder='0' allowfullscreen></iframe>"
+video_id: X9CtS251bv0
 video:
     embedURL: "https://www.youtube.com/embed/X9CtS251bv0"
     contentURL: "https://www.youtube.com/watch?v=X9CtS251bv0"

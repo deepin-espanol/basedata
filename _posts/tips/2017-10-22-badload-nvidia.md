@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Solución al problema de no cargar en tarjetas Nvidia"
 subheadline:  "Tips "

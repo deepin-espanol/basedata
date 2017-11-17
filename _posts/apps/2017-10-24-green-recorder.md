@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Green Recorder"
 subheadline: "Aplicaciones"
@@ -9,7 +10,7 @@ tags:
     - captura
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/vV9sbwgIqb0' frameborder='0' allowfullscreen></iframe>"
+video_id: vV9sbwgIqb0
 video:
     embedURL: "https://www.youtube.com/embed/vV9sbwgIqb0"
     contentURL: "https://www.youtube.com/watch?v=vV9sbwgIqb0"

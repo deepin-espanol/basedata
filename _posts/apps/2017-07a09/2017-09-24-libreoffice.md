@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Libreoffice"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - xpt
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/YfctQCQFrXo' frameborder='0' allowfullscreen></iframe>"
+video_id: YfctQCQFrXo
 video:
     embedURL: "https://www.youtube.com/embed/YfctQCQFrXo"
     contentURL: "https://www.youtube.com/watch?v=YfctQCQFrXo"

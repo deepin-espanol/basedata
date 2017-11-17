@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Ubuntu Cleaner"
 subheadline: "Aplicaciones"
@@ -9,10 +10,10 @@ tags:
     - optimizacion
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/974Zr1FDigE' frameborder='0' allowfullscreen></iframe>"
+video_id: 974Zr1FDigE
 #
 # These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a 
+# is SEO, so that videos show up in Google hopefully with a
 # thumbnail.
 # More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
 #

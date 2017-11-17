@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Ofuscar código script en terminal con Bash"
 subheadline:  "Tips "

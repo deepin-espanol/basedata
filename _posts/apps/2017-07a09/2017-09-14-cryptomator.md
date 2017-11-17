@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Cryptomator"
 subheadline: "Aplicaciones"
@@ -11,7 +12,7 @@ tags:
     - documentos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/g9A0zihHZ14' frameborder='0' allowfullscreen></iframe>"
+video_id: g9A0zihHZ14
 video:
     embedURL: "https://www.youtube.com/embed/g9A0zihHZ14"
     contentURL: "https://www.youtube.com/watch?v=g9A0zihHZ14"

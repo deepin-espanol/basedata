@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Handbrake"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - youtube
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/RxrhYOjcCaY' frameborder='0' allowfullscreen></iframe>"
+video_id: RxrhYOjcCaY
 video:
     embedURL: "https://www.youtube.com/embed/RxrhYOjcCaY"
     contentURL: "https://www.youtube.com/watch?v=RxrhYOjcCaY"

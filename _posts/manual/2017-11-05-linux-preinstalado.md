@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Conseguir dispositivos con Linux preinstalado"
 subheadline:  "Manual"

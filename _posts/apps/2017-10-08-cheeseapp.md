@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Cheese"
 subheadline: "Aplicaciones"
@@ -8,7 +9,7 @@ tags:
     - grabacion
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/QbvzNaurPy8' frameborder='0' allowfullscreen></iframe>"
+video_id: QbvzNaurPy8
 video:
     embedURL: "https://www.youtube.com/embed/QbvzNaurPy8"
     contentURL: "https://www.youtube.com/watch?v=QbvzNaurPy8"

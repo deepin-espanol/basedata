@@ -1,9 +1,10 @@
 ---
+date: 2017-11-17
 type: Document
 #
 # Content
 #
-subheadline: "Tip"
+
 title: "Cifrar mis documentos"
 teaser: "La forma más práctica"
 breadcrumb: true   

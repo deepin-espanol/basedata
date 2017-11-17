@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Bleachbit"
 hide: true
@@ -10,7 +11,7 @@ tags:
     - root
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/hyLb6ZATdkc' frameborder='0' allowfullscreen></iframe>"
+video_id: hyLb6ZATdkc
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a

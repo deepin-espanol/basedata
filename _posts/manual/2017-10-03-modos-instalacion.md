@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Formas de instalar Deepin"
 subheadline:  "Manual"

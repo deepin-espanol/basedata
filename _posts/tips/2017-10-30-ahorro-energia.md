@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Ahorrar energía en Deepin (optimizar en laptop)"
 subheadline:  "Tips "

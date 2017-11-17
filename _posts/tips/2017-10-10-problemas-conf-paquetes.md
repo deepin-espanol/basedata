@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Arreglar los problemas con la configuración de paquetes"
 subheadline:  "Tips "

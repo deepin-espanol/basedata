@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Subsurface"
 subheadline: "Aplicaciones"
@@ -9,7 +10,7 @@ tags:
     - informacion
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/sFuSaY88D1I' frameborder='0' allowfullscreen></iframe>"
+video_id: sFuSaY88D1I
 video:
     embedURL: "https://www.youtube.com/embed/sFuSaY88D1I"
     contentURL: "https://www.youtube.com/watch?v=sFuSaY88D1I"

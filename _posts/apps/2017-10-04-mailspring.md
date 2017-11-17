@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Mailspring"
 subheadline: "Aplicaciones"
@@ -8,7 +9,7 @@ tags:
     - servicio
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/jazAF1DXD7c' frameborder='0' allowfullscreen></iframe>"
+video_id: jazAF1DXD7c
 video:
     embedURL: "https://www.youtube.com/embed/jazAF1DXD7c"
     contentURL: "https://www.youtube.com/watch?v=jazAF1DXD7c"

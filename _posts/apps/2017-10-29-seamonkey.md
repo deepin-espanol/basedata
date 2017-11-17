@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Seamonkey"
 subheadline: "Aplicaciones"
@@ -9,7 +10,7 @@ tags:
     - irc
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/6KUbu1R3tS0' frameborder='0' allowfullscreen></iframe>"
+video_id: 6KUbu1R3tS0
 video:
     embedURL: "https://www.youtube.com/embed/6KUbu1R3tS0"
     contentURL: "https://www.youtube.com/watch?v=6KUbu1R3tS0"

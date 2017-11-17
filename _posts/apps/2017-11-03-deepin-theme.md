@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Iconos Deepin"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - iconos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/AIsmTtFaf2o' frameborder='0' allowfullscreen></iframe>"
+video_id: AIsmTtFaf2o
 video:
     embedURL: "https://www.youtube.com/embed/AIsmTtFaf2o"
     contentURL: "https://www.youtube.com/watch?v=AIsmTtFaf2o"

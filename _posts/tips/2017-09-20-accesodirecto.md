@@ -1,9 +1,10 @@
 ---
+date: 2017-11-17
 type: Document
 #
 # Content
 #
-subheadline: "Tip"
+
 title: "Accesos directos personalizados"
 teaser: "Cómo crear o modificar un acceso directo para tu aplicación"
 breadcrumb: true   

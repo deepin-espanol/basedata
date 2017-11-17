@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "NextCloud"
 subheadline: "Aplicaciones"
@@ -9,7 +10,7 @@ tags:
     - sincronizar
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/G55oYeQa55U' frameborder='0' allowfullscreen></iframe>"
+video_id: G55oYeQa55U
 video:
     embedURL: "https://www.youtube.com/embed/G55oYeQa55U"
     contentURL: "https://www.youtube.com/watch?v=G55oYeQa55U"

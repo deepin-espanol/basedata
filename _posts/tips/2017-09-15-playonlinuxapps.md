@@ -1,9 +1,10 @@
 ---
+date: 2017-11-17
 type: Document
 #
 # Content
 #
-subheadline: "Tip"
+
 title: "Ejecutar juegos para Windows en PlayonLinux"
 teaser: "Para consultar y cambiar"
 breadcrumb: true   

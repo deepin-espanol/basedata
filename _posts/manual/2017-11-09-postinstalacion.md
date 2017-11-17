@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Después de instalar Deepin"
 subheadline:  "Manual"

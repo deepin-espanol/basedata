@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Iconos Halo"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - iconos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/_HalhXRdUiI' frameborder='0' allowfullscreen></iframe>"
+video_id: _HalhXRdUiI
 video:
     embedURL: "https://www.youtube.com/embed/_HalhXRdUiI"
     contentURL: "https://www.youtube.com/watch?v=_HalhXRdUiI"

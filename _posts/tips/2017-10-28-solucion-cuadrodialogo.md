@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Solución a los cuadros de diálogo en Deepin"
 subheadline:  "Tips "

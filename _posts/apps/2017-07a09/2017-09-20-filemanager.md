@@ -1,4 +1,6 @@
 ---
+date: 2017-11-17
+date: 2017-11-17
 layout: video
 title: "Gestor de archivos de Deepin"
 subheadline: "Aplicaciones"
@@ -12,7 +14,7 @@ tags:
     - documentos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/ci5B9XC4Hs4' frameborder='0' allowfullscreen></iframe>"
+video_id: ci5B9XC4Hs4
 video:
     embedURL: "https://www.youtube.com/embed/ci5B9XC4Hs4"
     contentURL: "https://www.youtube.com/watch?v=ci5B9XC4Hs4"

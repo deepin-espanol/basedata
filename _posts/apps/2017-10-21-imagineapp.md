@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Imagine"
 subheadline: "Aplicaciones"
@@ -9,7 +10,7 @@ tags:
     - ligero
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/Qk8ruYY-dGk' frameborder='0' allowfullscreen></iframe>"
+video_id: Qk8ruYY-dGk
 video:
     embedURL: "https://www.youtube.com/embed/Qk8ruYY-dGk"
     contentURL: "https://www.youtube.com/watch?v=Qk8ruYY-dGk"

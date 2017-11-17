@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Configuración de pantalla en Deepin"
 subheadline:  "Manual"

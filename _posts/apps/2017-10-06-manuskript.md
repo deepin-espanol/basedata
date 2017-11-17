@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Manuskript"
 subheadline: "Aplicaciones"
@@ -8,7 +9,7 @@ tags:
     - redaccion
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/cEmatZl73v8' frameborder='0' allowfullscreen></iframe>"
+video_id: cEmatZl73v8
 video:
     embedURL: "https://www.youtube.com/embed/cEmatZl73v8"
     contentURL: "https://www.youtube.com/watch?v=cEmatZl73v8"

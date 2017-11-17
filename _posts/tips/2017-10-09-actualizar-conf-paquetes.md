@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 type: Document
 title:  "Conflcitos con la configuración en nuevos paquetes"
 subheadline:  "Tips "

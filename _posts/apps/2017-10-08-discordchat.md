@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Discord"
 subheadline: "Aplicaciones"
@@ -8,7 +9,7 @@ tags:
     - videojuegos
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/MtDAyK5ASzM' frameborder='0' allowfullscreen></iframe>"
+video_id: MtDAyK5ASzM
 video:
     embedURL: "https://www.youtube.com/embed/MtDAyK5ASzM"
     contentURL: "https://www.youtube.com/watch?v=MtDAyK5ASzM"

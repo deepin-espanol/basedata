@@ -1,4 +1,5 @@
 ---
+date: 2017-11-17
 layout: video
 title: "Crossover"
 subheadline: "Aplicaciones"
@@ -10,7 +11,7 @@ tags:
     - exe
 categories:
     - apps
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/9t3ziMyWkz8' frameborder='0' allowfullscreen></iframe>"
+video_id: 9t3ziMyWkz8
 video:
     embedURL: "https://www.youtube.com/embed/9t3ziMyWkz8"
     contentURL: "https://www.youtube.com/watch?v=9t3ziMyWkz8"
