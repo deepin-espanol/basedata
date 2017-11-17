@@ -17,8 +17,8 @@ En esta página respondemos las dudas relacionadas a los controladores en Deepin
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Preámbulo
 ### ¿Cómo funciona los controladores?
@@ -32,54 +32,54 @@ Sí. Algunos paquetes para optimizar la tarjeta gráfica de NVidia, por ejemplo,
 
 Si al instalar, no puedes iniciar Deepin, [vuelve a instalar Nouveau]({{ site.url }}/tips/badload-nvidia/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cómo arreglar la tarjeta inalámbrica o Wifi?
 Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivos tipo "rompe muros". Si tienes problemas, [este tip te sirve para encontrar una solución a la conectividad WiFi]({{ site.url }}/tips/wififix/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Es posbile arreglar el Bluetooth? ¿Puedo compartir archivos?
 El Bluetooth es un estándar para transferir datos de forma inalámbrica. Basta instalar los paquetes `Bluetooth`, `bluez` y `pulse-audio` (para los audífonos).
 
 Si tienes problemas con la interfaz gráfica, prueba con `blueman` de GNOME.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Existen parches para los microprocesadores?
 Microcode es un controlador que aplica parches de rendimiento a los microprocesadores. En general, existen parches para AMD e Intel.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cómo arreglar el audio de Deepin?
 En Deepin 15.4 se usa [ALSA](https://www.alsa-project.org/main/index.php/Main_Page) (acrónomo de "Advanced Linux Sound Architecture"). Para solucionarlo, [tienes una página con varias opciones]({{ site.url }}/tips/fix-audio/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cómo configuro la impresora?
 Con la aplicación Configuración de impresión (llamada `system-config-printer`). Si quieres conocer la impresora [encontrarás en este manual]({{ site.url }}{{ site.baseurl }}/manual/impresion/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo cambiar el núcleo de Linux para que mi equipo funcione mejor?
 Sí. Esta opción debes considerar como último recurso. Los detalles [encontrarás en el tip]({{ site.url }}{{ site.baseurl }}/tips/kernel/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Recursos adicionales
 * [Lista de portales de consulta](https://www.linux-drivers.org/) por linux-drivers.
 * [Linux Hardware](https://linux-hardware.org/)
 * [h.node](https://h-node.org/home/index/es)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).

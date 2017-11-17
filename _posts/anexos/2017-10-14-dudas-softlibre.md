@@ -15,15 +15,15 @@ En esta página respondemos las dudas relacionadas al software libre y cómo lo 
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Preámbulo
 ### ¿Qué es software libre?
 Un software mencionado como "libre" garantiza la libertad de compartir, estudiar, ejecutar y modificar, sin importar que lucres o decidas. Dicho software requiere de una licencia que justifique, eso lo resumimos como "licencia libre".
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué es una licencia libre?
 Una licencia libre es un requisito. Es ese "contrato" (llámalo "impreso") que te explica los derechos y deberes con que harás al programa.
@@ -34,16 +34,16 @@ En la imagen tienes un ejemplo. De la izquierda está el dominio público (la cu
 
 Lectura adicional: [Licencias libres según FSF](https://www.gnu.org/licenses/licenses.es.html)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué es código abierto?
 El código abierto es otro requisito. Aparte del software ya terminado, tienes la posibilidad de mejorar o evolucionar al producto con el "código fuente". No es obligatorio para el usuario final, ya que necesita tiempo y conocimientos en el lenguaje de programación.
 
 Una de las instituciones que vela por esta regla es [Open Source Iniciative](https://opensource.org/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Aclaraciones
 ### ¿Por qué software libre?
@@ -55,16 +55,16 @@ Hay varios casos para que comprendas esa finalidad:
 
 >Para promover el apoyo entre empresas, desarrolladores y usuario, evitando la obsolescencia programada, la piratería y los inecesarios trámites burocráticos.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Es lo mismo decir "software libre" y "código abierto"?
 En esta infografía te aclaramos esa pregunta.
 
 <img class="t60" src="{{ site.urlimg }}free-vs-gratis.jpg" alt="En la imagen describe los 4 principios del software libre, la diferencia con código abierto, así como las posibilidad de vender con el software libre.">
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo vender un producto si tiene "licencia libre"?
 Sí. Mira este ejemplo.
@@ -73,8 +73,8 @@ Sí. Mira este ejemplo.
         <iframe width="1280" height="720" src="//www.youtube.com/embed/HuoljD3rgVM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿La comunidad puede mejorar el software libre?
 La mayoría de las veces. Las comunidades integran a voluntarios dedicados a mejorar el producto como correcciones de errores, características nuevas o integración en otros dispositivos. Nuestra comunidad es uno de ellos.
@@ -83,8 +83,8 @@ Para que esto funcione es necesario definir los objetivos, ser viable y establec
 
 Lectura adicional: Blog [victorhckinthefreeworld](https://victorhckinthefreeworld.com/2014/06/02/linux-apesta-y-los-linuxeros-tambien/) y [FOSS-heartbeat](http://sarah.thesharps.us/2016/12/30/update-on-sentiment-analysis-of-foss-communities/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Casos prácticos
 ### ¿Deepin es software libre? ¿Cuáles son sus excepciones?
@@ -96,8 +96,8 @@ Ten en cuenta que al usar software libre "se distribuye con la esperanza de que 
 
 Si quieres conocer la licencia GPL tienes una versión no oficial traducida al español por la [Universidad Rey Juan Carlos](https://web.archive.org/web/20160422085111/http://lslspanish.github.io:80/translation_GPLv3_to_spanish/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cuáles son herramientas de software libres?
 Todo lo relacionado a [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman.
@@ -108,8 +108,8 @@ Stall también aportó la Licencia Pública de GNU, una de las más estables en 
 
 Fuente: [FSF](https://www.gnu.org/gnu/linux-and-gnu.es.html)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo distribuir la ISO o el repositorio? ¿Puedo añadir otros programas?
 En general, son software libre los componentes de Deepin (el sistema opearativo) y los componentes desarrollados por la comunidad GNU/Linux. Sin embargo, los terceros no están obligados a usar una licencia libre, incluso si distribuye de forma gratuira.
@@ -118,14 +118,14 @@ Ten cuidado al distribuir la ISO o el respositorio, contiene algunas aplicacione
 
 En el futuro, tendrás una aplicación para elaborar tu propia ISO y establecer tu catálogo sin temor a software restringido por derechos de autor. Además, si quieres realizar tu propio repositorio, puedes modificar en la ISO.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Dónde puedo encontrar una copia de la licencia GPL?
 Desde el centro de Control, ir a "Información del sistema".
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).

@@ -16,8 +16,8 @@ En esta página respondemos las dudas más profundas. Es un complemento a la pá
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Preámbulo y motivaciones
 Queremos explicarte cómo funciona Deepin con las tres primeras preguntas indispensables y una cuarta explicando el motivo.
@@ -30,8 +30,8 @@ Como dato adicional, GNU usa un [intérprete de código fuente a binario](https:
 
 Fuente: [FSF](https://www.gnu.org/gnu/gnu-linux-faq.es.html#why)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué es Linux?
 Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds quien desarrolló y contiene información elemental como controladores de vídeo, de disco duro y muchas más.
@@ -47,8 +47,8 @@ Hasta octubre de 2017, entre las versiones 4.8 y 4.13, el primero LTS, hubo 83 0
 
 Fuente: [Fossbytes](https://fossbytes.com/linux-kernel-development-contributer/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué es Debian?
 [Debian GNU/Linux](https://es.wikipedia.org/wiki/Debian_GNU/Linux) es uno de los proyectos más vetaranos desde 1993. Es la que llamaremos "distribución", porque se encarga de distribuir, organizar y ejecutar una serie de herramientas de software, llamados "paquetes".
@@ -57,8 +57,8 @@ Fuente: [Fossbytes](https://fossbytes.com/linux-kernel-development-contributer/)
         <iframe width="1280" height="720" src="//www.youtube.com/embed/IS9WE6V-1lc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Por qué Deepin depende parcialmente de Debian?
 Para que no te compliques demasiado, Deepin es la distribución hija de Debian. Y Debian es una de las distribuciones más vetaranas.
@@ -68,8 +68,8 @@ Hasta las versión 2014 estuvo basado en Ubuntu, también basada en Debian y una
 
 Si tienes dificultades con la base Debian, puedes usar a sus tios. La versión Manjaro Deepin está basada en Arch y emplea otras tecnologías a profundidad. [Revisa la página Instalación]({{ site.url }}{{ site.baseurl }}/instalacion/). Recuerda que no está siendo desarrollado oficialmente, sino por la comunidad.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Deepin a fondo
 ### ¿Cómo administra los recursos y componentes del sistema Deepin? {#paquetes}
@@ -84,14 +84,14 @@ En resumen, los componentes recibirán **actualizaciones críticas**.
 
 Aún así, si tienes experiencie en cíberseguridad, [revisa el código fuente y reporta cualquier anomalía]({{ site.url }}{{ site.baseurl }}/actividades/audiar-deepin/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Deepin tiene un "modo seguro"?
 Sí. El [Deepin Recovery]({{ site.url }}{{ site.baseurl }}/manual/deepinrecovery/). Contiene una cantidad limitada de aplicaciones, incluyendo algnas para particiones y copias de seguridad.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cómo funciona el entorno gráfico? ¿Qué componentes?
 Deepin tiene su entorno gráfico llamado [Deepin Evolment Desktop]({{ site.url }}{{ site.baseurl }}/tecnico/api/). Es bastante simple que tienes a [Deepin Store]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/) para instalar aplicaciones a unos clics.
@@ -100,8 +100,8 @@ Otras tecnologías están relacionadas a la libería Qt, al entorno de escritori
 
 Fuente: [Manual de Debian](https://www.debian.org/doc/manuals/aptitude/ch02s03s02.es.html)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Deepin usa el núcleo de Linux?
 Sí. El núcleo está basado en una versión a largo plazo (LTS) y modificado por los desarrolladores. Revisa el [código fuente]({{ site.url }}{{ site.baseurl }}/source) y las actividades que [puedes colaborar]({{ site.url }}{{ site.baseurl }}/actividades/kernel/).
@@ -111,8 +111,8 @@ Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo d
 
 Fuente: [Slideplayer](http://slideplayer.es/slide/106215/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué servicios del sistema (alias, "demonios" o "residentes") usa Deepin?
 Un "demonio" es una traducción de "Daemon" y, a la vez, las siglas de Disk And Execution MONitor. Los demonios también tienen paquetes de Debian para actualizarse.
@@ -123,8 +123,8 @@ Deepin tiene un programa llamado [systemd](https://en.wikipedia.org/wiki/Systemd
 
 Para crear servicios de systemd consulta [este artículo](https://www.redeszone.net/2017/09/02/crear-servicios-daemon-ubuntu-systemd/). Para otros demonios menores de la distro madre, visita [Demonios de Debian](https://wiki.debian.org/es/Daemon#Demonios_de_Debian).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Aplicaciones
 ### ¿Cómo gestiona las aplicaciones? ¿Qué recomendamos?
@@ -134,8 +134,8 @@ Empaquetar a Flatpak permite a los desarrolladores tener las últimas mejoras de
 
 Por su puesto, las [aplicaciones originales]({{ site.url }}{{ site.baseurl }}/originales/) están integradas bajo Flatpak por defecto. Disponibles desde la versión 15.5 del sistema operativo. Si quieres conocer este método de instalación visita [flatpak.org](http://flatpak.org/apps.html) o nuestra [página técnica]({{ site.url }}{{ site.baseurl }}/tecnico/flatpak/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo ejecutar aplicaciones que no sean Flatpak?
 Sí. Por ejemplo a Snap, por Cannonical, enfocada en Ubuntu. Está opción es compatible con Deepin para evitar el problema de Dependencias. Otras formas lo puedes consultar en [nuestro manual]({{ site.url }}{{ site.baseurl }}/manual/instalar-apps/).
@@ -143,55 +143,55 @@ Sí. Por ejemplo a Snap, por Cannonical, enfocada en Ubuntu. Está opción es co
 ### ¿Puedo ejecutar aplicaciones pesadas?
 Si usas aplicaciones pesadas exclusivas de Microsoft Windows a Deepin, visita [Dudas sobre aplicaciones]({{ site.url }}{{ site.baseurl }}/anexos/dudas-aplicaciones/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo conseguir una aplicación para que funcione el dispositivo?
 Sí. Echa un vistazo [al anexo]({{ site.url }}{{ site.baseurl }}/anexos/dudas-drivers/). Por defecto el núcleo Linux posee controladores para que funcionen los dispositivos (impresoras, tarjetas de vídeo, etcétera).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Miscelánea
 ### ¿Qué son los permisos de superusuario o administrador (root)?
 Son permisos que permiten modificar los componentes del sistema. Ese permiso no se activa por defecto y necesitarás confirmar primero. Más detalles en el [manual]({{ site.url }}{{ site.baseurl }}/manual/usuarios-root/).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Deepin tiene modo live?
 Sí. Este modo te resultará útil para reparar la partición o probar el sistema antes de instalar. En la versión 15.4 está disponible en la opción "failsafe".
 
 Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.com/how-to-create-deepin-15-4-live-usb-from-linux/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Es posible filtrar contenido de la web?
 Sí. Como [el cortafuegos]({{ site.url }}{{ site.baseurl }}/apps/gufw/) o [la edición del archivo de configuración "host"]({{ site.url }}{{ site.baseurl }}/tips/editar-host/).
 
 Fuente: [Gamblisfx](https://web.archive.org/web/20170606022618/http://gamblisfx.com/how-to-create-deepin-15-4-live-usb-from-linux/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Puedo cifrar la carpeta Mis documentos?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/cifrar-docs/). Por el momento, en Deepin 15.4 no tienes la opción de cifrar desde el centro de control.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cómo ahorrar y diagnosticar el consumo de energía?
 Sí. Echa un vistazo [al tip]({{ site.url }}{{ site.baseurl }}/tips/ahorro-energia/). El centro de control tiene algunas opciones, por curiosidad.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué contenido adicional sobre Linux me recomiendas?
 Si quieres estar más al tanto sobre Deepin, [al directorio extra]({{ site.url }}{{ site.baseurl }}/anexos/directorio-extra/). Hay personas como tú que también están usando GNU/Linux de forma normal.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).

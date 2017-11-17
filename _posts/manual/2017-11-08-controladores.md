@@ -22,8 +22,8 @@ Un controlador (también "driver" o "rutina") es un software encargado de enviar
         <iframe width="1280" height="720" src="//www.youtube.com/embed/d5BQwOowSiA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Para qué sirve el controlador
 El controlador, mayormente un DKMS, cubre a
@@ -37,8 +37,8 @@ El controlador, mayormente un DKMS, cubre a
 
 Hay varios métodos, por ingeniería inversa (el controlador fue elaborado por un conocedor del tema), la comunidad de Linux o el proveedor (oficialmente).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Controladores y los gráficos
 Algunos controladores gráficos usan [OpenGL](https://www.opengl.org/) y Vulkan (bajo el auspicio del Grupo Khronos) para ejecutar aplicaciones con imágenes sofisticadas. Incluso los juegos de Windows compatibles con OpenGL tienen [la posibilidad de funcionar en Deepin]({{ site.url }}/manual/exeapps/) como alternativa a Direct3D.

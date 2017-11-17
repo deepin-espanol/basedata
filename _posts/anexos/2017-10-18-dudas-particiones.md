@@ -16,8 +16,8 @@ En esta página respondemos las dudas relacionadas a las particiones en Deepin. 
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Preámbulo
 ### ¿Qué es una partición?
@@ -25,8 +25,8 @@ Una partición es un contenedor del disco duro que almacena datos. Las particion
 
 Fuente: [Planeta Fedoraa](https://planetafedora.wordpress.com/acerca-de-particiones-y-puntos-de-montaje-tipos-de-formato-y-tamanos/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Cuántas particiones puedo tener en mi disco duro?
 Eso dependerá de la estructura de disco duro. Para eso necesitarás de un sistema para gestionar particiones llamada "tabla". Por defecto se usa MBR, Registro de arranque principal en inglés.
@@ -35,8 +35,8 @@ En esa tabla tienes un máximo de 4 contenedores llamadas "particiones primarias
 
 Fuente: [Planeta Fedoraa](https://planetafedora.wordpress.com/acerca-de-particiones-y-puntos-de-montaje-tipos-de-formato-y-tamanos/)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Porqué usamos particiones EXT4?
 En Gnu/Linux usamos el sistema de archivos extendido o EXT, de código abierto y libre de patentes. Fue presentado en 1992 con la primera versión de Linux. Un año después se implementaría su segunda versión para usar en particiones con varios giga-octetos (GB) de almacenamiento.

@@ -29,8 +29,8 @@ Ir atrás
 cd..
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Lista de archivos
 Si quieres conocer los archivos que encontramos en la carpeta recurrimos al `ls`:
@@ -45,8 +45,8 @@ Para ver el tipo de archivo, usamos en su lugar:
 ls -F
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Leer archivos de sólo textos
 Para ver el contenido del archivo recurrimos a `more`. Sin embargo, lo que veremos es sólo el texto sin formato. También es útil para conocer lo hay adentro del archivo como "ejecutables"  antes de instalar.
@@ -60,8 +60,8 @@ head -20 archivo
 tail archivo
 tail -20 archivo
 ~~~
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Copiar y mover archivos
 Para copiar y mover archivos usamos `cp` y `mv`. Por ejemplo, si quiero mover `archivo.txt` a `/home/datos/` hacemos lo siguiente:
@@ -71,8 +71,8 @@ cp archivo.txt /home/datos/
 mv archivo.txt /home/datos/
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Borrar archivo
 ¡No podrás recuerar archivos una vez borrados! Asegúrate escrbir el nombre del archivo correctamente.'
@@ -82,8 +82,8 @@ Para borrar archivos escribimos el temido `rm`:
 rm [nombre del archivo]
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Unidades externas
 ### Montar el dispositivo USB
@@ -106,8 +106,8 @@ mount -t vfat /dev/sdb1 /media/usb
 ls /media/usb
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### Cambiar permisos de lectura y escritura
 
@@ -117,8 +117,8 @@ Para cambiar los permisos recurrimos a esta opción:
 sudo mount / -o remount,rw
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 
 ## Lectura adicional

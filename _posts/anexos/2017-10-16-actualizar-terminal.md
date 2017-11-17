@@ -45,8 +45,8 @@ Una forma más sencilla de actualizar es escribir full-upgrade y añadir `-y` al
 sudo apt full-upgrade -y
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ### ¿Qué paquetes voy a actualizar?
 Para comprobar los paquetes que irás a actualizar, escribe `apt list`. No requiere derechos de administrador.
@@ -55,8 +55,8 @@ Para comprobar los paquetes que irás a actualizar, escribe `apt list`. No requi
 apt list —upgradable
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 
 ### ¿Cómo gestionar los paquetes?
@@ -74,8 +74,8 @@ Debido a que no requiere la intervención del ratón, tienes que conocer los ata
     </div><!-- /.medium-4.columns -->
 </div>
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Errores comunes
 #### Veo el mensaje "Dependencias incompletas"
@@ -89,8 +89,8 @@ sudo apt-get -f install
 
 Si los problemas persisten, revisa [la sección Dudas técnicas]({{ site.url }}{{ site.baseurl }}/anexos/dudas-tecnicas#conflicto)
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 #### Dice que el archivo está sources.list protegido
 Eso se debe a que las actualizaciones centro de control están haciendo el trabajo de actualizar. Reinicia el equipo (método seguro) o ejecuta en la terminal
@@ -101,14 +101,14 @@ sudo rm /var/cache/apt/archives/lock & sudo rm /var/lib/dpkg/lock & sudo rm /var
 
 Nota: Este código usa `rm` para borrar los archivos `lock` de las tres carpetas.
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 #### Me avisó que hay una nueva configuración disponible
 Está expresada en oraciones como "El distribuidor del paquete ha publicado una version actualizada". Recomendamos aceptar los nuevos cambios (en general, escribir ´y´ y pulsar ´Enter´). Más detalles en [la sección Tips]({{ site.url }}{{ site.baseurl }}/tips/actualizar-conf-paquetes).
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 #### Hay paquetes huérfanos
 Este comando sirve para eliminarlos.
@@ -116,8 +116,8 @@ Este comando sirve para eliminarlos.
 sudo apt autoremove
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 #### Veo el mensaje "Sub-process /usr/bin/dpkg returned an error code(1)"
 Se debe a que la cola de instalaciones está en pausa, vulve a ejecutar:
@@ -126,8 +126,8 @@ Se debe a que la cola de instalaciones está en pausa, vulve a ejecutar:
 sudo dpkg –configure -a
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 #### No puedo instalar porque los paquetes están corruptos
 Este comando sirve para limpiar la caché.
@@ -135,8 +135,8 @@ Este comando sirve para limpiar la caché.
 sudo apt-get clean
 ~~~
 
-<small markdown="1">[Ir al índice](#toc)</small>
-{: .text-right }
+
+
 
 ## Lectura adicional
 * [Blog de jcsis](https://jcsis.wordpress.com/2016/04/28/solucionar-el-problemas-de-dependencias-en-ubuntu-o-debian/)
