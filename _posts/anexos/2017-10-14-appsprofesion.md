@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title: "Guía de aplicaciones por profesión"
 subheadline: "Apliaciones"
 teaser: "Catálogo de aplicaciones para cada profesión o rama laboral."

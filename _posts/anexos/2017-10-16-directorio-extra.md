@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title:  "Directorio complementarios"
 teaser: "Para quienes necesitan más aporte más allá de Deepin"
 categories:

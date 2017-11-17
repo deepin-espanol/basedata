@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Encabezado del post 2"
 subheadline: "Ayuda"
 teaser: "Ejemplos más complejos"
@@ -40,7 +40,7 @@ Nota 2: Otros detalles encontrarás en [página Extra]({{ site.url }}/tecnico/ex
 ### Page/Post
 El formato página/post no tiene texto lateral por defecto, su contenido está centrado y debajo de ella conteiene metadatos como categorías, etiquetas, fecha de creación y autor.
 
-Al comenzar la edición añade el código: `layout: page`
+Al comenzar la edición añade el código: `type: Document`
 
 ### Page/Post con lateral izquierda o derecho
 Para mostrar un lateral, añade `sidebar: left` o `sidebar: right` y en el front matter, y *vaya, es todo*. El contenido del lateral proviene del archivo `_includes/sidebar`.
@@ -53,7 +53,7 @@ Al mostrar metadatos como categorías, etiquetas y otros, incluye el código `sh
 ### Page Full Width
 Las páginas panorámicas o de ancho completo son apropiadas para añadir tablas o galerías. Otros detalles encontrarás en [foundation grid system](http://foundation.zurb.com/docs/components/grid.html).
 
-En front matter usa: `layout: page-fullwidth`
+En front matter usa: `type: Document`
 
 
 ### Frontpage

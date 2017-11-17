@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Dudas técnicas sobre Deepin"
 teaser: "Para que los especialistas conozcan a detalle"
 categories:

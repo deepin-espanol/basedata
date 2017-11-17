@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Solución al problema de no cargar en tarjetas Nvidia"
 subheadline:  "Tips "
 teaser: "Cómo arreglar la tarjeta Nvidia mal instalada"

@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Configuración de pantalla en Deepin"
 subheadline:  "Manual"
 teaser: "Calibrando los monitores para tu escritorio"

@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Usar GNOME System Tools"
 subheadline:  "Tips "
 teaser: "Una solución rápida y efectivo si el centro de control falla"

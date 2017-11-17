@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title: "Aplicaciones preinstaladas"
 subheadline: "Apliaciones"
 teaser: "Empieza tranquilo con las aplicaciones disponibles desde su instalación."

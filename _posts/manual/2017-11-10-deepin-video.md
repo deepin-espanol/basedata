@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Deepin Video"
 subheadline:  "Manual"
 teaser: "Ver vídeos en Deepin"

@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title: "Guía de equivalencias con aplicaciones de Deepin"
 subheadline: "Apliaciones"
 teaser: "Qué aplicaciones son traducidas o no."

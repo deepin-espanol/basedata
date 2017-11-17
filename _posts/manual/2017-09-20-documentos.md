@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Mis documentos"
 subheadline:  "Manual"
 teaser: "Un vistazo a tus documentos y al gestor de archivos de Deepin"

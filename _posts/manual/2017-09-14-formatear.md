@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Formatear particiones"
 subheadline:  "Manual"
 teaser: "Organizando archivos en particiones"

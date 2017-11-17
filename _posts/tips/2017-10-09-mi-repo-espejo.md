@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Elaborar un repositorio espejo"
 subheadline:  "Tips "
 teaser: "Consigue una copia del repositorio Deepin para proveer a otros usuarios"

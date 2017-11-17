@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Cambiar idioma en WPS"
 subheadline:  "Tips "
 teaser: "Ofimática en español"

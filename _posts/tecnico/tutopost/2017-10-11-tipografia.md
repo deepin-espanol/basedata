@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Tipografía y HTML5"
 subheadline: "Info"
 meta_teaser: "En Feeling Responsive usamos Volkhov para encabezado, Lato para el cuerpo del texto y Lucida Console para código."

@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Formas de instalar Deepin"
 subheadline:  "Manual"
 teaser: "Seamos creativos"

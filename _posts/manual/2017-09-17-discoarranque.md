@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Elaborar disco de arranque"
 subheadline:  "Manual"
 teaser: "Elabora el instalador en tu USB o DVD"

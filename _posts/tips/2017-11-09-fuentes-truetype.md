@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Usar Make Install"
 subheadline:  "Tips "
 teaser: "Si no es un paquete Debian o Flatpak, te enseñamos a instalar de otra forma"

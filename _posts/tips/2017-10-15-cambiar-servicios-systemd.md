@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Configurando systemd con chkservice"
 subheadline:  "Tips "
 teaser: "Establece los servicios del sistema a tu gusto"

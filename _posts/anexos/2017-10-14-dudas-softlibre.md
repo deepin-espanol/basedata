@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Dudas sobre software libre en Deepin"
 teaser: "El porqué de usar software con dichas características"
 categories:

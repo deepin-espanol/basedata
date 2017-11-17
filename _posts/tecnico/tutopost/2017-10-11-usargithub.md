@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Subir desde Github"
 subheadline: "Ayuda"
 teaser: "Para quienes usen la web"

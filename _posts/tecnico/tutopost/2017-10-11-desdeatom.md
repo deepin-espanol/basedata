@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Editar desde Atom"
 subheadline: "Ayuda"
 teaser: "La forma más sencilla de añadir publicaciones sin rodeos"

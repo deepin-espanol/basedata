@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Conseguir dispositivos con Linux preinstalado"
 subheadline:  "Manual"
 teaser: "Si quieres comprar un dispositivo para usar Deepin, puedes hacerlo"

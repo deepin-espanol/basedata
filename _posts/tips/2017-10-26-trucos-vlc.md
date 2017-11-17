@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Trucos para aprovechar VLC"
 subheadline:  "Tips "
 teaser: "Aporte del blog Lignux, puedes usar otras utilidades aparte de descargar y mirrar vídeos"

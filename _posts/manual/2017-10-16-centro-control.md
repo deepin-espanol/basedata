@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Centro de control"
 subheadline:  "Manual"
 teaser: "Ajustes del sistema"

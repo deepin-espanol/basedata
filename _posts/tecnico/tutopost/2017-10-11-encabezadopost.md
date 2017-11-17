@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Encabezado del post"
 subheadline: "Ayuda"
 teaser: "Qué encabezado debe tener el post"
@@ -36,7 +36,7 @@ Al crear un archivo 12-12-titulo.md, tendrás que presentar el título y otras p
 
 ~~~
 ---
-layout: page
+type: Document
 #
 # Contenido
 #
@@ -63,7 +63,7 @@ Eso es opcional, añade una imagen para decorar el contenido. El resultado serí
 
 ~~~
 ---
-layout: page
+type: Document
 #
 # Contenido
 #
@@ -144,7 +144,7 @@ breadcrumb: true
 
 Puedes usar comentarios con *Feeling Responsive* cortesía de Disqus. Si usas Disqus-Comments abre `config.yml` y establece en el `disqus_shortname`. [Sitio web de Disqus ›](https://disqus.com/websites/)
 
-Por defecto, están desactivados y puedes personalizar en `config.yml`. Para **activar comentarios** añade el código `comments: true` debajo de `layout: page`.
+Por defecto, están desactivados y puedes personalizar en `config.yml`. Para **activar comentarios** añade el código `comments: true` debajo de `type: Document`.
 
 <small markdown="1">[Ir al índice](#toc)</small>
 {: .text-right }

@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title:  "Dudas al actualizar desde la terminal"
 teaser: "Un servicio para proveer contraseñas"
 categories:

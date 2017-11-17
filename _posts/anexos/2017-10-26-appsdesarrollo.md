@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title: "Guía de aplicaciones para desarrolles"
 subheadline: "Apliaciones"
 teaser: "Aprende a programar con el tipo de código."

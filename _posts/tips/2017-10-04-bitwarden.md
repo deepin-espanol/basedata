@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Bitwarden"
 subheadline:  "Tips"
 teaser: "Un servicio para proveer contraseñas"

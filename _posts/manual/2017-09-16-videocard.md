@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Tarjeta de vídeo"
 subheadline:  "Manual"
 teaser: "Revisando la calidad gráfica"

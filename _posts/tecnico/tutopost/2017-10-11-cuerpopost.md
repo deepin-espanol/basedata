@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Cuerpo del post"
 subheadline: "Ayuda"
 teaser: "Qué más puedes añadir en los posts"

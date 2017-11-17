@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Abrir archivos y montar unidades desde la terminal"
 subheadline:  "Tips "
 teaser: "Usando 'cd' para ver las carpetas y otros trucos"

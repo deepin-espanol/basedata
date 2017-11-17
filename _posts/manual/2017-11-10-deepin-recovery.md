@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Deepin Recovery"
 subheadline:  "Manual"
 teaser: "Modo recuperación en Deepin"

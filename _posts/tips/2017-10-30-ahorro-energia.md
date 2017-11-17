@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Ahorrar energía en Deepin (optimizar en laptop)"
 subheadline:  "Tips "
 teaser: "Sacando provecho del ahorro energético en computadoras portátiles"

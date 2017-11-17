@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 sidebar: right
 sidebar: left
 subheadline: Manual

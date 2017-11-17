@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Solución a los cuadros de diálogo en Deepin"
 subheadline:  "Tips "
 teaser: "Cambiar el cuadro para que las aplicaciones pueden usar a su modo"

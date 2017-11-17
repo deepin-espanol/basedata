@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Usuarios y Root"
 subheadline:  "Manual"
 teaser: "Desde las cuentas corrientas hasta los permisos de adminsitrador"

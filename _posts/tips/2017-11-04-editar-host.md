@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Recuperar contraseña de usuario"
 subheadline:  "Tips "
 teaser: "Para quienes no pueden acceder la cuenta de usuario"

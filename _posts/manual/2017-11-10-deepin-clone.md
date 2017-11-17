@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Deepin Clone"
 subheadline:  "Manual"
 teaser: "Respaldo de archivos en Deepin"

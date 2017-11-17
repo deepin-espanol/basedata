@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Dudas sobre los contradores en Deepin"
 teaser: "Ayudando a probar los dispositivos de la PC"
 categories:

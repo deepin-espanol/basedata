@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Ofuscar código script en terminal con Bash"
 subheadline:  "Tips "
 teaser: "Un truco para hacer el ejecutable con código inaccesible"

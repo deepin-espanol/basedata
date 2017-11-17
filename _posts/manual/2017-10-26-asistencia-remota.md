@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Asistencia remota"
 subheadline:  "Manual"
 teaser: "Usando la asistencia remota de Deepin"

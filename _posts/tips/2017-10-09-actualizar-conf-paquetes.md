@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Conflcitos con la configuración en nuevos paquetes"
 subheadline:  "Tips "
 teaser: "Solucionando el problema de cambiar los paquetes actualizados"

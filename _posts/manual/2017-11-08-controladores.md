@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Controladores"
 subheadline:  "Manual"
 teaser: "Qué y cómo funciona el controlador"

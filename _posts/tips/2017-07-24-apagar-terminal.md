@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 sidebar: right
 subheadline: Tip
 title:  "Apagar, reiniciar e hibernar desde la terminal"

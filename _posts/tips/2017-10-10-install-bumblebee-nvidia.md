@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Instalar Nvidia Bumblebee"
 subheadline:  "Tips "
 teaser: "Un controlador para laptops con dicha marca de video"

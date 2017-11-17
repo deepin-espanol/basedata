@@ -1,5 +1,5 @@
 ---
-layout: page
+type: Document
 title:  "Gestionar permisos de usuario"
 subheadline:  "Tips "
 teaser: "Quiénes pueden modificar el equipo, para impedir instrusos"

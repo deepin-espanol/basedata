@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+type: Document
 title: "Cómo hacemos los posts"
 subheadline: "Ayuda"
 teaser: "Un vistazo para hacer artículos para principianes"
