@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Cambiar idioma en WPS"
 subheadline:  "Tips "
-teaser: "Ofimática en español"
+description: "Ofimática en español"
 breadcrumb: true
 categories:
     - tips

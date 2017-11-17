@@ -6,7 +6,7 @@ type: Document
 #
 
 title: "Accesos directos personalizados"
-teaser: "Cómo crear o modificar un acceso directo para tu aplicación"
+description: "Cómo crear o modificar un acceso directo para tu aplicación"
 breadcrumb: true   
 categories:
   - tips

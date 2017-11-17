@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Bitwarden"
 subheadline:  "Tips"
-teaser: "Un servicio para proveer contraseñas"
+description: "Un servicio para proveer contraseñas"
 breadcrumb: true   
 categories:
     - tips

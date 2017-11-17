@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Trucos para aprovechar VLC"
 subheadline:  "Tips "
-teaser: "Aporte del blog Lignux, puedes usar otras utilidades aparte de descargar y mirrar vídeos"
+description: "Aporte del blog Lignux, puedes usar otras utilidades aparte de descargar y mirrar vídeos"
 breadcrumb: true
 categories:
     - tips

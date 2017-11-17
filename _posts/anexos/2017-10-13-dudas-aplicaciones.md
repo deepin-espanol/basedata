@@ -1,7 +1,7 @@
 ---
 type: Document
 title: "Dudas más frecuentes sobre las aplicaciones"
-teaser: "Ayudando a que las aplicaciones funcionen"
+description: "Ayudando a que las aplicaciones funcionen"
 categories:
     - anexos
 tags:

@@ -2,18 +2,15 @@
 date: 2017-11-17
 layout: video
 title: "WebCatalog"
-subheadline: "Aplicaciones"
-teaser: "Varias aplicaciones web en uno"
+
+description: "Varias aplicaciones web en uno"
 tags:
     - cliente
     - mensajeria
 categories:
     - apps
 video_id: qpw_E1ddfJw
-video:
-    embedURL: "https://www.youtube.com/embed/qpw_E1ddfJw"
-    contentURL: "https://www.youtube.com/watch?v=qpw_E1ddfJw"
-    thumbnailUrl: "http://img.youtube.com/vi/qpw_E1ddfJw/maxresdefault.jpg"
+
 ---
 <!--more-->
 

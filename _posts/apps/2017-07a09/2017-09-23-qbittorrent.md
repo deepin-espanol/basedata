@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Qbittorrent"
-subheadline: "Aplicaciones"
-teaser: "Cliente torrent por excelencia"
+
+description: "Cliente torrent por excelencia"
 tags:
     - torrent
     - descarga
@@ -12,20 +12,7 @@ tags:
 categories:
     - apps
 video_id: wQHFLba-AGE
-#
-# These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a
-# thumbnail.
-# More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
-#
-# embedURL – A URL pointing to a player for the specific video.
-# contentURL – A URL pointing to the actual video media file
-# thumbnailUrl – A URL pointing to the video thumbnail image file.
-#
-video:
-    embedURL: "https://www.youtube.com/embed/wQHFLba-AGE"
-    contentURL: "https://www.youtube.com/watch?v=wQHFLba-AGE"
-    thumbnailUrl: "http://img.youtube.com/vi/wQHFLba-AGE/maxresdefault.jpg"
+
 ---
 <!--more-->
 

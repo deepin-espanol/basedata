@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Recuperar contraseña de usuario"
 subheadline:  "Tips "
-teaser: "Para quienes no pueden acceder la cuenta de usuario"
+description: "Para quienes no pueden acceder la cuenta de usuario"
 breadcrumb: true
 categories:
     - tips

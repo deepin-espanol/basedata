@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Configurando systemd con chkservice"
 subheadline:  "Tips "
-teaser: "Establece los servicios del sistema a tu gusto"
+description: "Establece los servicios del sistema a tu gusto"
 breadcrumb: true
 categories:
     - tips

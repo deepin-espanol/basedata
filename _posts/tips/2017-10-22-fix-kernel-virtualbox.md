@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Corregir problema del kernel de VirtualBox"
 subheadline:  "Tips "
-teaser: "Extaído del foro de Deepin"
+description: "Extaído del foro de Deepin"
 breadcrumb: true
 categories:
     - tips

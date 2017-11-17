@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Después de instalar Deepin"
 subheadline:  "Manual"
-teaser: "Un guía para empezar Deepin con fuerza"
+description: "Un guía para empezar Deepin con fuerza"
 sidebar: right
 breadcrumb: true
 categories:

@@ -1,7 +1,7 @@
 ---
 type: Document
 title: "Dudas sobre los contradores en Deepin"
-teaser: "Ayudando a probar los dispositivos de la PC"
+description: "Ayudando a probar los dispositivos de la PC"
 categories:
     - anexos
 tags:

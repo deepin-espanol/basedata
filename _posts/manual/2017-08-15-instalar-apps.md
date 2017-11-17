@@ -5,7 +5,7 @@ sidebar: right
 sidebar: left
 subheadline: Manual
 title:  "Instalar aplicaciones Deepin"
-teaser: "Deepin Store y más."
+description: "Deepin Store y más."
 breadcrumb: true
 tags:
     - terminal

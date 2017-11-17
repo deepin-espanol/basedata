@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Instalar Nvidia Bumblebee"
 subheadline:  "Tips "
-teaser: "Un controlador para laptops con dicha marca de video"
+description: "Un controlador para laptops con dicha marca de video"
 breadcrumb: true
 categories:
     - tips

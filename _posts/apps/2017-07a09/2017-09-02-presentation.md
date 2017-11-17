@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Deepin Presentation Assistant"
-subheadline: "Aplicaciones"
-teaser: "Móvil a PC."
+
+description: "Móvil a PC."
 tags:
     - comnutacion
     - pc
@@ -13,10 +13,7 @@ tags:
 categories:
     - apps
 video_id: j2O6Ag-2pyg
-video:
-    embedURL: "https://www.youtube.com/embed/j2O6Ag-2pyg"
-    contentURL: "https://www.youtube.com/watch?v=j2O6Ag-2pyg"
-    thumbnailUrl: "http://img.youtube.com/vi/j2O6Ag-2pyg/maxresdefault.jpg"
+
 ---
 <!--more-->
 

@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Deepin Windows Installer"
-subheadline: "Aplicaciones"
-teaser: "Instala Deepin como si fuera una aplicación Windows."
+
+description: "Instala Deepin como si fuera una aplicación Windows."
 tags:
     - windows
     - instalar
@@ -13,10 +13,7 @@ tags:
 categories:
     - apps
 video_id: X9CtS251bv0
-video:
-    embedURL: "https://www.youtube.com/embed/X9CtS251bv0"
-    contentURL: "https://www.youtube.com/watch?v=X9CtS251bv0"
-    thumbnailUrl: "http://img.youtube.com/vi/X9CtS251bv0/maxresdefault.jpg"
+
 ---
 <!--more-->
 

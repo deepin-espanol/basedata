@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Tarjeta de vídeo"
 subheadline:  "Manual"
-teaser: "Revisando la calidad gráfica"
+description: "Revisando la calidad gráfica"
 sidebar: right
 breadcrumb: true
 categories:

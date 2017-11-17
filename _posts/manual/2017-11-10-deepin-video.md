@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Deepin Video"
 subheadline:  "Manual"
-teaser: "Ver vídeos en Deepin"
+description: "Ver vídeos en Deepin"
 sidebar: right
 breadcrumb: true
 categories:

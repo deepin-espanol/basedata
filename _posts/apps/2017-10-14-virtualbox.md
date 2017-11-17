@@ -2,18 +2,14 @@
 date: 2017-11-17
 layout: video
 title: "VirtualBox"
-subheadline: "Aplicaciones"
-teaser: "Virtualizando otros sistemas operativos"
+description: "Virtualizando otros sistemas operativos"
 tags:
     - virtualizacion
     - emular
 categories:
     - apps
 video_id: D1eYPAtbI24
-video:
-    embedURL: "https://www.youtube.com/embed/D1eYPAtbI24"
-    contentURL: "https://www.youtube.com/watch?v=D1eYPAtbI24"
-    thumbnailUrl: "http://img.youtube.com/vi/D1eYPAtbI24/maxresdefault.jpg"
+
 ---
 <!--more-->
 

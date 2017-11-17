@@ -2,18 +2,15 @@
 date: 2017-11-17
 layout: video
 title: "OpenToonz"
-subheadline: "Aplicaciones"
-teaser: "La ayuda perfecta para la animación tradicional"
+
+description: "La ayuda perfecta para la animación tradicional"
 tags:
     - animacion
     - dibujos
 categories:
     - apps
 video_id: RhzfEzndpgM
-video:
-    embedURL: "https://www.youtube.com/embed/RhzfEzndpgM"
-    contentURL: "https://www.youtube.com/watch?v=RhzfEzndpgM"
-    thumbnailUrl: "http://img.youtube.com/vi/RhzfEzndpgM/maxresdefault.jpg"
+
 ---
 <!--more-->
 

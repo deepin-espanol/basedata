@@ -4,7 +4,7 @@ type: Document
 sidebar: right
 subheadline: Tip
 title:  "Apagar, reiniciar e hibernar desde la terminal"
-teaser: "Para casos extremos, hay que descansar a la máquina."
+description: "Para casos extremos, hay que descansar a la máquina."
 breadcrumb: true
 tags:
     - deepin

@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Abrir archivos y montar unidades desde la terminal"
 subheadline:  "Tips "
-teaser: "Usando 'cd' para ver las carpetas y otros trucos"
+description: "Usando 'cd' para ver las carpetas y otros trucos"
 breadcrumb: true
 categories:
     - tips

@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Deepin Recovery"
 subheadline:  "Manual"
-teaser: "Modo recuperación en Deepin"
+description: "Modo recuperación en Deepin"
 sidebar: right
 breadcrumb: true
 categories:

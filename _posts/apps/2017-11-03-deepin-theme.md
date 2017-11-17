@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Iconos Deepin"
-subheadline: "Aplicaciones"
-teaser: "El tema original."
+
+description: "El tema original."
 tags:
     - originales
     - graficos
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: AIsmTtFaf2o
-video:
-    embedURL: "https://www.youtube.com/embed/AIsmTtFaf2o"
-    contentURL: "https://www.youtube.com/watch?v=AIsmTtFaf2o"
-    thumbnailUrl: "http://img.youtube.com/vi/AIsmTtFaf2o/maxresdefault.jpg"
+
 ---
 <!--more-->
 

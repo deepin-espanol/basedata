@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Green Recorder"
-subheadline: "Aplicaciones"
-teaser: "Sencilla herramienta para realizar grabaciones en pantalla, con seguimiento, audio incluido y selección de área"
+
+description: "Sencilla herramienta para realizar grabaciones en pantalla, con seguimiento, audio incluido y selección de área"
 tags:
     - screencast
     - grabacion
@@ -11,10 +11,7 @@ tags:
 categories:
     - apps
 video_id: vV9sbwgIqb0
-video:
-    embedURL: "https://www.youtube.com/embed/vV9sbwgIqb0"
-    contentURL: "https://www.youtube.com/watch?v=vV9sbwgIqb0"
-    thumbnailUrl: "http://img.youtube.com/vi/vV9sbwgIqb0/maxresdefault.jpg"
+
 ---
 <!--more-->
 

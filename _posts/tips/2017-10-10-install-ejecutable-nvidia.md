@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Instalar el controlador NVidia desde su ejecutable"
 subheadline:  "Tips "
-teaser: "Una referencia para instalar archivos desde su sitio web"
+description: "Una referencia para instalar archivos desde su sitio web"
 breadcrumb: true
 categories:
     - tips

@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "NextCloud"
-subheadline: "Aplicaciones"
-teaser: "Tu almacenamiento en la nube"
+
+description: "Tu almacenamiento en la nube"
 tags:
     - archivos
     - nube
@@ -11,10 +11,7 @@ tags:
 categories:
     - apps
 video_id: G55oYeQa55U
-video:
-    embedURL: "https://www.youtube.com/embed/G55oYeQa55U"
-    contentURL: "https://www.youtube.com/watch?v=G55oYeQa55U"
-    thumbnailUrl: "http://img.youtube.com/vi/G55oYeQa55U/maxresdefault.jpg"
+
 ---
 <!--more-->
 

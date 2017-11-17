@@ -3,8 +3,8 @@ date: 2017-11-17
 layout: video
 title: "Bleachbit"
 hide: true
-subheadline: "Aplicaciones"
-teaser: "Limpieza para mejor rendimiento y privacidad."
+
+description: "Limpieza para mejor rendimiento y privacidad."
 tags:
     - limpieza
     - ahorro
@@ -12,20 +12,7 @@ tags:
 categories:
     - apps
 video_id: hyLb6ZATdkc
-#
-# These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a
-# thumbnail.
-# More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
-#
-# embedURL – A URL pointing to a player for the specific video.
-# contentURL – A URL pointing to the actual video media file
-# thumbnailUrl – A URL pointing to the video thumbnail image file.
-#
-video:
-    embedURL: "https://www.youtube.com/embed/hyLb6ZATdkc"
-    contentURL: "https://www.youtube.com/watch?v=hyLb6ZATdkc"
-    thumbnailUrl: "http://img.youtube.com/vi/hyLb6ZATdkc/maxresdefault.jpg"
+
 ---
 <!--more-->
 

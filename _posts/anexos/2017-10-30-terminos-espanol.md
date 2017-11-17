@@ -2,7 +2,7 @@
 type: Document
 title: "Palabras frecuentes al español"
 subheadline: "Apliaciones"
-teaser: "Traducciones a nombres, acciones o términos del sistema operativo."
+description: "Traducciones a nombres, acciones o términos del sistema operativo."
 categories:
     - anexos
 tags:

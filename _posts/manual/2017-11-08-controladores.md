@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Controladores"
 subheadline:  "Manual"
-teaser: "Qué y cómo funciona el controlador"
+description: "Qué y cómo funciona el controlador"
 sidebar: right
 breadcrumb: true
 categories:

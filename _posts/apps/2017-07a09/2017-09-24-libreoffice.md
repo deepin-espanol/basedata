@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Libreoffice"
-subheadline: "Aplicaciones"
-teaser: "Crea y edita documentos."
+
+description: "Crea y edita documentos."
 tags:
     - lo
     - office
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: YfctQCQFrXo
-video:
-    embedURL: "https://www.youtube.com/embed/YfctQCQFrXo"
-    contentURL: "https://www.youtube.com/watch?v=YfctQCQFrXo"
-    thumbnailUrl: "http://img.youtube.com/vi/YfctQCQFrXo/maxresdefault.jpg"
+
 ---
 <!--more-->
 

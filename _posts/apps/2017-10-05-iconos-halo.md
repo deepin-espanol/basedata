@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Iconos Halo"
-subheadline: "Aplicaciones"
-teaser: "Originales para Deepin."
+
+description: "Originales para Deepin."
 tags:
     - solidos
     - pastel
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: _HalhXRdUiI
-video:
-    embedURL: "https://www.youtube.com/embed/_HalhXRdUiI"
-    contentURL: "https://www.youtube.com/watch?v=_HalhXRdUiI"
-    thumbnailUrl: "http://img.youtube.com/vi/_HalhXRdUiI/maxresdefault.jpg"
+
 ---
 <!--more-->
 

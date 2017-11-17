@@ -6,7 +6,7 @@ type: Document
 #
 
 title: "Ejecutar juegos para Windows en PlayonLinux"
-teaser: "Para consultar y cambiar"
+description: "Para consultar y cambiar"
 breadcrumb: true   
 categories:
   - tips

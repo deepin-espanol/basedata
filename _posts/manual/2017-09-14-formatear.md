@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Formatear particiones"
 subheadline:  "Manual"
-teaser: "Organizando archivos en particiones"
+description: "Organizando archivos en particiones"
 sidebar: right
 breadcrumb: true
 categories:

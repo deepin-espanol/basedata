@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Handbrake"
-subheadline: "Aplicaciones"
-teaser: "Convierte y aligera vídeos."
+
+description: "Convierte y aligera vídeos."
 tags:
     - video
     - editor
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: RxrhYOjcCaY
-video:
-    embedURL: "https://www.youtube.com/embed/RxrhYOjcCaY"
-    contentURL: "https://www.youtube.com/watch?v=RxrhYOjcCaY"
-    thumbnailUrl: "http://img.youtube.com/vi/RxrhYOjcCaY/maxresdefault.jpg"
+
 ---
 <!--more-->
 

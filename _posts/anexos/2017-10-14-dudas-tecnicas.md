@@ -1,7 +1,7 @@
 ---
 type: Document
 title: "Dudas técnicas sobre Deepin"
-teaser: "Para que los especialistas conozcan a detalle"
+description: "Para que los especialistas conozcan a detalle"
 categories:
     - anexos
 tags:

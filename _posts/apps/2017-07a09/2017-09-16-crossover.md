@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Crossover"
-subheadline: "Aplicaciones"
-teaser: "Ejecuta aplicaciones Windows en Linux."
+
+description: "Ejecuta aplicaciones Windows en Linux."
 tags:
     - windows
     - aplicaciones
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: 9t3ziMyWkz8
-video:
-    embedURL: "https://www.youtube.com/embed/9t3ziMyWkz8"
-    contentURL: "https://www.youtube.com/watch?v=9t3ziMyWkz8"
-    thumbnailUrl: "http://img.youtube.com/vi/9t3ziMyWkz8/maxresdefault.jpg"
+
 ---
 <!--more-->
 

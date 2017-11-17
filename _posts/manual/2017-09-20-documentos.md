@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Mis documentos"
 subheadline:  "Manual"
-teaser: "Un vistazo a tus documentos y al gestor de archivos de Deepin"
+description: "Un vistazo a tus documentos y al gestor de archivos de Deepin"
 sidebar: right
 breadcrumb: true
 categories:

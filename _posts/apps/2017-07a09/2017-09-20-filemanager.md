@@ -3,8 +3,8 @@ date: 2017-11-17
 date: 2017-11-17
 layout: video
 title: "Gestor de archivos de Deepin"
-subheadline: "Aplicaciones"
-teaser: "Instala Deepin como si fuera una aplicación Windows."
+
+description: "Instala Deepin como si fuera una aplicación Windows."
 breadcrumb: true    
 tags:
     - originales
@@ -15,10 +15,7 @@ tags:
 categories:
     - apps
 video_id: ci5B9XC4Hs4
-video:
-    embedURL: "https://www.youtube.com/embed/ci5B9XC4Hs4"
-    contentURL: "https://www.youtube.com/watch?v=ci5B9XC4Hs4"
-    thumbnailUrl: "http://img.youtube.com/vi/ci5B9XC4Hs4/maxresdefault.jpg"
+
 ---
 <!--more-->
 

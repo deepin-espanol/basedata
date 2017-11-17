@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Configuración de pantalla en Deepin"
 subheadline:  "Manual"
-teaser: "Calibrando los monitores para tu escritorio"
+description: "Calibrando los monitores para tu escritorio"
 sidebar: right
 breadcrumb: true
 categories:

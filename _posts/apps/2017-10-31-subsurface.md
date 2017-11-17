@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Subsurface"
-subheadline: "Aplicaciones"
-teaser: "Explorando dentro del planeta"
+
+description: "Explorando dentro del planeta"
 tags:
     - acuatico
     - exploracion
@@ -11,10 +11,7 @@ tags:
 categories:
     - apps
 video_id: sFuSaY88D1I
-video:
-    embedURL: "https://www.youtube.com/embed/sFuSaY88D1I"
-    contentURL: "https://www.youtube.com/watch?v=sFuSaY88D1I"
-    thumbnailUrl: "http://img.youtube.com/vi/sFuSaY88D1I/maxresdefault.jpg"
+
 ---
 <!--more-->
 

@@ -2,18 +2,15 @@
 date: 2017-11-17
 layout: video
 title: "Discord"
-subheadline: "Aplicaciones"
-teaser: "Asistente para crear historias"
+
+description: "Asistente para crear historias"
 tags:
     - comunicacion
     - videojuegos
 categories:
     - apps
 video_id: MtDAyK5ASzM
-video:
-    embedURL: "https://www.youtube.com/embed/MtDAyK5ASzM"
-    contentURL: "https://www.youtube.com/watch?v=MtDAyK5ASzM"
-    thumbnailUrl: "http://img.youtube.com/vi/MtDAyK5ASzM/maxresdefault.jpg"
+
 ---
 <!--more-->
 

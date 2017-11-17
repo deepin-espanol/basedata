@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "PlayonLinux"
-subheadline: "Aplicaciones"
-teaser: "Ejecuta aplicaciones Windows en Linux."
+
+description: "Ejecuta aplicaciones Windows en Linux."
 tags:
     - windows
     - aplicaciones
@@ -12,10 +12,6 @@ tags:
 categories:
     - apps
 video_id: h742fWIe88o
-video:
-    embedURL: "https://www.youtube.com/embed/h742fWIe88o"
-    contentURL: "https://www.youtube.com/watch?v=h742fWIe88o"
-    thumbnailUrl: "http://img.youtube.com/vi/h742fWIe88o/maxresdefault.jpg"
 
 ---
 

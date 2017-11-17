@@ -1,7 +1,7 @@
 ---
 type: Document
 title:  "Directorio complementarios"
-teaser: "Para quienes necesitan más aporte más allá de Deepin"
+description: "Para quienes necesitan más aporte más allá de Deepin"
 categories:
     - anexos
 tags:

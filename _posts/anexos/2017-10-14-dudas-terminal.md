@@ -1,7 +1,7 @@
 ---
 type: Document
 title: "Dudas sobre la terminal en Deepin"
-teaser: "Si te complicas con las órdenes, escríbelas"
+description: "Si te complicas con las órdenes, escríbelas"
 categories:
     - anexos
 tags:

@@ -2,7 +2,7 @@
 type: Document
 title: "Guía de equivalencias con aplicaciones de Deepin"
 subheadline: "Apliaciones"
-teaser: "Qué aplicaciones son traducidas o no."
+description: "Qué aplicaciones son traducidas o no."
 categories:
     - anexos
 tags:

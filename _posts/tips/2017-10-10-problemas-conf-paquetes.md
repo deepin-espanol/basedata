@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Arreglar los problemas con la configuración de paquetes"
 subheadline:  "Tips "
-teaser: "Arreglando tu equipo de la forma fácil"
+description: "Arreglando tu equipo de la forma fácil"
 breadcrumb: true
 categories:
     - tips

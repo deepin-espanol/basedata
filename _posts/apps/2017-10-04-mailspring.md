@@ -2,18 +2,15 @@
 date: 2017-11-17
 layout: video
 title: "Mailspring"
-subheadline: "Aplicaciones"
-teaser: "Correo basado en Nylas"
+
+description: "Correo basado en Nylas"
 tags:
     - correo
     - servicio
 categories:
     - apps
 video_id: jazAF1DXD7c
-video:
-    embedURL: "https://www.youtube.com/embed/jazAF1DXD7c"
-    contentURL: "https://www.youtube.com/watch?v=jazAF1DXD7c"
-    thumbnailUrl: "http://img.youtube.com/vi/jazAF1DXD7c/maxresdefault.jpg"
+
 ---
 <!--more-->
 

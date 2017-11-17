@@ -2,7 +2,7 @@
 type: Document
 title: "Guía de aplicaciones por profesión"
 subheadline: "Apliaciones"
-teaser: "Catálogo de aplicaciones para cada profesión o rama laboral."
+description: "Catálogo de aplicaciones para cada profesión o rama laboral."
 categories:
     - anexos
 tags:

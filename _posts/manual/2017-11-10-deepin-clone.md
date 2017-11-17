@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Deepin Clone"
 subheadline:  "Manual"
-teaser: "Respaldo de archivos en Deepin"
+description: "Respaldo de archivos en Deepin"
 sidebar: right
 breadcrumb: true
 categories:

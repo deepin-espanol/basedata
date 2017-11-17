@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Imagine"
-subheadline: "Aplicaciones"
-teaser: "Compresor de imágenes"
+
+description: "Compresor de imágenes"
 tags:
     - imagen
     - mini
@@ -11,10 +11,7 @@ tags:
 categories:
     - apps
 video_id: Qk8ruYY-dGk
-video:
-    embedURL: "https://www.youtube.com/embed/Qk8ruYY-dGk"
-    contentURL: "https://www.youtube.com/watch?v=Qk8ruYY-dGk"
-    thumbnailUrl: "http://img.youtube.com/vi/Qk8ruYY-dGk/maxresdefault.jpg"
+
 ---
 <!--more-->
 

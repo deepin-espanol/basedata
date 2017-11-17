@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Elaborar un repositorio espejo"
 subheadline:  "Tips "
-teaser: "Consigue una copia del repositorio Deepin para proveer a otros usuarios"
+description: "Consigue una copia del repositorio Deepin para proveer a otros usuarios"
 breadcrumb: true
 categories:
     - tips

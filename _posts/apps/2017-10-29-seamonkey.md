@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Seamonkey"
-subheadline: "Aplicaciones"
-teaser: "Gana espacio eliminando archivos repetidos como fotos duplicadas y muchos más"
+
+description: "Gana espacio eliminando archivos repetidos como fotos duplicadas y muchos más"
 tags:
     - navegador
     - web
@@ -11,10 +11,7 @@ tags:
 categories:
     - apps
 video_id: 6KUbu1R3tS0
-video:
-    embedURL: "https://www.youtube.com/embed/6KUbu1R3tS0"
-    contentURL: "https://www.youtube.com/watch?v=6KUbu1R3tS0"
-    thumbnailUrl: "http://img.youtube.com/vi/6KUbu1R3tS0/maxresdefault.jpg"
+
 ---
 <!--more-->
 

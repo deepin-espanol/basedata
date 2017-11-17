@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Ubuntu Cleaner"
-subheadline: "Aplicaciones"
-teaser: "Mensajería instantánea sin ánimo de lucro."
+
+description: "Mensajería instantánea sin ánimo de lucro."
 tags:
     - limpieza
     - cleaner
@@ -11,20 +11,7 @@ tags:
 categories:
     - apps
 video_id: 974Zr1FDigE
-#
-# These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a
-# thumbnail.
-# More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
-#
-# embedURL – A URL pointing to a player for the specific video.
-# contentURL – A URL pointing to the actual video media file
-# thumbnailUrl – A URL pointing to the video thumbnail image file.
-#
-video:
-    embedURL: "https://www.youtube.com/embed/974Zr1FDigE"
-    contentURL: "https://www.youtube.com/watch?v=974Zr1FDigE"
-    thumbnailUrl: "http://img.youtube.com/vi/974Zr1FDigE/maxresdefault.jpg"
+
 ---
 <!--more-->
 

@@ -2,18 +2,15 @@
 date: 2017-11-17
 layout: video
 title: "Manuskript"
-subheadline: "Aplicaciones"
-teaser: "Asistente para crear historias"
+
+description: "Asistente para crear historias"
 tags:
     - libros
     - redaccion
 categories:
     - apps
 video_id: cEmatZl73v8
-video:
-    embedURL: "https://www.youtube.com/embed/cEmatZl73v8"
-    contentURL: "https://www.youtube.com/watch?v=cEmatZl73v8"
-    thumbnailUrl: "http://img.youtube.com/vi/cEmatZl73v8/maxresdefault.jpg"
+
 ---
 <!--more-->
 

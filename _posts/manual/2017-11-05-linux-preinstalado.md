@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Conseguir dispositivos con Linux preinstalado"
 subheadline:  "Manual"
-teaser: "Si quieres comprar un dispositivo para usar Deepin, puedes hacerlo"
+description: "Si quieres comprar un dispositivo para usar Deepin, puedes hacerlo"
 sidebar: right
 breadcrumb: true
 categories:

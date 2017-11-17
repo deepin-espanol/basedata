@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Centro de control"
 subheadline:  "Manual"
-teaser: "Ajustes del sistema"
+description: "Ajustes del sistema"
 sidebar: right
 breadcrumb: true
 categories:

@@ -6,7 +6,7 @@ type: Document
 #
 
 title: "Cifrar mis documentos"
-teaser: "La forma más práctica"
+description: "La forma más práctica"
 breadcrumb: true   
 categories:
   - tips

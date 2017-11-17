@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Gestionar permisos de usuario"
 subheadline:  "Tips "
-teaser: "Quiénes pueden modificar el equipo, para impedir instrusos"
+description: "Quiénes pueden modificar el equipo, para impedir instrusos"
 breadcrumb: true
 categories:
     - tips

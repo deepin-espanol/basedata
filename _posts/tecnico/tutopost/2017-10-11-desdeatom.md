@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title: "Editar desde Atom"
 subheadline: "Ayuda"
-teaser: "La forma más sencilla de añadir publicaciones sin rodeos"
+description: "La forma más sencilla de añadir publicaciones sin rodeos"
 tags:
     - tutopost
 categories:

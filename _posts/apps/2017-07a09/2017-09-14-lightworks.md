@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Lightworks"
-subheadline: "Aplicaciones"
-teaser: "Edición de vídeo especial."
+
+description: "Edición de vídeo especial."
 tags:
     - video
     - cine
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: Zucj0WaNLko
-video:
-    embedURL: "https://www.youtube.com/embed/Zucj0WaNLko"
-    contentURL: "https://www.youtube.com/watch?v=Zucj0WaNLko"
-    thumbnailUrl: "http://img.youtube.com/vi/Zucj0WaNLko/maxresdefault.jpg"
+
 ---
 <!--more-->
 

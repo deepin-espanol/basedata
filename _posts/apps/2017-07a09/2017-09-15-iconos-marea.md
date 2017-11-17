@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Iconos Marea"
-subheadline: "Aplicaciones"
-teaser: "Originales para Deepin."
+
+description: "Originales para Deepin."
 tags:
     - marea
     - frescura
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: xWqdusXXG5k
-video:
-    embedURL: "https://www.youtube.com/embed/xWqdusXXG5k"
-    contentURL: "https://www.youtube.com/watch?v=xWqdusXXG5k"
-    thumbnailUrl: "http://img.youtube.com/vi/xWqdusXXG5k/maxresdefault.jpg"
+
 ---
 <!--more-->
 

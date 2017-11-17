@@ -3,7 +3,7 @@ date: 2017-11-17
 layout: video
 title: "YouPHPtube"
 subheadline: "Aplicaciones para servidores"
-teaser: "Tu propio portal de vídeos."
+description: "Tu propio portal de vídeos."
 tags:
     - servidor
     - propio
@@ -12,10 +12,7 @@ tags:
 categories:
     - apps
 video_id: OQ7FI06DYRs
-video:
-    embedURL: "https://www.youtube.com/embed/OQ7FI06DYRs"
-    contentURL: "https://www.youtube.com/watch?v=OQ7FI06DYRs"
-    thumbnailUrl: "http://img.youtube.com/vi/OQ7FI06DYRs/maxresdefault.jpg"
+
 ---
 <!--more-->
 

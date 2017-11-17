@@ -3,7 +3,7 @@ date: 2017-11-17
 type: Document
 title:  "Usuarios y Root"
 subheadline:  "Manual"
-teaser: "Desde las cuentas corrientas hasta los permisos de adminsitrador"
+description: "Desde las cuentas corrientas hasta los permisos de adminsitrador"
 sidebar: right
 breadcrumb: true
 categories:

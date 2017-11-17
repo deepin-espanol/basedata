@@ -2,8 +2,8 @@
 date: 2017-11-17
 layout: video
 title: "Cryptomator"
-subheadline: "Aplicaciones"
-teaser: "Tu almacenamiento privado."
+
+description: "Tu almacenamiento privado."
 tags:
     - cifrado
     - privado
@@ -13,10 +13,7 @@ tags:
 categories:
     - apps
 video_id: g9A0zihHZ14
-video:
-    embedURL: "https://www.youtube.com/embed/g9A0zihHZ14"
-    contentURL: "https://www.youtube.com/watch?v=g9A0zihHZ14"
-    thumbnailUrl: "http://img.youtube.com/vi/g9A0zihHZ14/maxresdefault.jpg"
+
 ---
 <!--more-->
 
