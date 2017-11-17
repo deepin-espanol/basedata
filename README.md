@@ -63,3 +63,8 @@ To add a tutorial/post to a series:
 ### Licencia
 
 Licenciado bajo Creative Commons Atribution Share-Alkine 4.0.
+
+### Agradecimientos
+
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) para comprimir imagenes
+* [Simpleicons](https://simpleicons.org/icons/telegram.svg) para el logo de Telegram

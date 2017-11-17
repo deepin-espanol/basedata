@@ -1,16 +1,24 @@
 - name:
-  link: https://facebook.com/
+  link: https://www.facebook.com/DeepinOSenEspanol/
   new_window: true
   social_icon: Facebook
 - name:
-  link: https://twitter.com/
+  link: https://twitter.com/linux_deepin
   social_icon: Twitter
   new_window: true
 - name:
-  link: https://youtube.com/
+  link: https://www.youtube.com/channel/UCsy5zMxbAeeWlvBsuC9mLWg
   social_icon: YouTube
   new_window: true
-- name: 
+- name:
+  link: https://plus.google.com/communities/115544729561220868525
+  social_icon: Google Plus
+  new_window: true
+- name:
+  link: https://t.me/deepinenespanol
+  social_icon: Telegram
+  new_window: true
+- name:
   link: /feed.xml
   social_icon: RSS
   new_window: false
