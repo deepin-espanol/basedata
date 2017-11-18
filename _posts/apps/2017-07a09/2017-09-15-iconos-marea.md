@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "Iconos Marea"
 
 description: "Originales para Deepin."

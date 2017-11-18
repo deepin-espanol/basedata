@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "FlightGear"
 description: "Simulación de vuelo libre"
 tags:

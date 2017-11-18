@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "Deepin Windows Installer"
 
 description: "Instala Deepin como si fuera una aplicación Windows."

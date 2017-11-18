@@ -1,5 +1,5 @@
 ---
-layout: video
+type: Video
 date: 2017-11-17
 title: "Iconos Deepin"
 description: "El tema original"

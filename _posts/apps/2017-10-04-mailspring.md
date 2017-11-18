@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "Mailspring"
 description: "Correo basado en Nylas"
 tags:

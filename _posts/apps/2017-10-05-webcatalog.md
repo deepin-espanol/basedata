@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "WebCatalog"
 description: "Varias aplicaciones web en uno"
 tags:

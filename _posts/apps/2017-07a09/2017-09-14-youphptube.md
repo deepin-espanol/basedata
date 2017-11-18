@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "YouPHPtube"
 subheadline: "Aplicaciones para servidores"
 description: "Tu propio portal de vídeos."

@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "Seamonkey"
 description: "Gana espacio eliminando archivos repetidos como fotos duplicadas y muchos más"
 tags:

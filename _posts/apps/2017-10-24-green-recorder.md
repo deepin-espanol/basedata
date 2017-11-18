@@ -1,6 +1,6 @@
 ---
 date: 2017-11-17
-layout: video
+type: Video
 title: "Green Recorder"
 description: "Sencilla herramienta para realizar grabaciones en pantalla, con seguimiento, audio incluido y selección de área"
 tags:

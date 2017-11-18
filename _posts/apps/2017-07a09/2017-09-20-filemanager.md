@@ -1,7 +1,7 @@
 ---
 date: 2017-11-17
 date: 2017-11-17
-layout: video
+type: Video
 title: "Gestor de archivos de Deepin"
 description: "Instala Deepin como si fuera una aplicación Windows."
 tags:
