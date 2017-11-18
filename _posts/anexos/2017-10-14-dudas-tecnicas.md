@@ -31,16 +31,21 @@ Es el núcleo del sistema operativo y el más usado. Es el propio Linus Torvalds
 
 Hasta octubre de 2017, entre las versiones 4.8 y 4.13, el primero LTS, hubo 83 000 cambios admitidos de 4300 desarrolladores de 519 corporaciones. Esa 4.13 tiene más de 24.7 millones líneas de código escritas en más de 60 000 archivos.
 
-{% include youtube.html video_id=UUJ0dFpj1-M %}
-
-{% include youtube.html video_id=o8NPllzkFhE %}
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/UUJ0dFpj1-M?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/o8NPllzkFhE?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Fuente: [Fossbytes](https://fossbytes.com/linux-kernel-development-contributer/)
 
 ### ¿Qué es Debian?
 [Debian GNU/Linux](https://es.wikipedia.org/wiki/Debian_GNU/Linux) es uno de los proyectos más vetaranos desde 1993. Es la que llamaremos "distribución", porque se encarga de distribuir, organizar y ejecutar una serie de herramientas de software, llamados "paquetes".
 
-{% include youtube.html video_id=IS9WE6V-1lc %}
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/IS9WE6V-1lc?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### ¿Por qué Deepin depende parcialmente de Debian?
 Para que no te compliques demasiado, Deepin es la distribución hija de Debian. Y Debian es una de las distribuciones más vetaranas.
