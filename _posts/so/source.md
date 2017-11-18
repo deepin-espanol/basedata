@@ -3,6 +3,8 @@ title: "Código fuente"
 description: "Para desarrollar Deepin a fondo"
 type: Document
 set: sistema-operativo
+categories: sistema-operativo
+date: 2017-11-16
 set_order: 5
 ---
 

@@ -2,7 +2,10 @@
 title: "Código fuente"
 description: "Para desarrollar Deepin a fondo"
 type: Document
+set: guia-rapida
+categories: sistema-operativo
 set: sistema-operativo
+date: 2017-11-16
 set_order: 3
 ---
 

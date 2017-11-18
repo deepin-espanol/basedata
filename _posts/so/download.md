@@ -3,6 +3,8 @@ title: "Cómo descargar Deepin"
 description: "En varios portales y espejos web"
 type: Document
 set: sistema-operativo
+categories: sistema-operativo
+date: 2017-11-16
 set_order: 1
 resources:
   - name: SourceForge
