@@ -7,7 +7,7 @@ description: "La forma más sencilla de añadir publicaciones sin rodeos"
 tags:
     - tutopost
 categories:
-    - tecnico
+    - técnico
 ---
 
 Te mostramos en unos pasos que puedes hacer para perfeccionar este protal web. Necesitarás conocer un poco el funcionamiento y sentido común.
