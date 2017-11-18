@@ -2,9 +2,9 @@
 # Site
 
 title: Ayuda de Deepin en Español
-url: "https://deepin.ovh"
+url: "https://ayuda.deepin.ovh"
 # TODO: Nombre provisional
-baseurl: "/basedata"
+baseurl: ""
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
