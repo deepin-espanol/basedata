@@ -2,7 +2,7 @@
 title: "Novedades y avances en Deepin"
 description: "Apuntes importantes en el desarrollo de Deepin"
 type: Document
-set: sistema-operativo
+set: guia-rapida
 categories: sistema-operativo
 date: 2017-11-16
 set_order: 4

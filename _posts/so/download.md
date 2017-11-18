@@ -2,7 +2,7 @@
 title: "Cómo descargar Deepin"
 description: "En varios portales y espejos web"
 type: Document
-set: sistema-operativo
+set: guia-rapida
 categories: sistema-operativo
 date: 2017-11-16
 set_order: 1
