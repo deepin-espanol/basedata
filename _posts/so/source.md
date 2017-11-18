@@ -3,7 +3,7 @@ title: "Código fuente"
 description: "Para desarrollar Deepin a fondo"
 type: Document
 set: sistema-operativo
-set_order: 4
+set_order: 5
 ---
 
 ## Componentes de código abierto

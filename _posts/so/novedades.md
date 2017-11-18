@@ -1,11 +1,9 @@
 ---
-layout: page-fullwidth
-title: "Novedades y avances"
-subheadline: "Sistema operativo"
-teaser: "Recopilado de mejoras y próximos proyectos en Deepin."
-header:
-   image_fullwidth: "wallpaper.jpg"
-permalink: "/novedades/"
+title: "Novedades y avances en Deepin"
+description: "Apuntes importantes en el desarrollo de Deepin"
+type: Document
+set: sistema-operativo
+set_order: 4
 ---
 Este es la página recopilatoria de ideas y propuestas para mejorar Deepin. Por motivos de tiempo, no añadimos las próximas mejoras, lo haremos en la categoría Noticias. Palabra.
 
