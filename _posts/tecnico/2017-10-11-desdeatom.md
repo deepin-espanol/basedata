@@ -8,8 +8,6 @@ tags:
     - tutopost
 categories:
     - tecnico
-breadcrumb: true
-show_meta: false
 ---
 
 Te mostramos en unos pasos que puedes hacer para perfeccionar este protal web. Necesitarás conocer un poco el funcionamiento y sentido común.
