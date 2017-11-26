@@ -8,8 +8,8 @@ tags:
     - office
     - doc
     - xpt
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: YfctQCQFrXo
 ---
 

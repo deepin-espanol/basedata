@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Elaborar disco de arranque"
 description: "Elabora el instalador en tu USB o DVD"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - arranque
     - cd
     - dvd

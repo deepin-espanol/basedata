@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Después de instalar Deepin"
 description: "Un guía para empezar Deepin con fuerza"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - usuarios
     - permisos
     - administrador

@@ -6,8 +6,8 @@ description: "Haz sorpresas con tu cámara"
 tags:
     - camara
     - grabacion
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: QbvzNaurPy8
 ---
 

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Deepin Video"
 description: "Ver vídeos en Deepin"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - videos
     - multimedia
     - originales

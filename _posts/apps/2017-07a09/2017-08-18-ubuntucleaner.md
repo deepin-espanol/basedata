@@ -7,8 +7,8 @@ tags:
     - limpieza
     - cleaner
     - optimizacion
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: 974Zr1FDigE
 
 ---

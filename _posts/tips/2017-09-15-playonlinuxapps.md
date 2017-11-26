@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title: "Ejecutar juegos para Windows en PlayonLinux"
 description: "Para consultar y cambiar"
-categories:
-  - tips
 tags:
+  - tips y trucos
   - juegos
   - windows
   - playonlinux

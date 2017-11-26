@@ -9,8 +9,8 @@ tags:
     - frescura
     - sencillez
     - iconos
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: xWqdusXXG5k
 ---
 

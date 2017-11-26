@@ -2,9 +2,8 @@
 type: Document
 title:  "Directorio complementarios"
 description: "Para quienes necesitan más aporte más allá de Deepin"
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - directorio
     - destacado
     - ayuda

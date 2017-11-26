@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Controladores"
 description: "Qué y cómo funciona el controlador"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - driver
     - dispositivos
 ---

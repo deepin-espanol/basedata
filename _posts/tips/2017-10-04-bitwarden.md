@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Bitwarden"
 description: "Un servicio para proveer contraseñas"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - password
     - server
     - gestor

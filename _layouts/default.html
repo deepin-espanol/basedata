@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
-		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400italic,400,300italic,300,700,700italic|Open+Sans:400italic,600italic,700italic,700,600,400|Inconsolata:400,700">
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" type="text/css">
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Muli:400italic,600italic,700italic,700,600,400|Inconsolata:400,700">
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+		{% include _favicon.html %}
+		{% include _redirecturl.html %}
 
 		{% seo %}
 		{% feed_meta %}
@@ -33,12 +33,14 @@
 		<header>
 			<div class="wrapper">
 				<section class="top-bar">
-					<div class="logo"><a href="/">{% include logo.html %}</a></div>
+					<div class="logo"><a href="/">{% include logo.html %}<span>Deepin en Español</span></a></div>
 					{% include navigation.html %}
+					{% include right-navigation.html %}
 				</section>
 				<section class="hero_search">
 					<h1>Ayuda de Deepin</h1>
-					<p>La base de datos <b>en español</b> para <b>Deepin</b>.</p>
+					<p class="sub-text">La base de datos <b>en español</b> para <b>Deepin</b>. Actualmente con {{ site.posts | size }} artículos.</p>
+					<p class="sub-text">Elaborado por voluntarios, accesible para usuarios y desarrolladores.</p>
 					{% include search.html %}
 				</section>
 			</div>
@@ -62,7 +64,10 @@
 				});
 
 				$('svg').click(function() {
-					$(this).parent('form').submit();
+					var $form = $(this).parent('form');
+					if ($form.find('input[type="search"]').first().val().length > 0) {
+						$form.submit();
+					}
 				});
 			});
 

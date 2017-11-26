@@ -7,8 +7,8 @@ tags:
     - navegador
     - web
     - irc
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: 6KUbu1R3tS0
 ---
 

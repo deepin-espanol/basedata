@@ -8,8 +8,8 @@ tags:
     - simulacion
     - aviones
     - vuelo
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: GtlN1Zl2cro
 ---
 

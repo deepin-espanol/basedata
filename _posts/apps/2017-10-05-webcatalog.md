@@ -6,8 +6,8 @@ description: "Varias aplicaciones web en uno"
 tags:
     - cliente
     - mensajeria
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: qpw_E1ddfJw
 ---
 

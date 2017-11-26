@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Deepin Recovery"
 description: "Modo recuperación en Deepin"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - recovery
     - backup
     - particiones

@@ -7,8 +7,8 @@ tags:
     - limpieza
     - ahorro
     - root
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: hyLb6ZATdkc
 ---
 

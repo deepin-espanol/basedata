@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Corregir problema del kernel de VirtualBox"
 description: "Extaído del foro de Deepin"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - driver
     - nvidia
     - boot

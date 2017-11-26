@@ -6,8 +6,8 @@ description: "Virtualizando otros sistemas operativos"
 tags:
     - virtualizacion
     - emular
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: D1eYPAtbI24
 ---
 

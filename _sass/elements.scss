@@ -4,10 +4,17 @@ html, body {
 	background: #343642;
 }
 
+html {
+	overflow-x: hidden;
+}
+
 body {
 	min-height: 100vh;
 	color: $dark-grey;
 	-webkit-font-smoothing: antialiased;
+}
+h1 {
+	font-weight: bold;
 }
 
 h2, h2 a {
@@ -45,4 +52,21 @@ code, pre, tt {
 	color: #FAFAFA;
 	border-radius: 2px;
 	padding: 2px 5px;
+}
+
+pre code {
+	padding: 0;
+}
+
+tbody tr:nth-child(odd) {
+	background-color: #efefef;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	text-align: left;
+	padding: 5px;
 }

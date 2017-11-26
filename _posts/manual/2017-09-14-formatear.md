@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Formatear particiones"
 description: "Organizando archivos en particiones"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - tienda
     - aplicaciones
     - store

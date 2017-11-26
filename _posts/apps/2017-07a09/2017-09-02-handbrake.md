@@ -8,8 +8,8 @@ tags:
     - editor
     - comprime
     - youtube
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: RxrhYOjcCaY
 
 ---

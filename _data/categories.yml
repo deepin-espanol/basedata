@@ -1,0 +1,49 @@
+anexos:
+  description: Anexos y dudas frecuentes para Deepin
+  featured:
+    - appspreinstaladas
+    - dudas
+    - actualizar-terminal
+    - terminos-espanol
+aplicaciones:
+  description: Aplicaciones para Deepin
+  featured:
+    - steam
+    - telegram
+    - kodi
+    - wps
+manual de uso:
+  description: Manual de uso
+  featured:
+    - apagar
+    - office
+    - documentos
+    - teclado
+miscelánea:
+  description: Contenido no especificado
+  featured:
+    - torrent
+    - juegos
+    - iconos-halo
+    - donar
+sistema operativo:
+  description: El sistema operativo
+  featured:
+    - download
+    - instalacion
+    - update
+    - novedades
+técnico:
+  description: Información avanzada
+  featured:
+    - drivers
+    - dtk
+    - api
+    - plugin
+tips y trucos:
+  description: Consejos extras
+  featured:
+    - mirror
+    - editar-host
+    - alacarte
+    - fuentes-truetype

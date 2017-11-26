@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Conseguir dispositivos con Linux preinstalado"
 description: "Si quieres comprar un dispositivo para usar Deepin, puedes hacerlo"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - bios
     - arranque
     - uefi

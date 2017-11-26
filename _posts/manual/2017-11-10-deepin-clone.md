@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Deepin Clone"
 description: "Respaldo de archivos en Deepin"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - clone
     - backup
     - particiones

@@ -10,8 +10,8 @@ tags:
     - multimedia
     - fotos
     - documentos
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: g9A0zihHZ14
 ---
 

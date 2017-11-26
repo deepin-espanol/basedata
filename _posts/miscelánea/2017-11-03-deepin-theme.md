@@ -8,8 +8,8 @@ tags:
     - graficos
     - sonidos
     - iconos
-categories:
-    - apps
+    - deepin-miscelánea
+
 video_id: AIsmTtFaf2o
 ---
 

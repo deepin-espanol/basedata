@@ -10,8 +10,8 @@ tags:
     - arranque
     - exe
     - originales
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: X9CtS251bv0
 ---
 

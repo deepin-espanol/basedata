@@ -2,9 +2,8 @@
 type: Document
 title: "Dudas sobre los contradores en Deepin"
 description: "Ayudando a probar los dispositivos de la PC"
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - dudas
     - driver
     - controladores

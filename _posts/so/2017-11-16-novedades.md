@@ -2,10 +2,11 @@
 type: Document
 title: "Novedades y avances en Deepin"
 description: "Apuntes importantes en el desarrollo de Deepin"
-set: guia-rapida
-categories: sistema-operativo
+tags:
+    - deepin-sistema operativo
 date: 2017-11-16
-set_order: 4
+set: básico
+set_order: 3
 ---
 Este es la página recopilatoria de ideas y propuestas para mejorar Deepin. Por motivos de tiempo, no añadimos las próximas mejoras, lo haremos en la categoría Noticias. Palabra.
 

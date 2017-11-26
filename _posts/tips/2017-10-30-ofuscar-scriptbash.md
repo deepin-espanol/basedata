@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Ofuscar código script en terminal con Bash"
 description: "Un truco para hacer el ejecutable con código inaccesible"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - fix
     - dialogo
     - apps

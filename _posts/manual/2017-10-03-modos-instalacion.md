@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Formas de instalar Deepin"
 description: "Seamos creativos"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - instalacion
     - pc
     - usb
@@ -23,8 +22,8 @@ Además de [la instalación convencional]({{ site.url }}{{ site.baseurl }}/insta
 4. La instalación demora unos minutos.
 
 ## Instalación avanzada
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/A_VM9XSBaus" frameborder="0" allowfullscreen></iframe>
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/A_VM9XSBaus?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 La instalación avanzada ofrece un editor de particiones del disco. Eso es útil para definir que **particiones se conservan o no** como mantener un segundo sistema operativo. Nuestra recomendación es establecer las particiones de arranque y de información como explicamos:
@@ -33,8 +32,8 @@ La instalación avanzada ofrece un editor de particiones del disco. Eso es útil
 2. Tienes dos formas de establecer el sistema arranque, en el disco duro o en una la partición EXT4 de 300MB "/boot" (para el dual boot).
 2. Otra partición "/home" para la carpeta de Mis documentos. Si establecer en un disco duro aparte de los componentes, mejor.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/-oswVXK8Vs0" frameborder="0" allowfullscreen></iframe>
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/-oswVXK8Vs0?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Fuente: Salmorejo Geek

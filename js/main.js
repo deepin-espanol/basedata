@@ -1,7 +1,7 @@
 jQuery(function() {
 	var $sidebar = $('.sidebar'),
 		$content = $('.content'),
-		$tutorial = $('.tutorial-content'),
+		$mainContent = $('.main-content'),
 		$window = $(window),
 		offset = $content.offset().top + 60;
 
@@ -24,10 +24,10 @@ jQuery(function() {
 
 	function setSidebar() {
 		var offset = 85,
-			bottom = $tutorial.offset().top + $tutorial.outerHeight() - $sidebar.outerHeight() - offset;
+			bottom = $mainContent.offset().top + $mainContent.outerHeight() - $sidebar.outerHeight() - offset;
 		if (window.scrollY > bottom) {
-			$sidebar.css("position", "absolute").css("top", $tutorial.outerHeight() - $sidebar.outerHeight());
-		} else if (window.scrollY > $tutorial.offset().top) {
+			$sidebar.css("position", "absolute").css("top", $mainContent.outerHeight() - $sidebar.outerHeight());
+		} else if (window.scrollY > $mainContent.offset().top) {
 			$sidebar.css("position", "fixed").css("top", offset);
 		} else {
 			$sidebar.css("position", "absolute").css("top", offset);
@@ -35,8 +35,8 @@ jQuery(function() {
 	}
 
 	function setActiveSidebarLink() {
-		$('.sidebar a').removeClass('active');
 		var $closest = getClosestHeader();
+		$('.sidebar a').removeClass('active');
 		$closest.addClass('active');
 	}
 });
@@ -45,9 +45,7 @@ function getClosestHeader() {
 	var $links = $('.sidebar a'),
 	top = window.scrollY,
 	$last = $links.first(),
-	$content = $(".tutorial-content");
-
-	console.log(top);
+	$content = $(".main-content");
 
 	if (top < 300) {
 		return $last;
@@ -80,15 +78,15 @@ function getClosestHeader() {
 
 function throttle (callback, limit) {
 
-	var wait = false;
-	return function () {
-		if (!wait) {
+  var wait = false;
+  return function () {
+    if (!wait) {
 
-			callback.apply(null, arguments);
-			wait = true;
-			setTimeout(function () {
-				wait = false;
-			}, limit);
-		}
-	};
+      callback.apply(null, arguments);
+      wait = true;
+      setTimeout(function () {
+        wait = false;
+      }, limit);
+    }
+  };
 }

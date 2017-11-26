@@ -7,8 +7,8 @@ tags:
     - archivos
     - nube
     - sincronizar
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: G55oYeQa55U
 ---
 

@@ -9,8 +9,8 @@ tags:
     - propio
     - youtube
     - videos
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: OQ7FI06DYRs
 ---
 

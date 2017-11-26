@@ -2,9 +2,10 @@
 type: Document
 title: "Cómo instalar Deepin"
 description: "Una explicación breve sobre instalar Deepin"
-set: guia-rapida
 date: 2017-11-16
-categories: sistema-operativo
+tags:
+    - deepin-sistema operativo
+set: básico
 set_order: 2
 ---
 

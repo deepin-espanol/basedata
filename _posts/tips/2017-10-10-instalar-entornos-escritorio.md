@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Instalar otros entornos de escritorio"
 description: "Una referencia para probar otros entornos de escritorio en Deepin"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - pruebas
     - entorno
     - escritorio

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Tarjeta de vídeo"
 description: "Revisando la calidad gráfica"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - graficos
     - juegos
     - tarjeta

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Solución a los cuadros de diálogo en Deepin"
 description: "Cambiar el cuadro para que las aplicaciones pueden usar a su modo"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - fix
     - dialogo
     - apps

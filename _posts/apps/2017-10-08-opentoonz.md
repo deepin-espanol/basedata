@@ -6,8 +6,8 @@ description: "La ayuda perfecta para la animación tradicional"
 tags:
     - animacion
     - dibujos
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: RhzfEzndpgM
 ---
 

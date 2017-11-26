@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Conflcitos con la configuración en nuevos paquetes"
 description: "Solucionando el problema de cambiar los paquetes actualizados"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - paquetes
     - configuracion
     - dependencias

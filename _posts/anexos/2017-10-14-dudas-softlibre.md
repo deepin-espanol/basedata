@@ -2,9 +2,8 @@
 type: Document
 title: "Dudas sobre software libre en Deepin"
 description: "El porqué de usar software con dichas características"
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - dudas
     - comunidad
 ---
@@ -69,12 +68,9 @@ En esta infografía te aclaramos esa pregunta.
 ### ¿Puedo vender un producto si tiene "licencia libre"?
 Sí. Mira este ejemplo.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/HuoljD3rgVM" frameborder="0" allowfullscreen></iframe>
+<div class="video_wrapper">
+  <iframe src="https://www.youtube.com/embed/HuoljD3rgVM?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
-
-
 
 ### ¿La comunidad puede mejorar el software libre?
 La mayoría de las veces. Las comunidades integran a voluntarios dedicados a mejorar el producto como correcciones de errores, características nuevas o integración en otros dispositivos. Nuestra comunidad es uno de ellos.

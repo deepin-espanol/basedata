@@ -7,8 +7,7 @@ tags:
     - terminal
     - apps
     - deepin
-categories:
-    - manual
+    - deepin-manual de uso
 
 ---
 Hay varias formas de obtener aplicaciones en *Deepin*. La forma más fácil es instalar desde la Deepin Store o externamente vía archivos DEB o Flatpak.

@@ -3,9 +3,8 @@ type: Document
 title: "Guía de aplicaciones por profesión"
 subheadline: "Apliaciones"
 description: "Catálogo de aplicaciones para cada profesión o rama laboral."
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - listados
     - guiapps
 ---

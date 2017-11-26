@@ -9,8 +9,8 @@ tags:
     - movil
     - assistant
     - original
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: j2O6Ag-2pyg
 
 ---

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title: "Accesos directos personalizados"
 description: "Cómo crear o modificar un acceso directo para tu aplicación"
-categories:
-  - tips
 tags:
+  - tips y trucos
   - aplicacion
   - enlace
   - acceso

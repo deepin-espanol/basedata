@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Centro de control"
 description: "Ajustes del sistema"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - centro
     - configuracion
     - sistema

@@ -1,31 +1,55 @@
 ---
+sets:
+  - básico
 ---
 
-<h2>Categorías</h2>
-<p>Tenemos un reportorio en constante crecimiento. Siempre añadimos páginas para descubrir, enseñar y aprender.</p>
+<section>
+	{% for set_name in page.sets %}
+		{% assign set_file_name = "_sets/" | append: set_name | append: ".md" %}
+		{% assign set = site.sets | where: "path", set_file_name | first %}
+		{% assign series_posts = site.posts | where: "set", set_name | sort: "set_order" %}
+		<div class="featured-series">
+			<h2>{{ set.title }}</h2>
+			<p>{{ set.description }}</p>
+
+			{% include listings.html listings=series_posts custom_icon=true %}
+		</div>
+	{% endfor %}
+</section>
+
+<h2>Artículos por tema</h2>
+<p>Tenemos un reportorio en constante crecimiento. Desde los pasos básicos, pasando por aplicaciones, trucos y otras formas.</p>
 
 <section class="categories">
-	{% assign categories = site.categories | sort %}
-	{% for category in categories %}
-		{% assign name = category[0] %}
-		{% assign posts = category[1] %}
+	{% assign tags = site.tags | sort %}
+	{% for tag in tags %}
+		{% assign name = tag[0] %}
+		{% assign posts = tag[1] %}
 		{% assign size = posts | size %}
+		<!--INICIO IF CATEGORÍA-->
+		{% if tag[0] contains "deepin-" %}
 		<section class="category">
-				<!--Genera categorías-->
+			{% assign cat-name = name | replace: "deepin-", " "  | strip %}
 				<h3>
-					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
+					<a href="{{ site.baseurl }}/{{ name | slugify }}/">{{ cat-name | replace: "-", " " | replace: "Y", "y" | replace: "De", "de" }}</a>
 				</h3>
 
 			<ul>
-				{% assign tutorials = posts | sort: "title" %}
-				{% for tutorial in tutorials limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+				{% assign category-tutorials = site.data.categories[cat-name].featured %}
+				{% assign category-tutorials-size = category-tutorials | size %}
+				{% for tutorial in category-tutorials %}
+					{% assign permalink = "/deepin/" | append: tutorial | append: "/" %}
+					{% assign post = site.posts | where: "url", permalink | first %}
+					<li><a href="{{ site.baseurl }}{{ post.url }}">{% include document-icon.html icon=post.type %}{{ post.title }}</a></li>
 				{% endfor %}
 
-				{% if size > 4 %}
-					<li><a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ size | minus: 4 }} más...</a></li>
+				{% if size > category-tutorials-size %}
+					<li><a href="{{ site.baseurl }}/{{ name | slugify }}/">{{ size | minus: category-tutorials-size }} more...</a></li>
 				{% endif %}
+
 			</ul>
 		</section>
+		{% endif %}
+		<!--END IF CATEGORÍA-->
 	{% endfor %}
 </section>

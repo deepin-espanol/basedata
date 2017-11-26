@@ -2,48 +2,58 @@
 # Site
 
 title: Ayuda de Deepin en Español
-url: "http://deepin-espanol.gitlab.io"
-# TODO: Nombre provisional
-baseurl: "/basedata"
+url: "http://ayuda.deepin.ovh"
+# NOTA: Nombre provisional /basedata
+baseurl: ""
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
+repo_source: https://gitlab.com/deepin-espanol/database/tree/master
+official_url: http://ayuda.deepin.ovh
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: La base de datos en español de los usuarios y desarrolladores de Deepin
+logo: /images/favicon/favicon-32x32.png
+description: Información de usuarios y desarrolladores
 author:
   name: Deepin en Español
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Ayuda de Deepin en Español
+  name: Telegram
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://t.me/deepinenespanol
 
 # -----
 # Build
 
-permalink: /:categories/:title/
+permalink: /deepin/:title/
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
+  - jekyll-paginate-v2
+  - jekyll-email-protect
+  - emoji_for_jekyll
+  - reduce
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CHANGES.md
   - LICENCE
 
 collections:
   sets:
-
+  cheat_sheet:
+    output: true
 
 jekyll-archives:
-  enabled: ['categories']
+  enabled: ['tags']
+  permalinks:
+    tag: '/:name/'
 
 defaults:
   -
@@ -68,6 +78,7 @@ defaults:
     values:
       body_class: "show_hero_search"
 # -----------
+# -----------
 # CloudCannon
 
 social_icons:
@@ -88,3 +99,19 @@ types:
   - Video
 
 _comments:
+
+# --------------
+# Icons
+
+favicon-32x32:                          'favicon-32x32.png'
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+msapplication_tilecolor: '#fabb00'

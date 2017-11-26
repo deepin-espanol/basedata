@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Asistencia remota"
 description: "Usando la asistencia remota de Deepin"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - launcher
     - deepin
     - ejecutar

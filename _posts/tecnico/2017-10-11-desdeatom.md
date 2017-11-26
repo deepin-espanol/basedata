@@ -1,13 +1,11 @@
 ---
-date: 2017-11-17
 type: Document
+date: 2017-11-17
 title: "Editar desde Atom"
-subheadline: "Ayuda"
 description: "La forma más sencilla de añadir publicaciones sin rodeos"
 tags:
+    - deepin-técnico
     - tutopost
-categories:
-    - técnico
 ---
 
 Te mostramos en unos pasos que puedes hacer para perfeccionar este protal web. Necesitarás conocer un poco el funcionamiento y sentido común.

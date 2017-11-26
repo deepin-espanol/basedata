@@ -1,0 +1,86 @@
+.cheats {
+	margin: 0 -10px;
+
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	.inner-content {
+		display: none;
+		background: #f9f9f9;
+		padding: 10px;
+
+		p {
+			font-size: .85em;
+			line-height: 1.6em;
+			margin: 0 0 5px 0;
+		}
+
+		h5 {
+			font-size: 1.1em;
+			margin: 15px 0 0 0;
+			padding: 0;
+		}
+	}
+	li {
+		border-left: 2px solid rgba(255,255,255,0);
+		&.show {
+			border-color: #26abe2;
+		}
+	}
+
+	h4:hover, .show h4 {
+		padding-left: 10px;
+	}
+
+	h2 + ul.list-items li:first-child h4 {
+		border-top: 0;
+	}
+
+	ul:last-child li:last-child h4 {
+		border-bottom: 0;
+	}
+
+	h2 {
+		font-size: 1.3em;
+		text-transform: capitalize;
+		background: #f9f9f9;
+		padding: 5px;
+		margin: 0;
+		font-weight: 600;
+		a {
+			font-size: .5em;
+			float: right;
+			margin: 0 3px 0 0;
+		}
+	}
+
+	h4 {
+		font-size: 1em;
+		padding: 0;
+		margin: 0;
+		border: 1px solid #eee;
+		border-left: 0;
+		border-right: 0;
+		padding: 10px 5px;
+		cursor: pointer;
+		transition: all .4s ease;
+	}
+
+	li + li h4 {
+		border-top: 0;
+	}
+
+	section {
+		margin: 20px 10px;
+		border: 1px solid #eee;
+	}
+
+	ul, li {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+}

@@ -1,0 +1,30 @@
+<!--
+*
+*   More Information › https://mathiasbynens.be/notes/touch-icons
+*
+-->
+<!-- Regular Old-Skool Favicon: -->
+	{% if site.favicon-32x32 %}<link rel="icon" sizes="32x32" href="{{ "/images/favicon/" | absolute_url }}{{ site.favicon-32x32 }}">{% endif %}
+<!-- For Chrome for Android: -->
+	{% if site.touch-icon-192x192 %}<link rel="icon" sizes="192x192" href="{{ "/images/favicon/" | absolute_url }}{{ site.touch-icon-192x192 }}">{% endif %}
+<!-- For iPhone 6 Plus with @3× display: -->
+	{% if site.apple-touch-icon-180x180-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-180x180-precomposed }}">{% endif %}
+<!-- For iPad with @2× display running iOS ≥ 7: -->
+	{% if site.apple-touch-icon-152x152-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-152x152-precomposed }}">{% endif %}
+<!-- For iPad with @2× display running iOS ≤ 6: -->
+	{% if site.apple-touch-icon-144x144-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-144x144-precomposed }}">{% endif %}
+<!-- For iPhone with @2× display running iOS ≥ 7: -->
+	{% if site.apple-touch-icon-120x120-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-120x120-precomposed }}">{% endif %}
+<!-- For iPhone with @2× display running iOS ≤ 6: -->
+	{% if site.apple-touch-icon-114x114-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-114x114-precomposed }}">{% endif %}
+<!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ≥ 7: -->
+	{% if site.apple-touch-icon-76x76-precomposed %}
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-76x76-precomposed }}">{% endif %}
+<!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ≤ 6: -->
+	{% if site.apple-touch-icon-72x72-precomposed %}<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-72x72-precomposed }}">{% endif %}
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+	{% if site.apple-touch-icon-precomposed %}<link rel="apple-touch-icon-precomposed" href="{{ "/images/favicon/" | absolute_url }}{{ site.apple-touch-icon-precomposed }}"><!-- 57×57px -->	{% endif %}
+<!-- Favicon for Windows 8  -->
+	{% if site.msapplication_tileimage %}<meta name="msapplication-TileImage" content="{{ "/images/favicon/" | absolute_url }}{{ site.msapplication_tileimage }}">{% endif %}
+<!-- Background Color for Tile for Windows 8  -->
+{% if site.msapplication_tilecolor %}<meta name="msapplication-TileColor" content="{{ site.msapplication_tilecolor }}">{% endif %}

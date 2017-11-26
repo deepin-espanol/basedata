@@ -2,9 +2,8 @@
 type: Document
 title:  "Dudas al actualizar desde la terminal"
 description: "Un servicio para proveer contraseñas"
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - terminal
     - dudas
     - paquetes

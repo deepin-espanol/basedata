@@ -6,8 +6,8 @@ description: "Correo basado en Nylas"
 tags:
     - correo
     - servicio
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: jazAF1DXD7c
 ---
 

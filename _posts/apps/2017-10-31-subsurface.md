@@ -7,8 +7,8 @@ tags:
     - acuatico
     - exploracion
     - informacion
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: sFuSaY88D1I
 ---
 

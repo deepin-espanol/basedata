@@ -7,8 +7,8 @@ tags:
     - screencast
     - grabacion
     - captura
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: vV9sbwgIqb0
 ---
 

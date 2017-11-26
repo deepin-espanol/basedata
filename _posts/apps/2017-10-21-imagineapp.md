@@ -7,8 +7,8 @@ tags:
     - imagen
     - mini
     - ligero
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: Qk8ruYY-dGk
 ---
 

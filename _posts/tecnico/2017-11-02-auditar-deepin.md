@@ -1,11 +1,11 @@
 ---
+date: 2017-10-02
+type: Document
 title: "Auditar Deepin"
 tags:
+    - deepin-técnico
     - seguridad
     - source
-categories:
-    - técnico
-date: 2017-10-02
 ---
 
 En Deepin en Español ayudamos a los usuarios a hacer de Deepin un sistema operativo transparente y un entorno seguro. Basta comprobar el [código fuente]({{ site.url }}{{ site.baseurl }}/source/). Te ofrecemos algunas heramientas.

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Configuración de pantalla en Deepin"
 description: "Calibrando los monitores para tu escritorio"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - impresion
     - configuracion
     - tinta

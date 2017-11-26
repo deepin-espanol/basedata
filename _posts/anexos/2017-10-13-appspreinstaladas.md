@@ -3,9 +3,8 @@ type: Document
 title: "Aplicaciones preinstaladas"
 subheadline: "Apliaciones"
 description: "Empieza tranquilo con las aplicaciones disponibles desde su instalación."
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - listados
     - guiapps
 ---

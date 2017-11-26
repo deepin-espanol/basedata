@@ -8,8 +8,8 @@ tags:
     - pastel
     - sencillez
     - iconos
-categories:
-    - apps
+    - deepin-miscelánea
+
 video_id: _HalhXRdUiI
 ---
 

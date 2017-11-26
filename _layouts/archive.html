@@ -2,6 +2,33 @@
 layout: default
 ---
 {% assign posts = page.posts | sort: "title" %}
-<h2 style="text-transform:capitalize;">{{ page.title | replace: "-", " " }} <span class="count">({{ posts | size }})</span></h2>
+{% assign category = page.title | replace: "deepin-", "" %}
 
-{% include listings.html listings=posts %}
+<h2 style="text-transform:capitalize;">{{ page.title | replace: "Y", "y" | replace: "-", " " | replace: "deepin", "Deepin" }} <span class="count">({{ posts | size }})</span></h2>
+<p>{{ site.data.categories[category].description }}</p>
+
+<!-- Posts: Destacados-->
+{% assign featured_posts = "" | split: "" %}
+
+<!-- Posts-->
+{% assign category-tutorials = site.data.categories[category].featured %}
+{% assign category-tutorials-size = category-tutorials | size %}
+
+{% for tutorial in category-tutorials %}
+	{% assign permalink = "/deepin/" | append: tutorial | append: "/" %}
+	{% assign post = site.posts | where: "url", permalink | first %}
+	{% assign featured_posts = featured_posts | push: post %}
+{% endfor %}
+
+
+{% assign other_posts = "" | split: "" %}
+
+{% for p in posts %}
+	{% unless featured_posts contains p %}
+		{% assign other_posts = other_posts | push: p %}
+	{% endunless %}
+{% endfor %}
+
+{% include listings.html listings=featured_posts featured=true %}
+
+{% include listings.html listings=other_posts %}

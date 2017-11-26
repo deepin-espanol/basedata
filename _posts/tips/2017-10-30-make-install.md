@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Usar Make Install"
 description: "Si no es un paquete Debian o Flatpak, te enseñamos a instalar de otra forma"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - fix
     - dialogo
     - apps

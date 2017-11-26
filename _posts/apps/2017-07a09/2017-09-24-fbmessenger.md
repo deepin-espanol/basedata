@@ -8,8 +8,8 @@ tags:
     - comunicacion
     - contacto
     - telefonia
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: 0ln1GQ4e5lQ
 ---
 

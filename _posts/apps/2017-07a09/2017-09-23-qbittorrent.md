@@ -8,8 +8,8 @@ tags:
     - descarga
     - pares
     - distribucion
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: wQHFLba-AGE
 ---
 

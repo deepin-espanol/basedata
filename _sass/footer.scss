@@ -1,18 +1,17 @@
 footer {
 	background: #343642;
 	color: #fff;
-	padding: 20px 0;
-
-	.edit-footer {
-		text-align: center;
-		margin: 0;
-	}
+	padding: 50px 0;
 
 	.copyright {
 		color: $medium-grey;
 		margin: 0;
 		text-align: center;
 		font-size: .9em;
+
+		a {
+			color: $medium-grey;
+		}
 	}
 
 	a {

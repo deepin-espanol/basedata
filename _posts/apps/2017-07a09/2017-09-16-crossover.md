@@ -9,8 +9,8 @@ tags:
     - aplicaciones
     - interprete
     - exe
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: 9t3ziMyWkz8
 ---
 

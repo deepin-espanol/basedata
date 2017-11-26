@@ -10,8 +10,8 @@ tags:
     - archivos
     - explorador
     - documentos
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: ci5B9XC4Hs4
 ---
 

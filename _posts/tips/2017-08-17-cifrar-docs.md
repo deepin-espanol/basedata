@@ -3,9 +3,9 @@ date: 2017-11-17
 type: Document
 title: "Cifrar mis documentos"
 description: "La forma más práctica"
-categories:
-  - tips
+
 tags:
+  - tips y trucos
   - cifrar
   - destacado
 ---

@@ -6,6 +6,7 @@ description: "Aprende a programar con el tipo de código."
 categories:
     - anexos
 tags:
+    - deepin-anexos
     - listados
     - guiapps
 ---

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Mis documentos"
 description: "Un vistazo a tus documentos y al gestor de archivos de Deepin"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - documentos
     - archivos
     - gestor

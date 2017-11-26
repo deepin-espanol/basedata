@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Solución al problema de no cargar en tarjetas Nvidia"
 description: "Cómo arreglar la tarjeta Nvidia mal instalada"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - driver
     - nvidia
     - boot

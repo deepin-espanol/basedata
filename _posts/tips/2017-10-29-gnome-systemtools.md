@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Usar GNOME System Tools"
 description: "Una solución rápida y efectivo si el centro de control falla"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - fix
     - dialogo
     - apps

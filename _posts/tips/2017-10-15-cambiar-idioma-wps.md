@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Cambiar idioma en WPS"
 description: "Ofimática en español"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - wps
     - idioma
     - ajustes

@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Recuperar contraseña de usuario"
 description: "Para quienes no pueden acceder la cuenta de usuario"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - root
     - password
     - acceso

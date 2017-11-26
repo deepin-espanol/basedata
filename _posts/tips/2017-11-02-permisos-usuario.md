@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Gestionar permisos de usuario"
 description: "Quiénes pueden modificar el equipo, para impedir instrusos"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - root
     - password
     - acceso

@@ -2,9 +2,8 @@
 type: Document
 title: "Dudas técnicas sobre las particiones en Deepin"
 description: "Ayuda para conocer el sistema de archivos y sus particiones"
-categories:
-    - anexos
 tags:
+    - deepin-anexos
     - dudas
     - particiones
 ---

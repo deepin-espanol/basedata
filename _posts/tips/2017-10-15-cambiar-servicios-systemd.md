@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Configurando systemd con chkservice"
 description: "Establece los servicios del sistema a tu gusto"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - chkservice
     - demonio
     - systemd

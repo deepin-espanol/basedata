@@ -6,8 +6,8 @@ description: "Asistente para crear historias"
 tags:
     - comunicacion
     - videojuegos
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: MtDAyK5ASzM
 ---
 

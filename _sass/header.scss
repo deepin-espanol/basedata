@@ -1,4 +1,4 @@
-@media #{$mid-point} {
+@media #{$nav-snap} {
 	.show_hero_search header nav form {
 		display: none;
 	}
@@ -10,8 +10,9 @@
 
 header {
 	padding: 16px 0 10px 0;
-	background: $header-color;
+	background: $header-color linear-gradient(45deg, rgba(0, 0, 0, 0), $secondary-header-color);
 	color: #fff;
+	min-height: 47px;
 
 	form {
 		position: relative;
@@ -19,11 +20,12 @@ header {
 		input[type=search] {
 			box-sizing: border-box;
 			width: 100%;
+			border: 0;
 		}
 	}
 
 	.top-bar {
-		@media #{$mid-point} {
+		@media #{$nav-snap} {
 			display: flex;
 		}
 
@@ -31,52 +33,44 @@ header {
 			a {
 				display: block;
 				line-height: 0;
+				text-decoration: none;
+				color: #fff;
+
+				span {
+					display: none;
+					position: relative;
+					top: -4px;
+					right: -3px;
+				}
 			}
 
 			svg {
 				fill: #fff;
-				width: 100%;
-				height: 46px;
-				min-width: 100px;
+				height: 33px;
+				width: 50px;
+				position: relative;
+				top: 5px;
 			}
-		}
-
-		form svg {
-			fill: #eee;
 		}
 	}
 
 	nav {
-		@media #{$mid-point} {
+		@media #{$nav-snap} {
 			flex: 1;
 			margin: 0 0 0 10px;
 			display: block;
 
-			form {
-				position: absolute;
-				right: 25px;
-				top: 4px;
+			&.right-nav {
 				text-align: right;
-			}
 
-			input[type="search"] {
-				max-width: 300px;
+				svg {
+					width: 15px;
+					position: relative;
+					top: 6px;
+				}
 			}
 		}
 		display: none;
-
-		input[type="search"] {
-			width: 100%;
-			padding: 5px 10px;
-		}
-
-		svg {
-			position: absolute;
-			top: 6px;
-			right: 7px;
-			width: 25px;
-			cursor: pointer;
-		}
 
 		a {
 			color: #fff;
@@ -84,7 +78,7 @@ header {
 			display: block;
 			padding: 20px 0;
 
-			@media #{$mid-point} {
+			@media #{$nav-snap} {
 				display: inline-block;
 				padding: 7px 0;
 				margin: 0 15px;
@@ -98,7 +92,7 @@ header {
 			&:hover {
 				text-decoration: none;
 				color: #fff;
-				@media #{$mid-point} {
+				@media #{$nav-snap} {
 					border-bottom-color: rgba(255, 255, 255, .1);
 				}
 			}
@@ -119,7 +113,7 @@ header {
 	color: #fff;
 	top: 4px;
 
-	@media #{$mid-point} {
+	@media #{$nav-snap} {
 		display: none;
 	}
 }
@@ -128,7 +122,11 @@ header {
 	display: none;
 	text-align: center;
 	flex: 0 0 100%;
-	padding: 60px 0 30px 0;
+	padding: 60px 0 40px 0;
+
+	h1 {
+		margin: 0 0 14px 0;
+	}
 
 	form {
 		position: relative;
@@ -137,7 +135,6 @@ header {
 		padding: 20px 0;
 
 		svg {
-			fill: #eee;
 			position: absolute;
 			top: 31px;
 			right: 12px;
@@ -145,6 +142,10 @@ header {
 			width: 36px;
 			height: 40px;
 			cursor: pointer;
+			fill: $link-color;
+			&:hover {
+				fill: $link-hover-color;
+			}
 		}
 	}
 
@@ -158,5 +159,6 @@ header {
 		color: #555;
 		padding: 15px;
 		font-size: 1.1em;
+		border: 0;
 	}
 }

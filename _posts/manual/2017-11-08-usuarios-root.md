@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Usuarios y Root"
 description: "Desde las cuentas corrientas hasta los permisos de adminsitrador"
-categories:
-    - manual
 tags:
+    - deepin-manual de uso
     - usuarios
     - permisos
     - administrador

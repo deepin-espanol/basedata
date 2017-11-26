@@ -6,6 +6,7 @@ description: "Qué aplicaciones son traducidas o no."
 categories:
     - anexos
 tags:
+    - deepin-anexos
     - listados
     - traducciones
 ---

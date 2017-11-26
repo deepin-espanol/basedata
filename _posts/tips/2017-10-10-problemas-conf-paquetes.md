@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Arreglar los problemas con la configuración de paquetes"
 description: "Arreglando tu equipo de la forma fácil"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - paquetes
     - configuracion
     - dependencias

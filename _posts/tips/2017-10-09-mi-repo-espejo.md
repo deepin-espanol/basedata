@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Elaborar un repositorio espejo"
 description: "Consigue una copia del repositorio Deepin para proveer a otros usuarios"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - repositorio
     - espejo
     - instalacion

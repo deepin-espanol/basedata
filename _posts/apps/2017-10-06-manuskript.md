@@ -6,8 +6,8 @@ description: "Asistente para crear historias"
 tags:
     - libros
     - redaccion
-categories:
-    - apps
+    - deepin-aplicaciones
+
 video_id: cEmatZl73v8
 ---
 

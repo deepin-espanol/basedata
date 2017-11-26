@@ -3,9 +3,8 @@ date: 2017-11-17
 type: Document
 title:  "Ahorrar energía en Deepin (optimizar en laptop)"
 description: "Sacando provecho del ahorro energético en computadoras portátiles"
-categories:
-    - tips
 tags:
+    - deepin-tips y trucos
     - fix
     - dialogo
     - apps
