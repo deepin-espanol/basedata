@@ -3,10 +3,8 @@ type: Document
 title: "Guía de equivalencias con aplicaciones de Deepin"
 subheadline: "Apliaciones"
 description: "Qué aplicaciones son traducidas o no."
-categories:
-    - anexos
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - listados
     - traducciones
 ---

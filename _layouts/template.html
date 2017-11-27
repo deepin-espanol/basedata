@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+
+{{ content }}
+
+<div class="dsoftware-content">
+	<div class="split">
+		<h2>Features</h2>
+		<ul class="features">
+			{% for feature in page.features %}
+				<li>{{ feature }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+
+	<div class="split">
+		<h2>Using {{ page.name }}</h2>
+		<ul>
+			<li>Select {{ page.name }} as a dsoftware in <a href="https://cloudcannon.com">CloudCannon</a></li>
+			<li>or <a href="{{ page.repository }}">Fork {{ page.name }}</a> on GitHub</li>
+			<li>or <a href="{{ page.repository }}/archive/master.zip">Download {{ page.name }}</a></li>
+		</ul>
+	</div>
+</div>
+
+<div class="dsoftware-button">
+	<a class="button keep-text-size" target="_blank" href="{{ page.demo_url }}">View Live Demo {% include document-icon.html icon="External Link" %}</a>
+</div>
+
+<ul class="photo-gallery">
+	{% for image in page.images %}
+		<li><img class="screenshot" src="{{ image.image }}" alt="{{ dsoftware.name }} Jekyll dsoftware"></li>
+	{% endfor %}
+</ul>
+
+
+
+<script src="/js/lightslider.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$(".photo-gallery img").each(function() {
+			var $this = $(this);
+			var src = $this.attr('src');
+			$this.parent().attr('data-thumb', src);
+			$this.parent().attr('data-src', src);
+		});
+
+		$(".photo-gallery").lightSlider({
+			gallery: true,
+			item: 1,
+			loop: true,
+			thumbItem: 5,
+			thumbMargin: 50,
+			slideMargin: 0,
+			enableDrag: false,
+			currentPagerPosition: "left",
+		});
+	});
+</script>

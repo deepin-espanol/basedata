@@ -1,6 +1,6 @@
 ---
 title: "apt install"
-description: "Instalar desde la APT."
+description: "Instala paquetes."
 ---
 ##### Código
 
@@ -9,5 +9,3 @@ description: "Instalar desde la APT."
 sudo apt install [nombre del paquete]
 ~~~
 {% endraw %}
-
-

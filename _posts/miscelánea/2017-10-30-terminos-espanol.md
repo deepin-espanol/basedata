@@ -3,9 +3,8 @@ type: Document
 title: "Palabras frecuentes al español"
 subheadline: "Apliaciones"
 description: "Traducciones a nombres, acciones o términos del sistema operativo."
-
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - listados
     - traducciones
 ---

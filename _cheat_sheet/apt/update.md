@@ -1,6 +1,6 @@
 ---
 title: "apt update"
-description: "Actualizar del repositorio."
+description: "Actualizar los paquetes del repositorio."
 ---
 ##### Código
 
@@ -9,5 +9,3 @@ description: "Actualizar del repositorio."
 sudo apt update
 ~~~
 {% endraw %}
-
-

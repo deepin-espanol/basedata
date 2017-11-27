@@ -3,7 +3,7 @@ type: Document
 title: "Dudas sobre la terminal en Deepin"
 description: "Si te complicas con las órdenes, escríbelas"
 tags:
-    - deepin-anexos
+    - deepin-dudas
     - dudas
     - comunidad
 ---

@@ -23,12 +23,12 @@ Se añadió dos líneas de if en index.html:
 	{% endfor %}
 </section>
 ```
-
 ## Cambios en posts
 * Para reconocer que es una categoría, lleva como etiqueta `deepin-categoria`
+	- Se encuentran en `_posts` y están clasificadas en carpetas
 * Para establecer la categoría y los artículos destacados.
 	- Editar el archivo Category en `_data`
-* Cambiar a permalink: /deepin/:title/
+* Cambiado el permalink: /deepin/:title/
 
 ## Traducción al español
 * Cambios en Index, Layouts, y la carpeta en `_sets`
@@ -36,9 +36,20 @@ Se añadió dos líneas de if en index.html:
 ## SEO
 * Añadido en include "_favicon" y "_redirecturl"
 * En config se añadió la línea "touch-icon"
+* Añadido Telegram en `_includes > social_icons`
 
 ## Paginación
 * Cambiado a `jekyll-paginate-v2`
 
-## Cheat cheat
-* Por defirnir
+## Navegacion
+* Está en `layout` > `navigation`
+
+## Galería de software
+* Ahora usa las etiquetas `dsoftware` y `desoftwares` en lugar de `template`.
+* Se cambió la descripción
+* La carpeta para añadir el software se encuentra en `_dsoftwares`
+
+## Cheat sheet
+* Contiene algunas palabras para la terminal para memorizar
+* Se guardan en la carpeta "_cheat_sheet"
+* Los enlaces se añaden en `_data` > `cheat-sheet-links`

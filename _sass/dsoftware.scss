@@ -1,0 +1,112 @@
+h1 span {
+	display: block;
+	@media only screen and (min-width: 500px) {
+		float: right;
+	}
+	.btn {
+		padding: 10px 30px;
+		width: 65px;
+		font-weight: normal;
+
+		svg {
+			display: inline;
+			width: 13px;
+			height: 13px;
+			position: relative;
+			top: 1px;
+			right: -2px;
+		}
+	}
+}
+
+@media #{$mid-point} {
+	.dsoftware-content {
+		display: flex;
+
+		.split {
+			flex: 1;
+			&:first-child {
+				padding-right: 50px;
+			}
+		}
+	}
+}
+
+.dsoftware-button {
+	padding: 20px 0;
+	.btn {
+		padding: 14px 80px;
+
+		svg {
+			height: 13px;
+			position: relative;
+			top: 1px;
+			left: -3px;
+		}
+	}
+}
+.dsoftwares {
+	padding: 0;
+	margin: 0 -12px;
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	a {
+		text-decoration: none;
+		display:block;
+		transition: all 0.2s ease;
+		border: 1px solid #f6f6f6;
+		border-radius: 2px;
+		padding: 20px;
+		flex-direction: column;
+		display: flex;
+		transition: background .2s ease;
+
+		&:hover {
+			background: #f6f6f6;
+		}
+	}
+
+	li {
+		position: relative;
+		line-height: 0;
+		padding: 0;
+		@media #{$desktop} {
+			flex: 1 0 500px;
+			display: flex;
+		}
+		margin: 0 12px 20px 12px;
+		box-sizing: border-box;
+
+		img {
+			border-radius: 3px;
+		}
+
+		p, h2 {
+			line-height: 1.4em;
+		}
+	}
+
+	.description {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		background: rgba(0,0,0,.8);
+		color: #fff;
+		padding: 5px;
+		box-sizing: border-box;
+		border-bottom-left-radius: 3px;
+		border-bottom-right-radius: 3px;
+
+		h2, p {
+			display: inline;
+			color: #fff;
+			margin: 0;
+			padding: 0;
+			line-height: 1em;
+		}
+	}
+}

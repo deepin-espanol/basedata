@@ -2,7 +2,9 @@
   link: /
 - name: Videos
   link: /videos/
-- name: Dudas frecuentes
+- name: FAQ
   link: /faq/
-- name: Hoja de ayuda
-  link: /deepin-cheat-sheet/
+- name: H. de ayuda
+  link: /deepin-comandos-terminal/
+- name: Software
+  link: /dsoftwares/

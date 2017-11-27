@@ -3,7 +3,7 @@ type: Document
 title:  "Dudas al actualizar desde la terminal"
 description: "Un servicio para proveer contraseñas"
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - terminal
     - dudas
     - paquetes

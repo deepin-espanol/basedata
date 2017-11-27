@@ -1,10 +1,10 @@
-anexos:
-  description: Anexos y dudas frecuentes para Deepin
+dudas:
+  description: Dudas frecuentes para Deepin
   featured:
-    - appspreinstaladas
     - dudas
-    - actualizar-terminal
-    - terminos-espanol
+    - dudas-aplicaciones
+    - dudas-particiones
+    - dudas-drivers
 aplicaciones:
   description: Aplicaciones para Deepin
   featured:

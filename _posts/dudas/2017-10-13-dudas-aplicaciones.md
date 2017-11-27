@@ -3,7 +3,7 @@ type: Document
 title: "Dudas más frecuentes sobre las aplicaciones"
 description: "Ayudando a que las aplicaciones funcionen"
 tags:
-    - deepin-anexos
+    - deepin-dudas
     - dudas
     - comunidad
     - guiapps

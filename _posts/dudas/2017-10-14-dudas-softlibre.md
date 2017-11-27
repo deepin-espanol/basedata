@@ -3,7 +3,7 @@ type: Document
 title: "Dudas sobre software libre en Deepin"
 description: "El porqué de usar software con dichas características"
 tags:
-    - deepin-anexos
+    - deepin-dudas
     - dudas
     - comunidad
 ---

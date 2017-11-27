@@ -3,10 +3,8 @@ type: Document
 title: "Guía de aplicaciones para desarrolles"
 subheadline: "Apliaciones"
 description: "Aprende a programar con el tipo de código."
-categories:
-    - anexos
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - listados
     - guiapps
 ---

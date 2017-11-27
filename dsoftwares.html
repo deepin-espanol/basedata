@@ -1,0 +1,22 @@
+---
+permalink: /dsoftwares/
+---
+<h1>Galería del software de Deepin</h1>
+
+<p>En Deepin tenemos un catálogo de aplicaciones originales. Son {{ site.dsoftwares | size }} programas incluidos en este sistema operativo.</p>
+
+<ul class="dsoftwares">
+	{% assign dsoftwares = site.dsoftwares | sort: 'order' %}
+	{% for dsoftware in dsoftwares %}
+		<li>
+			<a href="{{ dsoftware.url }}">
+				{% assign first_image = dsoftware.images | first %}
+				<h2>{{ dsoftware.name }}</h2>
+				<p>{{ dsoftware.description }}</p>
+				<div><img class="screenshot" src="{{ first_image.image }}" alt="{{ dsoftware.name }} Software de Deepin"></div>
+			</a>
+		</li>
+	{% endfor %}
+	<li></li>
+	<li></li>
+</ul>

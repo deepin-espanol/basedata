@@ -3,7 +3,7 @@ type: Document
 title: "Dudas técnicas sobre Deepin"
 description: "Para que los especialistas conozcan a detalle"
 tags:
-    - deepin-anexos
+    - deepin-dudas
     - dudas
     - comunidad
 ---

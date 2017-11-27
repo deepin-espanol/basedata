@@ -2,9 +2,9 @@
 
 Deepin en acción (en nombre clave "Basedata") es una colección de información relevante sobre el sistema operativo. Está desarrollado por Deepin en Español.
 
-![Base template screenshot](images/_screenshot.png)
+![Base dsoftware screenshot](images/_screenshot.png)
 
-**Deepin en acción** está diseñada con el tema Base [CloudCannon](http://cloudcannon.com/) ([información](https://learn.cloudcannon.com/jekyll-templates/) y [documentación](https://learn.cloudcannon.com/)).
+**Deepin en acción** está diseñada con el tema Base [CloudCannon](http://cloudcannon.com/) ([información](https://learn.cloudcannon.com/jekyll-dsoftwares/) y [documentación](https://learn.cloudcannon.com/)).
 
 ## Lo que contiene
 

@@ -4,7 +4,7 @@ title: "Aplicaciones preinstaladas"
 subheadline: "Apliaciones"
 description: "Empieza tranquilo con las aplicaciones disponibles desde su instalación."
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - listados
     - guiapps
 ---

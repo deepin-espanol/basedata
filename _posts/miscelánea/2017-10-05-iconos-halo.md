@@ -9,7 +9,6 @@ tags:
     - sencillez
     - iconos
     - deepin-miscelánea
-
 video_id: _HalhXRdUiI
 ---
 

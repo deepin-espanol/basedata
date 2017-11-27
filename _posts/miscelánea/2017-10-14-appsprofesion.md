@@ -4,7 +4,7 @@ title: "Guía de aplicaciones por profesión"
 subheadline: "Apliaciones"
 description: "Catálogo de aplicaciones para cada profesión o rama laboral."
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - listados
     - guiapps
 ---

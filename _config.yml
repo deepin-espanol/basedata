@@ -48,6 +48,7 @@ exclude:
 collections:
   sets:
   cheat_sheet:
+  dsoftwares:
     output: true
 
 jekyll-archives:
@@ -72,6 +73,11 @@ defaults:
       type: "sets"
     values:
       _hide_content: true
+  -
+      scope:
+        type: "dsoftwares"
+      values:
+        layout: dsoftware
   -
     scope:
       path: "index.html"

@@ -3,7 +3,7 @@ type: Document
 title:  "Directorio complementarios"
 description: "Para quienes necesitan más aporte más allá de Deepin"
 tags:
-    - deepin-anexos
+    - deepin-miscelánea
     - directorio
     - destacado
     - ayuda
