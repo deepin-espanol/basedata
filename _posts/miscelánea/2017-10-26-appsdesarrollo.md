@@ -9,7 +9,7 @@ tags:
     - guiapps
 ---
 
-En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/) recopilamos y comentamos esas cosas importantes del software.
+En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/deepin/instalacion/) recopilamos y comentamos esas cosas importantes del software.
 
 En esta página te mostramos un catálogo para desarrolladores de software y hardware. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
 
@@ -31,7 +31,7 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
   <tbody>
     <tr>
       <td>Editores de código</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/atom">Atom</a>, Visual Code, Emacs, Vim, Sublime Text (versión gratuita), Brackets</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/atom">Atom</a>, Visual Code, Emacs, Vim, Sublime Text (versión gratuita), Brackets</td>
     </tr>
     <tr>
       <td>IDE en general</td>

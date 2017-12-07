@@ -10,7 +10,7 @@ tags:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
 
-En esta página respondemos las dudas relacionadas al uso de la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). .
+En esta página respondemos las dudas relacionadas al uso de la terminal. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/deepin/dudas/). .
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
@@ -72,7 +72,7 @@ dpigs -n15 -H
 ~~~
 
 ### Ver listado de archivos
-De la página [Abrir archivos y montar unidades desde la terminal]({{ site.url }}{{ site.baseurl }}/tips/archivos-terminal/). Un detalle, para subir o abrir una carpeta usamos `cd`.
+De la página [Abrir archivos y montar unidades desde la terminal]({{ site.url }}{{ site.baseurl }}deepin/archivos-terminal/). Un detalle, para subir o abrir una carpeta usamos `cd`.
 
 ~~~
 ls -l
@@ -86,7 +86,7 @@ man cd
 ~~~
 
 ### Actualizar el equipo
-Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/anexos/actualizar-terminal/).
+Del anexo [Actualizar con la terminal]({{ site.url }}{{ site.baseurl }}/deepin/actualizar-terminal/).
 
 ~~~
 apt update
@@ -95,4 +95,4 @@ apt update
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
-No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
+No olvides que estamos en [en este respositorio]({{ site.data.externalurl.reposource }}).

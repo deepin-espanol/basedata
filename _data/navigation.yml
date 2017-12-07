@@ -1,10 +1,10 @@
-- name: Ayuda
-  link: /
+- name: Buscar
+  link: /search/
 - name: Videos
   link: /videos/
 - name: FAQ
   link: /faq/
-- name: H. de ayuda
+- name: Comandos
   link: /deepin-comandos-terminal/
 - name: Software
   link: /dsoftwares/

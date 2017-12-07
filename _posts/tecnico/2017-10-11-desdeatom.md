@@ -3,6 +3,8 @@ type: Document
 date: 2017-11-17
 title: "Editar desde Atom"
 description: "La forma más sencilla de añadir publicaciones sin rodeos"
+set: tutopost
+set_order: 4    
 tags:
     - deepin-técnico
     - tutopost
@@ -14,7 +16,7 @@ Esta página es un extracto de la serie de tutoriales, <a href="/tutopost">Tutop
 
 ## Paso
 
-1. Instala ["Atom"]({{ site.url }}/apps/atom/) desde Deepin Store.
+1. Instala ["Atom"]({{ site.url }}/deepin/atom/) desde Deepin Store.
 2. Id a las preferencias (ubicado en el menúEditar)
 3. Id a Instalar "import"
 4. Una vez instalado, realiza el comando Crtl + I
@@ -53,17 +55,8 @@ Para recibir cambios:
 2. Selecciona Pull.
 
 ## Imágenes
-
-<div class="row">
-    <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}atom.png" alt="">
-    </div><!-- /.medium-4.columns -->
-</div>
-<div class="row">
-    <div class="medium-12 columns t30">
-    <img src="{{ site.urlimg }}import.png" alt="">
-    </div><!-- /.medium-4.columns -->
-</div>
+{% include imagen source="screenshot/atom.png" alt="Captura de Aton." %}
+{% include imagen source="screenshot/import.png" alt="Captura de Atom." %}
 
 ## Lectura adicionales
-* ["Git en Atom"]({{ site.url }}/tips/gitatom/)
+* ["Git en Atom"]({{ site.url }}/deepin/gitatom/)

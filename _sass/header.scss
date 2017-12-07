@@ -9,7 +9,8 @@
 }
 
 header {
-	padding: 16px 0 10px 0;
+	padding: 0;
+	//padding: 16px 0 10px 0;
 	background: $header-color linear-gradient(45deg, rgba(0, 0, 0, 0), $secondary-header-color);
 	color: #fff;
 	min-height: 47px;
@@ -24,10 +25,43 @@ header {
 		}
 	}
 
-	.top-bar {
+	.top-bar { //Top-bar
 		@media #{$nav-snap} {
 			display: flex;
 		}
+
+		/*Traslado de codigo (para el menu horizontal)*/
+		a {
+			color: #fff;
+			text-decoration: none;
+			display: block;
+			padding: 10px 30px;
+			/* Mejoras para pantallas pequenas*/
+			@media only screen and (min-width: 100px) and (max-width: 399px) {
+				padding: 5px 30px;
+				font-size: 1.3em;
+			}
+
+			@media #{$nav-snap} {
+				display: inline-block;
+				padding: 7px 0;
+				margin: 0 10px;
+				border-bottom: 2px solid rgba(255, 255, 255, 0)
+			}
+
+			&.active, &.active:hover {
+				border-bottom-color: rgba(255, 255, 255, .3);
+			}
+
+			&:hover {
+				text-decoration: none;
+				color: #fff;
+				@media #{$nav-snap} {
+					border-bottom-color: rgba(255, 255, 255, .1);
+				}
+			}
+		}
+		//Fin a
 
 		.logo {
 			a {
@@ -45,11 +79,11 @@ header {
 			}
 
 			svg {
-				fill: #fff;
+				/*fill: #fff;
 				height: 33px;
 				width: 50px;
 				position: relative;
-				top: 5px;
+				top: 5px;*/
 			}
 		}
 	}
@@ -65,6 +99,9 @@ header {
 
 				svg {
 					width: 15px;
+					@media only screen and (min-width: 400px) {
+						width: 10px!important;
+					}
 					position: relative;
 					top: 6px;
 				}
@@ -76,12 +113,17 @@ header {
 			color: #fff;
 			text-decoration: none;
 			display: block;
-			padding: 20px 0;
+			padding: 20px 20px;//Menu vertical
+
+			@media only screen and (min-width: 400px) and (max-width: 799px) {
+				padding: 0 3px 1px 3px;
+				font-size: 1.5em;
+			}
 
 			@media #{$nav-snap} {
 				display: inline-block;
 				padding: 7px 0;
-				margin: 0 15px;
+				margin: 0 10px;
 				border-bottom: 2px solid rgba(255, 255, 255, 0)
 			}
 
@@ -104,25 +146,27 @@ header {
 	display: block;
 }
 
-.nav-toggle {
-	position: absolute;
-	right: 25px;
-	font-size: 1.6em;
-	line-height: 1em;
-	text-decoration: none;
-	color: #fff;
-	top: 4px;
+.nav-toggle { //Para el menu
+	//position: absolute;
+	//right: 25px;
+	//font-size: 1.6em;
+	//line-height: 1em;
+	//text-decoration: none;
+	//color: #fff;
+	//top: 4px;
+	//z-index: 2;
 
-	@media #{$nav-snap} {
-		display: none;
-	}
+	//@media #{$nav-snap} {
+	//	display: none;
+	//}
 }
 
+//Encabezado y busqueda
 .hero_search {
-	display: none;
+	//display: none; Aparece en los posts
 	text-align: center;
 	flex: 0 0 100%;
-	padding: 60px 0 40px 0;
+	padding: 70px 0 30px 0;//Tamano ideal
 
 	h1 {
 		margin: 0 0 14px 0;

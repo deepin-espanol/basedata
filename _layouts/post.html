@@ -24,23 +24,8 @@ layout: default
 			{% endfor %}
 		</div>
 
-		{% if page.type == "Video" %}
-			{% include youtube.html video_id=page.video_id %}
+		{% include resources.html %}
 
-			{% if page.resources %}
-				<div class="resources">
-					<ul>
-						{% for resource in page.resources %}
-							{% assign icon = "Link" %}
-							{% if resource.name == "Source code" %}
-								{% assign icon = "Source" %}
-							{% endif %}
-							<li>{% include document-icon.html icon=icon %}<a href="{{ resource.link }}">{{ resource.name }}</a></li>
-						{% endfor %}
-					</ul>
-				</div>
-			{% endif %}
-		{% endif %}
 		{{ content }}
 
 		{% include share-section.html %}
@@ -75,6 +60,7 @@ layout: default
 {% endif %}
 
 {% include disqus.html %}
+{% include pluscomments.html %}
 
 <div id="subscribe" class="modalDialog">
 	<div>
@@ -103,7 +89,15 @@ layout: default
 	</div>
 </div>
 
-<script src="/js/main.js"></script>
+<div id="edit" class="modalDialog sharing">
+	<div>
+		<a title="Close" class="close">&times;</a>
+		<h2>Editar esta página</h2>
+		<p>Para editar <a href="{{ site.data.externalurl.reposource }}/{{ page.path }}">visita el respositorio donde esta alojado esta web</a>.</p>
+	</div>
+</div>
+
+<script src="/js/main.min.js"></script>
 
 <script>
 	var headings = document.querySelectorAll("h2[id]");
@@ -135,3 +129,5 @@ layout: default
 		}
 	});
 </script>
+
+{% include _hero_search.html %}

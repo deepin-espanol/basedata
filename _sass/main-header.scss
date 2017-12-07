@@ -1,0 +1,55 @@
+/*
+Fuente: https://franciscoamk.com/como-crear-una-fija-estatica-con-html-y-css/
+*/
+#main-header {
+	min-height: 47px;
+	padding: 10px 0 10px 0; /* Proporcion compacta */
+	background: $header-color linear-gradient(45deg, rgba(0, 0, 0, 0), $secondary-header-color);
+	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la pagina */
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	top: 0; /* Posicionamos la cabecera pegada arriba */
+	position: fixed; /* Hacemos que la cabecera tenga una posicion fija */
+	z-index: 2; /* Sobrepone el menu */
+
+	.editor-link{
+			display: none;//bug
+	}
+
+	.logo {
+		a {
+			display: block;
+			line-height: 0;
+			text-decoration: none;
+			color: #fff;
+
+			span {
+				display: none;
+				position: relative;
+				top: -4px;
+				right: -3px;
+				}
+			}//Fin logo
+
+		svg {
+			fill: #fff;
+			height: 33px;
+			width: 60px; //antes 50px
+			position: relative;
+			top: 2px; //antes 5
+			}
+		}	//Fin logo
+		.nav-toggle { //Para el menu
+			position: absolute;
+			right: 30px;
+			font-size: 1.6em;
+			line-height: 1em;
+			text-decoration: none;
+			color: #fff;
+			top: 10px; //4px
+			z-index: 2;
+
+			@media #{$nav-snap} {
+				display: none;
+			}
+		}//Fin nav toggle
+}

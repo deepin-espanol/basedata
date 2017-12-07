@@ -1,26 +1,30 @@
-# Deepin en acción
+# Ayuda de Deepin
 
-Deepin en acción (en nombre clave "Basedata") es una colección de información relevante sobre el sistema operativo. Está desarrollado por Deepin en Español.
+Ayuda de Deepin (en nombre clave "Basedata") es una colección de información relevante sobre el sistema operativo. Está desarrollado por Deepin en Español.
 
-![Base dsoftware screenshot](images/_screenshot.png)
+![Deepin dsoftware screenshot](images/_screenshot.png)
 
 **Deepin en acción** está diseñada con el tema Base [CloudCannon](http://cloudcannon.com/) ([información](https://learn.cloudcannon.com/jekyll-dsoftwares/) y [documentación](https://learn.cloudcannon.com/)).
 
 ## Lo que contiene
 
-* Acciones básicas de Deepin
+* Aplicaciones
 * Tutoriales
+* Dudas frecuentes
+* Tips y trucos
 * Y más...
 
-Contienen algunas modificaciones:
-* Añadido Telegram para compartir (post.html)
-* Modificada la página de inicio
-* Añadido Telegram en redes sociales
+Contienen algunas mejoras:
+* Compartir en redes sociales (como Telegram)
+* Editar posts
+* Página de inicio dividida en artículos y vídeos
+* Traducción
+* Buscador integrado
 
 ## Desarrollo
-
 Base está construído sobre [Jekyll](http://jekyllrb.com/) versión 3.4.3, con soporte para nuevas actualizaciones.
 
+### Emular la página en la PC
 Puedes instalar el servidor con [Bundler](http://bundler.io/):
 
 ~~~bash
@@ -33,37 +37,28 @@ Ejecuta los comandos `jekyll`:
 $ bundle exec jekyll serve
 ~~~
 
-## Editing
-
-Base is already optimised for adding, updating and removing tutorials, navigation, footer and FAQ information in CloudCannon.
-
-The sticky sidebar in tutorials in populated by pulling out `<h2>` elements from the content.
+### Edición
+Usamos Gitlab para subir parches a la página.
 
 ### Posts
+* Los detalles del post están en la carpeta Notas
+* Puedes empezar con una plantilla al crera un post en una carpeta específica `_posts/_defaults.md`.
+* Recuerda seleccionar la categoría adecuada para el post
 
-* Add, update or remove a post in the *Posts* collection.
-* The tutorials page is organised by categories.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+### Serie de posts
+Esa catracterística es opcional.
+* Añade un nuevo documento a la carpeta `sets`.
+* Establece el `title` (título) y `description` (descripción).
 
-### Post Series
-To create a new series:
-
-* Add a new document to the `sets` collection.
-* Set the `title` and `description`.
-
-To add a tutorial/post to a series:
-* Add a `set` field to the tutorial front matter which points to the file name of the desired set without the `.md` extention. e.g. If I have a set at `_sets/getting-started.md` I would use this in my tutorial front matter: `set: getting-started`.
-* Add a `set_order` field to the tutorial front matter and specify a number. This is the tutorials order in the set.
+Para añadir un tutorial/post to a la serie:
+* Añade un `set` como front matter (encabezado) y con el nombre establecido en la carpeta sin la extensión `.md`. Por ejemplo si mi se está en  `_sets/getting-started.md` añado la línea al front matter: `set: getting-started`.
+* Añade el `set_order` para ordenar la serie debajo de la línea ya mencionada.
 
 ### Navegación
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
+* Se ubica en la sección *Data* / *Navigation*.
 
 ### Pie
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+* Se ubica en la sección *Data* / *Footer*.
 
 ## Licencia
 

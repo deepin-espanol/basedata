@@ -1,32 +1,58 @@
 ---
-faq:
+faq1:
+  - question: Soy nuevo en Deepin ¿dónde empiezo?
+    answer: Empieza primero en <a href="/deepin/download">Básico</a>. Al instalar Deepin, no te ovlides visitar los Tutoriales.
+  - question: ¿Qué contiene la sección Básico?
+    answer: Es la sección importante de esta ayuda, para que descargues, instales y actualices Deepin
+  - question: ¿Qué encuentro en los Tutoriales?
+    answer: Los <a href="/deepin-tutoriales">tutoriales</a> muestra los pasos más importantes al realizar cierta necesidad.
+  - question: ¿Qué encuentro en las dudas frecuentes?
+    answer: Son recopilatorios, en donde respondemos varias preguntas realizadas en foros y redes sociales. Se encuentra en una <a href="/dudas">categoría aparte</a>.
+  - question: ¿Puedo compartir estos tutoriales?
+    answer: Sí. Los enlaces se muestran al terminar el artículo.
+faq2:
   - question: ¿Qué es Ayuda de Deepin?
     answer: Es un proyecto que recopila varios artículos para todos los usuarios.
-  - question: ¿Qué es el manual?
-    answer: Es una categoría que contiene información escencial como la instalación y los primeros usos.
-  - question: ¿Qué es la sección Básica?
-    answer: Es la sección importante de esta ayuda, para que descargues, instales y actualices Deepin
-  - question: ¿Qué son las dudas frecuentes?
-    answer: Son recopilatorios, en donde respondemos varias preguntas realizadas en foros y redes sociales. Se encuentra en los Anexos.
-  - question: ¿Puedo compartir este manual?
-    answer: Sí. Los enlaces se muestran al terminar el artículo.
-  - question: ¿El manual es de código abierto?
+  - question: ¿La "Ayuda de Deepin" es de código abierto?
     answer: Sí. Está como "database" en el Gitlab y Github de Deepin en Español.
   - question: ¿Tienen una página de contacto?
-    answer: Por ahora, no. Si quieres comunicar con el grupo, visita http://deepin.ovh.
+    answer: Por ahora, no. Si quieres comunicar con el grupo, visita <a href="http://deepin.ovh">deepin.ovh</a>.
+  - question: ¿A qué se debe deepin.ovh?
+    answer: A Alex Avalos y el proveedor ovh.es.
+  - question: ¿Puedo participar en la Ayuda de Deepin?
+    answer: Sí. Necesitas de una cuenta de Gitlab, conocimientos en Jekyll y habilidad. Más detalles en <a href="https://gitlab.com/deepin-espanol/basedata">este respositorio</a>
 ---
 
 <h1>Preguntas y respuestas</h1>
 
+<h2>Para empezar</h2>
+
 <section class="faq">
 	<ul>
-		{% for item in page.faq %}
+		{% for item in page.faq1 %}
 			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
 		{% endfor %}
 	</ul>
 
-	{% for item in page.faq %}
-		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
+	{% for item in page.faq1 %}
+		<h3 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h3>
 		{{ item.answer | markdownify }}
 	{% endfor %}
 </section>
+
+<h2>Sobre la web</h2>
+
+<section class="faq">
+	<ul>
+		{% for item in page.faq2 %}
+			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+		{% endfor %}
+	</ul>
+
+	{% for item in page.faq2 %}
+		<h3 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h3>
+		{{ item.answer | markdownify }}
+	{% endfor %}
+</section>
+
+{% include _hero_search.html %}

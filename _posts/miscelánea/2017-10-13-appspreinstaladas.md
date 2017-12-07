@@ -9,9 +9,9 @@ tags:
     - guiapps
 ---
 
-En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/). No obstante, te mostramos una selección de [aplicaciones]({{ site.url }}{{ site.baseurl }}/apps/) preinstaladas y listas para usar. las cuales deberías revisar para tareas cotidianas, incluyendo [aplicaciones originales]({{ site.url }}{{ site.baseurl }}/originales/) de Deepin.
+En Deepin comentamos y comprobamos varias aplicaciones despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/deepin/instalacion/). No obstante, te mostramos una selección de [aplicaciones]({{ site.url }}{{ site.baseurl }}/deepin/) preinstaladas y listas para usar. las cuales deberías revisar para tareas cotidianas, incluyendo [aplicaciones originales]({{ site.url }}{{ site.baseurl }}/dsoftware/) de Deepin.
 
-Para listas de aplicaciones centradas en tareas específicas, visita la lista [Guía de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiaapps/). Iremos aumentando con la ayuda de colaboradores.
+Para listas de aplicaciones centradas en tareas específicas, visita la lista [Guía de aplicaciones]({{ site.url }}{{ site.baseurl }}/deepin/guiaapps/). Iremos aumentando con la ayuda de colaboradores.
 
 ## Aplicaciones escenciales
 <table>
@@ -41,7 +41,7 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     </tr>
     <tr>
       <td>Suite de oficina</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/wps">WPS</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/libreoffice">LibreOffice</a>, Google Docs, OpenOffice</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/wps">WPS</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/libreoffice">LibreOffice</a>, Google Docs, OpenOffice</td>
     </tr>
     <tr>
       <td>Calendario</td>
@@ -69,19 +69,19 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     </tr>
     <tr>
       <td>Gestor de archivos</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/filemanager">File Manager</a></b>, Nautilus, Dolphin</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/filemanager">File Manager</a></b>, Nautilus, Dolphin</td>
     </tr>
     <tr>
       <td>Copia de seguridad</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/manual/deepin-clone">Deepin Clone</a></b></td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/deepin-clone">Deepin Clone</a></b></td>
     </tr>
     <tr>
       <td>Navegador</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/chrome">Chrome</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/chrome">Chrome</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
     </tr>
     <tr>
       <td>Plataforma de juegos</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/apps/steam">Steam</a></b>, GOG.com</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/steam">Steam</a></b>, GOG.com</td>
     </tr>
     <tr>
       <td>Configuración de impresora</td>
@@ -93,12 +93,12 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     </tr>
     <tr>
       <td>Modo seguro</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/manual/deepin-recovery">Deepin Recovery</a></b></td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/deepin-recovery">Deepin Recovery</a></b></td>
     </tr>
   </tbody>
 </table>
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/anexos/guiapps/">¿Algo corto? Visita estos listados según tus necesidades ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/deepin/guiapps/">¿Algo corto? Visita estos listados según tus necesidades ›</a>
 
 ## Notas
 Basada en una [publicación de MuyLinux](https://www.muylinux.com/2017/09/19/aplicaciones-por-defecto-ubuntu-18-04-2/). Las aplicaciones en negritas indican por defecto en Deepin 15.4.1. Otras aplicaciones como Deepin Clone, Paint y Note serán incluidas en 15.5.

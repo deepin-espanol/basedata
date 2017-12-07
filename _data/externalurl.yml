@@ -1,0 +1,16 @@
+# Para añadir información al post, se añade site.data.externalurl.*
+# URL del repositorio para editar (site.data.externalurl.reposource)
+reposource: https://gitlab.com/deepin-espanol/database/tree/master
+# URL de la Ayuda de Deepin (site.data.externalurl.ayudadeepin)
+ayudadeepin: http://ayuda.deepin.ovh
+# URL de Deepin en Español (site.data.externalurl.homedenespanol)
+homedenespanol: http://deepin.ovh
+# URL de la licencia de Deepin (site.data.externalurl.licenciadeepin)
+ayudadeepin: http://deepin.ovh/licencia
+
+# PÁGINA DE DESCARGAS (site.data.externalurl.*)
+sourceforge: https://sourceforge.net/projects/deepin/files/15.5/Release/
+googledrive: https://drive.google.com/drive/folders/1WnKiU-9HNq-WGxJHu6OVqEQuvRRt5gx3
+meganz: https://mega.nz/#F!hxdQEKza!K__iEn4p4wZASNHGkZjlBA
+# CD oficial desde China
+cddeepin: http://cdimage.deepin.com/releases/15.5/deepin-15.5-amd64.iso

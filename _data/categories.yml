@@ -1,49 +1,64 @@
-dudas:
-  description: Dudas frecuentes para Deepin
-  featured:
-    - dudas
-    - dudas-aplicaciones
-    - dudas-particiones
-    - dudas-drivers
-aplicaciones:
-  description: Aplicaciones para Deepin
-  featured:
-    - steam
-    - telegram
-    - kodi
-    - wps
-manual de uso:
-  description: Manual de uso
-  featured:
-    - apagar
-    - office
-    - documentos
-    - teclado
-miscelánea:
-  description: Contenido no especificado
-  featured:
-    - torrent
-    - juegos
-    - iconos-halo
-    - donar
 sistema operativo:
-  description: El sistema operativo
+  description: El sistema operativo, sus características y puntos claves
   featured:
     - download
     - instalacion
     - update
     - novedades
-técnico:
-  description: Información avanzada
+tutoriales:
+  description: Tutoriales para manejar Deepin (apto para todos)
   featured:
-    - drivers
-    - dtk
-    - api
-    - plugin
+    - apagar
+    - office
+    - documentos
+    - teclado
+dudas:
+  description: Varias preguntas elaboradas para Deepin
+  featured:
+    - dudas
+    - dudas-aplicaciones
+    - dudas-particiones
+    - dudas-drivers
 tips y trucos:
-  description: Consejos extras
+  description: Consejos extras, formas de reparar (apto para conocedores)
   featured:
     - mirror
     - editar-host
     - alacarte
     - fuentes-truetype
+técnico:
+  description: Información para desarrolladores e investigadores
+  featured:
+    - drivers
+    - dtk
+    - apt
+    - plugin
+miscelánea:
+  description: Material adicional de la comunidad y relacionados a Linux
+  featured:
+    - torrent
+    - guiapps
+    - terminos-espanol
+    - donar
+#Aplicaciones
+general:
+  description: Aplicaciones de uso cotidiano para Deepin
+  featured:
+    - steam
+    - telegram
+    - kodi
+    - wps
+juegos:
+  description: Juegos compatibles en Deepin
+  featured:
+    - steam
+    - lutris
+    - RPCS3
+    - 0ad
+utilidades:
+  description: Herramientas para la terminal, temas de iconos y servicios especiales
+  featured:
+    - tema-arc
+    - iconos-halo
+    - iconos-marea
+    - deepin-theme

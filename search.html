@@ -1,7 +1,13 @@
 ---
-title: Search
+title: Búsqueda
 sitemap: false
 ---
+<style type="text/css">
+	/*Código para forzar a usar el buscador*/
+	.sub-text {
+		display: none!important;
+	}
+</style>
 
 <p><span id="search-process">Cargando</span> resultados <span id="search-query-container" style="display: none;">para "<strong id="search-query"></strong>"</span></p>
 <ul id="search-results"></ul>
@@ -27,4 +33,4 @@ sitemap: false
 	};
 </script>
 <script src="{{ site.baseurl }}/js/lunr.min.js"></script>
-<script src="{{ site.baseurl }}/js/search.js"></script>
+<script src="{{ site.baseurl }}/js/search.min.js"></script>

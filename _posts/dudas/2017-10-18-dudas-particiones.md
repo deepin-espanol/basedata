@@ -10,7 +10,7 @@ tags:
 
 En la *Comunidad Deepin* aclaramos que el sistema operativo  perfecto no existe. Buscamos que cualquiera conozca Deepin, como si fuera un vehículo o una ciudad.
 
-En esta página respondemos las dudas relacionadas a las particiones en Deepin. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/anexos/dudas/). En general, para almacenar datos y documentos se emplean particiones EXT (análogos al NTFS de Windows).
+En esta página respondemos las dudas relacionadas a las particiones en Deepin. Es un complemento a la página [Dudas frecuentes]({{ site.url }}{{ site.baseurl }}/deepin/dudas/). En general, para almacenar datos y documentos se emplean particiones EXT (análogos al NTFS de Windows).
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
@@ -55,20 +55,20 @@ Tienes de 2 a 4 particiones con sus respectivas unidades de montaje:
 Si tienes menos de 4 GB de RAM, es indispensable. Si pasas esa cantidad, no es obligatorio tener esa partición.
 
 ### ¿Puedo usar particiones de Windows con Deepin?
-Sí, tal como menciona [el manual]({{ site.url }}/manual/dual-boot/).
+Sí, tal como menciona [el manual]({{ site.url }}/deepin/dual-boot/).
 
 ### ¿La partición con la unidad de montaje "/" es el principal en Deepin?
 Algo así. En Windows es el equivalente a C.
 
 ### ¿Puedo gestionar las particiones dentro de Deepin?
-Sí. Con la aplicación [GParted]({{ site.url }}/apps/gparted/).
+Sí. Con la aplicación [GParted]({{ site.url }}/deepin/gparted/).
 
 ### ¿Cómo reparar una partición?
-En motivos que el sistema no arranca correctamente, debes revisar si algunas particiones fueron dañadas. Al mostrar la pantalla con puro texto, usa la herramienta [fsck](https://es.wikipedia.org/wiki/Fsck) en la [terminal]({{ site.url }}/anexos/dudas-terminal/) y ejecuta `fsck /dev/sdXX -y`, por ahora comprobará algún daño y lo reparará.
+En motivos que el sistema no arranca correctamente, debes revisar si algunas particiones fueron dañadas. Al mostrar la pantalla con puro texto, usa la herramienta [fsck](https://es.wikipedia.org/wiki/Fsck) en la [terminal]({{ site.url }}/deepin/dudas-terminal/) y ejecuta `fsck /dev/sdXX -y`, por ahora comprobará algún daño y lo reparará.
 
 En caso que no sepas qué partición reparar, sdXX viene a ser el número de partición, como sda1; en caso de otros discos duros reemplaza a hdXX. Por ejemplo, si la partición principal ("/") es sda1, ejecuta el comando `fsck /dev/sda1 -y`.
 
 ## Seguimos creciendo
 Si aún no encuentras tu pregunta, usa el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 
-No olvides que estamos en [en Github](https://github.com/comunidad-deepin/comunidad-deepin.github.io).
+No olvides que estamos en [en este respositorio]({{ site.data.externalurl.reposource }}).

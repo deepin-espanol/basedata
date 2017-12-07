@@ -9,7 +9,7 @@ tags:
     - guiapps
 ---
 
-En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/instalacion/) recopilamos y comentamos esas cosas importantes del software.
+En Deepin tenemos [guías de aplicaciones]({{ site.url }}{{ site.baseurl }}/guiapps/), despúes de [instalar el sistema operativo]({{ site.url }}{{ site.baseurl }}/deepin/instalacion/) recopilamos y comentamos esas cosas importantes del software.
 
 En esta página te mostramos un catálogo de aplicaciones para profesionales. Algunas de ellas [vienen incluidas]({{ site.url }}{{ site.baseurl }}/escenciales/), mientras que otras requieren de instalación via Deepin Store o su sitio web.
 
@@ -29,7 +29,7 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
   <tbody>
     <tr>
       <td>Herramientas de elaboración</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/bibisco">Bibisco</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/manuskript">Manuskript</a>, Trelby</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/bibisco">Bibisco</a>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/manuskript">Manuskript</a>, Trelby</td>
     </tr>
     <tr>
       <td>Mapas concepctuales</td>
@@ -54,31 +54,31 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
   <tbody>
     <tr>
       <td>Editor de imágenes</td>
-      <td>GIMP, Darktable, <a href="{{ site.url }}{{ site.baseurl }}/apps/krita">Krita</a>, Shotwell</td>
+      <td>GIMP, Darktable, <a href="{{ site.url }}{{ site.baseurl }}/deepin/krita">Krita</a>, Shotwell</td>
     </tr>
     <tr>
       <td>Compresor de imágenes</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/imagineapp">Imagine</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/imagineapp">Imagine</a></td>
     </tr>
     <tr>
       <td>Editor de vídeo</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/apps/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
     </tr>
     <tr>
       <td>Editor de música</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/audacity">Audacity</a>, Ocenaudio</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/audacity">Audacity</a>, Ocenaudio</td>
     </tr>
     <tr>
       <td>Grabación en imagen real</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/cheeseapp">Cheese</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/cheeseapp">Cheese</a></td>
     </tr>
     <tr>
       <td>Grabación de pantalla</td>
-      <td><b>Deepin Screen Recorder</b>, <a href="{{ site.url }}{{ site.baseurl }}/apps/green-recorder">Green Recorder</a>, vokoscreen y kazam</td>
+      <td><b>Deepin Screen Recorder</b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/green-recorder">Green Recorder</a>, vokoscreen y kazam</td>
     </tr>
     <tr>
       <td>Codificación de vídeo</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/handbrake">handBrake</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/handbrake">handBrake</a></td>
     </tr>
   </tbody>
 </table>
@@ -99,15 +99,15 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
   <tbody>
     <tr>
       <td>Dibujo 2D</td>
-      <td>Deepin Paint, <a href="{{ site.url }}{{ site.baseurl }}/apps/krita">Krita</a></td>
+      <td>Deepin Paint, <a href="{{ site.url }}{{ site.baseurl }}/deepin/krita">Krita</a></td>
     </tr>
     <tr>
       <td>Modelado 3D</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/blender">Blender</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/blender">Blender</a></td>
     </tr>
     <tr>
       <td>Animación</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/opentoonz">OpenToonz</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/opentoonz">OpenToonz</a></td>
     </tr>
     </tbody>
 </table>
@@ -135,7 +135,7 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
 
 ### Entornos de desarrollo
 
-Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsdesarrollo/)**.
+Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/deepin/appsdesarrollo/)**.
 
 ## Ingeniería civil
 <table>
@@ -157,7 +157,7 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsd
     </tr>
     <tr>
       <td>Diseño CAD 3D</td>
-      <td>BRL-CAD, <a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">FreeCAD</a>, gCAD3D, QCad</td>
+      <td>BRL-CAD, <a href="{{ site.url }}{{ site.baseurl }}/deepin/freecad">FreeCAD</a>, gCAD3D, QCad</td>
     </tr>
     <tr>
       <td>Diseño CAD 2D</td>
@@ -165,11 +165,11 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/anexos/appsd
     </tr>
     <tr>
       <td>Diseño de casas 3D</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/freecad">Sweet Home</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/freecad">Sweet Home</a></td>
     </tr>
     <tr>
       <td>Presión y exploración subterránea</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/subsurface">Subsurface</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/subsurface">Subsurface</a></td>
     </tr>
     </tbody>
 </table>
@@ -237,15 +237,15 @@ Nota: El listado no cuenta si la simulación es ultra-realista.
   <tbody>
     <tr>
       <td>Aviación</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/flightgear">FlightGear</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/flightgear">FlightGear</a></td>
     </tr>
     <tr>
       <td>Espacio exterior</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/celestia">Celestia</a>, Universe Sandbox 2 (de pago)</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/celestia">Celestia</a>, Universe Sandbox 2 (de pago)</td>
     </tr>
     <tr>
       <td>Civilización</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/apps/freeciv">FreeCIV</a></td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/freeciv">FreeCIV</a></td>
     </tr>
   </tbody>
 </table>

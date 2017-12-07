@@ -8,8 +8,9 @@ baseurl: ""
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
-repo_source: https://gitlab.com/deepin-espanol/database/tree/master
+repo_source: https://gitlab.com/deepin-espanol/basedata/tree/master
 official_url: http://ayuda.deepin.ovh
+pluscomments: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/favicon/favicon-32x32.png
@@ -19,8 +20,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Telegram
+  name: Deepin en Español
   links:
+    - http://deepin.ovh
     - https://t.me/deepinenespanol
 
 # -----
@@ -42,8 +44,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - CHANGES.md
   - LICENCE
+
+exclude_paths:
+    - "changelog/"
+    - "licenses/"
 
 collections:
   sets:
@@ -81,6 +86,11 @@ defaults:
   -
     scope:
       path: "index.html"
+    values:
+      body_class: "show_hero_search"
+  -
+    scope:
+      path: "search.html"
     values:
       body_class: "show_hero_search"
 # -----------

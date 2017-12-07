@@ -1,0 +1,4 @@
+<!--Soporte imagenes con Lazyload. Requiere entrada 0 y 1
+Funciona así: include imagen scr="foto.jpg" alt="Descripción de imagen"
+-->
+<img class="screenshot" data-src="{{site.url}}/images/{{ include.source }}" alt="{{ include.alt }}">
