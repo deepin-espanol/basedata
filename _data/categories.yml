@@ -12,13 +12,13 @@ tutoriales:
     - office
     - documentos
     - teclado
-dudas:
+faq:
   description: Varias preguntas elaboradas para Deepin
   featured:
-    - dudas
-    - dudas-aplicaciones
-    - dudas-particiones
-    - dudas-drivers
+    - faq-dual-boot
+    - faq-driver
+    - faq-que-es-terminal
+    - faq-reportar-feedback
 tips y trucos:
   description: Consejos extras, formas de reparar (apto para conocedores)
   featured:

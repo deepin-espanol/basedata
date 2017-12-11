@@ -16,7 +16,7 @@ TODO: * Caja de comentarios Google+
 * Categorías indispensables permitidas:
 	- deepin-sistema operativo (ubicado en la carpeta `SO`)
 	- deepin-tutoriales
-  - deepin-dudas (listados de preguntas)
+  - deepin-faq (listados de preguntas)
 * Categorías adicionales permitidas:
 	- deepin-tips y trucos (ubicado en la carpeta `tips y trucos`)
 	- deepin-técnico (con tilde)

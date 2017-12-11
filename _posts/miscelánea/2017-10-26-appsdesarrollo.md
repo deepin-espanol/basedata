@@ -31,7 +31,7 @@ Hay que considerar que algunos editores de texto usan un entorno de desarrollo i
   <tbody>
     <tr>
       <td>Editores de código</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/atom">Atom</a>, Visual Code, Emacs, Vim, Sublime Text (versión gratuita), Brackets</td>
+        <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/atom">Atom</a>, Visual Code, Emacs, Vim, Sublime Text (versión gratuita), <a href="{{ site.url }}{{ site.baseurl }}/deepin/brackets">Brackets</a></td>
     </tr>
     <tr>
       <td>IDE en general</td>

@@ -1,9 +1,9 @@
 ---
 type: Document
-title: "Información y preguntas sobre la empresa Deepin Wuhan"
+title: "Información sobre la empresa Deepin Wuhan"
 description: "Conoce más sobre la organización y las personas claves en el desarrollo."
 tags:
-    - deepin-dudas
+    - deepin-miscelánea
     - china
     - empresa
     - dudas
@@ -31,7 +31,7 @@ Raccoon o "mapache".
 
 ## Empresa
 ### ¿Qué es Deepin Wuhan?
-Es la empresa, dueña de la marca y un proveedor de soluciones para Linux. Desarrolla el software, con herramientas de apoyo y lo distribuye a nivel internacional. Sé fundado en 2011 y su sede se encuentra en Wuhan, China.
+Es una empresa de ciencia y tecnología con sede en Wuhan, China. Forma parte de la Fundación Linux y está muy comprometida con los proyectos de código y software libre. Se dedicada a la investigación y desarrollo del sistemas operativos GNU/Linux ( Deepin OS ) software y soluciones afines las cuales distribuye y comercializa a nivel internacional.
 
 Fuente: [Bloomberg](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=274650450)
 
@@ -51,33 +51,22 @@ En 2009, debido a su éxito de los usuarios, se internacionalizó. El lazamiento
 
 Fuente: [Unixmen](https://www.unixmen.com/linux-deepin-software-center-will-become-opensources-own-app-store-by-end-of-year/), [Blog de Deepin](https://www.deepin.org/en/2016/01/08/legendary-life-in-memoriam-of-debian-founder-ian-murdock/)
 
-### ¿A dónde va Deepin?
-Deepin puede ser usado por cualquier usuario que quiera disfrutar de un sistema GNU/Linux con un diseño elegante y simple. Desde escribir documentos, usar multimedia, gestionar con programas estudiantes o profesionales y juegos. Para los usuarios de Microsoft Windows, es posible ejecutar aplicaciones con Microweaver Crossover.
+### ¿Cúal es el objetivo de Deepin Wuhan?
+Deepin pretende crear un sistema GNU/Linux fresco amigable para al usarlo con un diseño elegante y simple.Ofreciendo un conjunto de soluciones propias que permitan desde el un primer momento llevar a cabo todas las tareas que el usuario requiera
 
-### ¿Además del sistema operativo que otras cosas desarrolla Deepin?
-Deepin tiene una tienda de aplicaciones llamada Deepin Store (antes Deepin Software Center), lanzada en 2011. En ella, se distribuyen aplicaciones optimizadas para Deepin con apoyo de desarrolladores y empresas.
+### ¿Deepin hace aportes con Linux?
 
-También realización adaptaciones (o "ports") de ciertos programas conocidos al sistema operativo. Por ejemplo, el cliente de mensajería china QQ en enero de 2015.
-
-Fuente: [Unixmen](https://www.unixmen.com/linux-deepin-software-center-will-become-opensources-own-app-store-by-end-of-year/), [Blog de Deepin](https://www.deepin.org/en/2015/01/08/qq6-7-runs-in-deepin-without-any-toss/)
-
-### ¿Quién finanza Deepin?
-Deepin es financiada por la misma empresa en convenio con otras empresas de China y el mundo.
-
-Fuente: [Diolinux](https://web.archive.org/web/20170820073830/http://www.diolinux.com.br/2017/06/entrevistamos-hualet-wang-linux-deepin.html)
-
-### ¿Deepin está colaborando con la Fundación Linux?
-
-Sí. Desde 2015.
+Sí. Desde 2015 forma parte de la Fundación Linux.
 
 Fuente: [Linux Fundation](https://www.linuxfoundation.org/press-release/alibaba-dchq-mediatek-paypal-and-wuhan-deepin-technology-join-linux-foundation/)
 
 ## Integrantes
-* Hualet Wang (Administrador del proyecto DDE)
-* Liu Wenhuan (Fundador y CEO Deepin Wuhan Tecnology)
-* Andy Stewart (Vice General Manager)
-* Melody Zou (Product Operating)
-* Decenas de desarrolladores, incluyendo a Peng Li y otros más
+Liu Wenhuan (Fundador y CEO Deepin Wuhan Tecnology)
+Andy Stewart (Vice Genera Manager)
+Hualet Wang  (DDE Project Manager)
+KevinChiang  (Product Manager)
+Melody Zou   (Product Operating)
+Un staf de desarrolladores como lo son  Peng Li y otros
 
 ## Información adicional
 Tenemos una pequeña colección de la revista de Deepin. Está en idioma chino y puedes consultar las fuentes de forma gratuita.
