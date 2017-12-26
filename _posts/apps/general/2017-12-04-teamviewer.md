@@ -1,5 +1,4 @@
 ---
-date: 2017-12-04
 type: Video
 title: "Teamviewer"
 description: "Asistencia en línea para particulares y empresas"

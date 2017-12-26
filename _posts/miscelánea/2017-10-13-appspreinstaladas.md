@@ -61,7 +61,7 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     </tr>
     <tr>
       <td>Reproductor de música</td>
-      <td><b>Deepin Music</b>, VLC, Rhythmbox, Clementine, Audacious</td>
+      <td><b>Deepin Music</b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/vlc">VLC</a>, Rhythmbox, Clementine, Audacious</td>
     </tr>
     <tr>
       <td>Terminal</td>
@@ -77,7 +77,7 @@ Para listas de aplicaciones centradas en tareas específicas, visita la lista [G
     </tr>
     <tr>
       <td>Navegador</td>
-      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/chrome">Chrome</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/kodi">Firefox</a>, Chromium, Vivaldi, Opera</td>
+      <td><b><a href="{{ site.url }}{{ site.baseurl }}/deepin/chrome">Chrome</a></b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/firefox">Firefox</a>, Chromium, Vivaldi, Opera</td>
     </tr>
     <tr>
       <td>Plataforma de juegos</td>

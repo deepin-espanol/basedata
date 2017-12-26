@@ -30,4 +30,4 @@ En China, los desarrolladores [tienen vida social](https://web.archive.org/web/2
 
 Si deseas conocer sobre ellos y sabes chino, te recomendamos [revisar esta revista](https://www.deepin.com/wp-content/uploads/2016/12/%E7%94%B5%E5%AD%90%E7%89%88%E5%86%85%E5%88%8A-1.pdf).
 
-{% include imagen source="screenshot/deepinmascot.jpg" alt="Mascota Deepin, elaborado por el equipo." %}
+{% include imagen source="screenshots/deepinmascot.jpg" alt="Mascota Deepin, elaborado por el equipo." %}

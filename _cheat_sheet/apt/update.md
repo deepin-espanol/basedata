@@ -1,5 +1,5 @@
 ---
-title: "apt update"
+title: "update"
 description: "Actualizar los paquetes del repositorio."
 ---
 ##### Código

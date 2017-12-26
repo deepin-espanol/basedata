@@ -1,5 +1,4 @@
 ---
-date: 2017-11-17
 type: Video
 title: "Spyder"
 description: "Editor para Python."

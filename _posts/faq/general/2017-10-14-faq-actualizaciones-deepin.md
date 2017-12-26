@@ -11,6 +11,6 @@ Si has venido a saber que fecha y que novedades se lanzarán ahí, tienes que es
 Deepin no tiene una fecha límite para realizar actualizaciones de importancia. Visita [esta página del manual]({{ site.url }}{{ site.baseurl }}/deepin/update/).
 
 ### Nota sobre el uso de repositorios
-Por [motivos de seguridad]({{ site.url }}{{ site.baseurl }}/deepin/dudas-tecnicas/), los respositorios usan la rama "panda" para paquetes diseñados para Deepin.
+Por [motivos de seguridad]({{ site.url }}{{ site.baseurl }}/deepin-faq//), los respositorios usan la rama "panda" para paquetes diseñados para Deepin.
 
 {% include _faq_post.md %}

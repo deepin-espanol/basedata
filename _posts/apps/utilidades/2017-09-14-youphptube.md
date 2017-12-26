@@ -12,6 +12,9 @@ tags:
     - apps-general
 
 video_id: OQ7FI06DYRs
+resources:
+  - name: Eduardo Collado
+    link: https://www.youtube.com/channel/UCtQ0vFvwnNJuQDnILjgxMeQ
 ---
 
 ## Qué es YouPHPtube
@@ -21,5 +24,3 @@ YouPHPtube es una plataforma de vídeos que puedes crear. Está pensado en servi
 Está disponible desde [su enlace de descarga (la versión gratuita)](https://www.youphptube.com/).
 
 Nota: No es una aplicación para descargar vídeos o un cliente para Youtube, eso es diferente.
-
-Fuente: [Eduardo Collado](https://www.youtube.com/channel/UCtQ0vFvwnNJuQDnILjgxMeQ)

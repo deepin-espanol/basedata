@@ -38,7 +38,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-email-protect
   - emoji_for_jekyll
-  - reduce
 
 exclude:
   - Gemfile
@@ -55,6 +54,9 @@ collections:
   cheat_sheet:
   dsoftwares:
     output: true
+  dwallpapers:
+    output: true
+
 
 jekyll-archives:
   enabled: ['tags']
@@ -79,10 +81,15 @@ defaults:
     values:
       _hide_content: true
   -
-      scope:
-        type: "dsoftwares"
-      values:
-        layout: dsoftware
+    scope:
+      type: "dsoftwares"
+    values:
+      layout: dsoftware
+  -
+    scope:
+      type: "dwallpapers"
+    values:
+      layout: dwallpaper
   -
     scope:
       path: "index.html"
@@ -131,3 +138,17 @@ apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
 apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor: '#fabb00'
+
+# ---------
+# Comprimir contenido (compress_html y sass)
+
+compress_html:
+  clippings: all
+  comments:  all
+  endings:   all
+  startings: all
+  blanklines: true #no funciona si está desactivado
+
+sass:
+  sass_dir: _sass
+  style: compressed

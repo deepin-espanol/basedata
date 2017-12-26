@@ -1,0 +1,22 @@
+---
+permalink: /dwallpapers/
+---
+<h1>Fondos de pantalla para Deepin</h1>
+
+<p>En Deepin tenemos una selección de fondos de pantall. Son {{ site.dwallpapers | size }} paquetes.</p>
+
+<ul class="dwallpapers">
+	{% assign dwallpapers = site.dwallpapers | sort: 'order' %}
+	{% for dwallpaper in dwallpapers %}
+		<li>
+			<a href="{{ dwallpaper.url }}">
+				{% assign first_image = dwallpaper.images | first %}
+				<h2>{{ dwallpaper.name }}</h2>
+				<p>{{ dwallpaper.description }}</p>
+				<div><img class="screenshot" src="{{ first_image.image }}" alt="Set {{ dwallpaper.name }}"></div>
+			</a>
+		</li>
+	{% endfor %}
+	<li></li>
+	<li></li>
+</ul>

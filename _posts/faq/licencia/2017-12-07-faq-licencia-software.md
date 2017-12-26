@@ -17,7 +17,7 @@ Esto incluye al entorno de escritorio y las aplicaciones originales. También in
 Deepin usa un sistema de caracteres simbólicos. Está bajo [Deepin OpenSymbol Public License](https://www.deepin.org/en/font-license/).
 
 ### ¿Cuáles son herramientas de software libres?
-Todo lo relacionado a [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/deepin/dudas-tecnicas/). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman.
+Todo lo relacionado a [GNU, Linux y Debian]({{ site.url }}{{ site.baseurl }}/deepin-faq//). GNU fue una respuesta al antes famoso Unix (que sirve de base para MacOS) desarrollado por un estudiante de tecnología, Richard M. Stallman.
 
 La adopción del núcleo Linux fue para accelerar su desarrollo (de ahí que también se conoce como "GNU/Linux"). Debian, en cambio, es un proyecto que vela la organización del sistema operativo para que Deepin tenga lo último en productividad y seguridad.
 

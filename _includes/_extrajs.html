@@ -1,0 +1,28 @@
+    <script type="text/javascript">
+    // @license magnet:?xt=urn:btih:5305d91886084f776adcf57509a648432709a7c7&dn=x11.txt X11
+    document.getElementById("open-nav").onclick = function () {
+      document.body.classList.toggle("nav-open");
+      return false;
+    };
+    // @license-end
+    </script>
+    <script type="text/javascript">
+    // @license magnet:?xt=urn:btih:5305d91886084f776adcf57509a648432709a7c7&dn=x11.txt X11
+    $(function() {
+      $('a[href*=\\#]').not(".no-smooth").on('click', function(event){
+        var el = $(this.hash);
+        if (el.length > 0) {
+          // event.preventDefault();
+          $('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
+        }
+      });
+
+      $('svg').click(function() {
+        var $form = $(this).parent('form');
+        if ($form.find('input[type="search"]').first().val().length > 0) {
+          $form.submit();
+        }
+      });
+    });
+    // @license-end
+    </script>

@@ -38,9 +38,47 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
     </tbody>
 </table>
 
-## Comunicación
+## Producción multimedia
+### Vídeo
 <table>
-  <caption>🔖 Edición</caption>
+  <caption>🔖 Edición de metraje</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Suite de edición de vídeo</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
+    </tr>
+    <tr>
+      <td>Editor lineal de vídeo</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/losslesscut">Losslesscut</a></td>
+    </tr>
+    <tr>
+      <td>Grabación en imagen real</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/cheeseapp">Cheese</a></td>
+    </tr>
+    <tr>
+      <td>Grabación de pantalla</td>
+      <td><b>Deepin Screen Recorder</b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/green-recorder">Green Recorder</a>, vokoscreen y kazam</td>
+    </tr>
+    <tr>
+      <td>Codificación de vídeo</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/handbrake">handBrake</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Fotografía
+<table>
+  <caption>🔖 Edición de fotogramas/fotografías</caption>
   <colgroup>
     <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
@@ -59,26 +97,6 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
     <tr>
       <td>Compresor de imágenes</td>
       <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/imagineapp">Imagine</a></td>
-    </tr>
-    <tr>
-      <td>Editor de vídeo</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/openshot">OpenShot</a>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/pitivi">Pitivi</a>, KDEnlive, Cinerrela</td>
-    </tr>
-    <tr>
-      <td>Editor de música</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/audacity">Audacity</a>, Ocenaudio</td>
-    </tr>
-    <tr>
-      <td>Grabación en imagen real</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/cheeseapp">Cheese</a></td>
-    </tr>
-    <tr>
-      <td>Grabación de pantalla</td>
-      <td><b>Deepin Screen Recorder</b>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/green-recorder">Green Recorder</a>, vokoscreen y kazam</td>
-    </tr>
-    <tr>
-      <td>Codificación de vídeo</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/handbrake">handBrake</a></td>
     </tr>
   </tbody>
 </table>
@@ -110,6 +128,35 @@ En esta página te mostramos un catálogo de aplicaciones para profesionales. Al
       <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/opentoonz">OpenToonz</a></td>
     </tr>
     </tbody>
+</table>
+
+### Sonido
+<table>
+  <caption>🔖 Música y sonido</caption>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 70%;">
+      </colgroup>
+  <thead>
+    <tr>
+      <th>Función</th>
+      <th>Aplicaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Composición de música</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/musescore">MuseScore</a></td>
+    </tr>
+    <tr>
+      <td>Producción de sonido</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/ardour">Ardour</a>, <a href="{{ site.url }}{{ site.baseurl }}/deepin/lmms">LMMS</a>, Rosegarden</td>
+    </tr>
+    <tr>
+      <td>Grabación y edición de audio</td>
+      <td><a href="{{ site.url }}{{ site.baseurl }}/deepin/audacity">Audacity</a>, Ocenaudio</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Ingeniería de sistemas y de software
@@ -161,7 +208,7 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/deepin/appsd
     </tr>
     <tr>
       <td>Diseño CAD 2D</td>
-      <td>LibreCAD</td>
+      <td>LibreCAD, <a href="{{ site.url }}{{ site.baseurl }}/deepin/draftsight">Draftsight</a> (versión gratuita 2017)</td>
     </tr>
     <tr>
       <td>Diseño de casas 3D</td>
@@ -195,27 +242,6 @@ Ver **[Aplicaciones de desarrollo]({{ site.url }}{{ site.baseurl }}/deepin/appsd
     <tr>
       <td>Cálculos algebraicos</td>
       <td>wxMáxima</td>
-    </tr>
-    </tbody>
-</table>
-
-## Ingeniería de sonido
-<table>
-  <caption>🔖 Música y sonido</caption>
-  <colgroup>
-    <col span="1" style="width: 30%;">
-    <col span="1" style="width: 70%;">
-      </colgroup>
-  <thead>
-    <tr>
-      <th>Función</th>
-      <th>Aplicaciones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Composición de música</td>
-      <td>MuseScore</td>
     </tr>
     </tbody>
 </table>

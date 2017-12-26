@@ -1,5 +1,5 @@
 ---
-title: "apt install"
+title: "install"
 description: "Instala paquetes."
 ---
 ##### Código

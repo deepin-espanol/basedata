@@ -1,1 +1,5 @@
 apt: https://wiki.debian.org/Apt
+apt-mark: https://manpages.debian.org/jessie/apt/apt-mark.8.es.html
+cd: https://www.computerhope.com/unix/ucd.htm
+killall: https://es.wikipedia.org/wiki/Killall
+man: https://es.wikipedia.org/wiki/Man

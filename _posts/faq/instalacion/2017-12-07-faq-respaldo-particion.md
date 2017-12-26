@@ -9,6 +9,8 @@ tags:
 
 Tenemos incluido en Deepin 15.5 [Deepin Clone]({{ site.url }}{{ site.baseurl }}/deepin/deepin-clone/). Basta ejecutar la aplicación y seguir las instrucciones. Las copias se clonan en otras particiones o se guardan en una imagen disco (**no compabile con unidades USB con partición FAT32**).
 
+Recuerda que Clone requiere permisos root. Si usas junto al Deepin Recovery, no se mostrarán todas las particiones (en Deepin 15.5).
+
 ### Cómo respaldo
 En Deepin tienes dos opciones:
 * La forma más segura es mediante Deepin Clone:
@@ -20,5 +22,8 @@ En Deepin tienes dos opciones:
   * Para hacer una copia `dd if=/dev/xxx of=mbr.backup bs=512 count=1`
   * Para restaurar con dicha copia `dd if=mbr.backup of=/dev/xxx bs=512 count=1`
   * Nota: xxx representa la id del dispositivo, que puede ser hda, sda, o cualquier otro.
+
+## Lectura adicional
+* <a href="{{ site.url }}{{ site.baseurl }}/deepin/gstreamer">GStreamer</a>
 
 {% include _faq_post.md %}

@@ -1,0 +1,81 @@
+/*
+Fuente: https://franciscoamk.com/como-crear-una-fija-estatica-con-html-y-css/
+*/
+
+.top-bar { //Top-bar
+	@media #{$nav-snap} {
+		display: flex;
+	}
+
+    //Ocultar icono
+    .editor-link {
+        display: none;
+    }
+
+    .logo {
+            a {
+                display: block;
+                line-height: 0;
+                text-decoration: none;
+                color: #fff;
+
+                span {
+                    display: none;
+                    position: relative;
+                    top: -4px;
+                    right: -3px;
+                }
+            }
+
+            svg {
+                fill: #fff;
+                height: 33px;
+                width: 50px;
+                position: relative;
+                top: 5px;
+            }
+    }
+
+	//Codigo adicional
+	//min-height: 47px;
+	padding: 10px 0 10px 0; /* Proporcion compacta */
+	background: $header-color linear-gradient(45deg, rgba(0, 0, 0, 0), $secondary-header-color);
+	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la pagina */
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	top: 0; /* Posicionamos la cabecera pegada arriba */
+	position: fixed; /* Hacemos que la cabecera tenga una posicion fija */
+	z-index: 2; /* Sobrepone el menu */
+
+	/*Traslado de codigo (para el menu horizontal)*/
+	a {
+		color: #fff;
+		text-decoration: none;
+		display: block;
+		padding: 10px 30px;
+		/* Mejoras para pantallas pequenas*/
+		@media only screen and (min-width: 100px) and (max-width: 399px) {
+			padding: 5px 30px;
+			font-size: 1.3em;
+		}
+
+		@media #{$nav-snap} {
+			display: inline-block;
+			padding: 7px 0;
+			margin: 0 10px;
+			border-bottom: 2px solid rgba(255, 255, 255, 0)
+		}
+
+		&.active, &.active:hover {
+			border-bottom-color: rgba(255, 255, 255, .3);
+		}
+
+		&:hover {
+			text-decoration: none;
+			color: #fff;
+			@media #{$nav-snap} {
+				border-bottom-color: rgba(255, 255, 255, .1);
+			}
+		}
+
+}
+}

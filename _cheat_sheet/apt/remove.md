@@ -1,5 +1,5 @@
 ---
-title: "apt remove"
+title: "remove"
 description: "Desinstala paquetes."
 ---
 ##### Desinstalación suave

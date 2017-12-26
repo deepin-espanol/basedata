@@ -1,5 +1,5 @@
 ---
-title: "apt autoremove"
+title: "autoremove"
 description: "Elimina paquetes innecesarias."
 ---
 ##### Código

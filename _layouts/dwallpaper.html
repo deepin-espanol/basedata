@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+
+{{ content }}
+
+<div class="dwallpaper-content">
+	<div class="split">
+		<h2>Detalles</h2>
+		<ul class="details">
+			{% for detail in page.details %}
+				<li>{{ detail }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+
+	<div class="split">
+		<h2>Descarga {{ page.name }}</h2>
+		<ul>
+			<li>Descarga {{ page.name }} desde <a href="{{ page.link }}">este enlace</a>.</li>
+			<li>O revisa la descripción de esta página.</li>
+		</ul>
+	</div>
+</div>
+
+<ul class="photo-gallery">
+	{% for image in page.images %}
+		<li><img class="screenshot" src="{{ image.image }}" alt="{{ dwallpaper.name }} Jekyll dwallpaper"></li>
+	{% endfor %}
+</ul>
+
+<script src="/js/lightslider.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$(".photo-gallery img").each(function() {
+			var $this = $(this);
+			var src = $this.attr('src');
+			$this.parent().attr('data-thumb', src);
+			$this.parent().attr('data-src', src);
+		});
+
+		$(".photo-gallery").lightSlider({
+			gallery: true,
+			item: 1,
+			loop: true,
+			thumbItem: 5,
+			thumbMargin: 50,
+			slideMargin: 0,
+			enableDrag: false,
+			currentPagerPosition: "left",
+		});
+	});
+</script>

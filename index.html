@@ -1,6 +1,7 @@
 ---
 sets:
-  - básico
+  - importante
+permalink: /
 ---
 
 <section>
@@ -17,7 +18,6 @@ sets:
 	{% endfor %}
 </section>
 
-<!--Categorías en general-->
 <h2>Artículos por tema</h2>
 <p>Un reportorio de Tutoriales, aplicaciones, FAQs e información adicional en constante crecimiento.</p>
 
@@ -27,7 +27,7 @@ sets:
 		{% assign name = tag[0] %}
 		{% assign posts = tag[1] %}
 		{% assign size = posts | size %}
-		<!--INICIO IF CATEGORÍA-->
+
 		{% if tag[0] contains "deepin-" %}
 		<section class="category">
 			{% assign cat-name = name | replace: "deepin-", " " | replace: "De", "de" | replace: "Y", "y" | strip %}
@@ -51,11 +51,9 @@ sets:
 			</ul>
 		</section>
 		{% endif %}
-		<!--END IF CATEGORÍA-->
 	{% endfor %}
 </section>
 
-<!--Aplicaciones-->
 <h2>Aplicaciones según el uso</h2>
 <p>Tenemos un catálogo de decenas de aplicaciones, para uso general o solo desarrolladores.</p>
 
@@ -65,7 +63,6 @@ sets:
 		{% assign name = tag[0] %}
 		{% assign posts = tag[1] %}
 		{% assign size = posts | size %}
-		<!--INICIO IF CATEGORÍA-->
 		{% if tag[0] contains "apps-" %}
 		<section class="category">
 			{% assign cat-name = name | replace: "apps-", " "  | strip %}
@@ -89,6 +86,5 @@ sets:
 			</ul>
 		</section>
 		{% endif %}
-		<!--END IF CATEGORÍA-->
 	{% endfor %}
 </section>

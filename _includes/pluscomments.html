@@ -5,7 +5,6 @@ Este código corresponde a los comentarios dinámicos para ahorrar consumo
 -->
 {% if jekyll.environment == 'production' %}
 {% if site.pluscomments and page.show_comments %}
-<section class="diagonal">
 	<script src="https://apis.google.com/js/plusone.js"></script>
 	<div class="container">
 		<h2>Comentarios de Google+</h2>
@@ -16,7 +15,7 @@ Este código corresponde a los comentarios dinámicos para ahorrar consumo
 				  data-first_party_property="BLOGGER"
 				  data-view_type="FILTERED_POSTMOD"/>
 				<noscript>Los comentarios están disponibles al activar Javascript</noscript>
+			</div>
 	</div>
-</section>
 {% endif %}
 {% endif %}

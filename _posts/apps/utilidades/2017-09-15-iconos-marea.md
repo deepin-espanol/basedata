@@ -11,6 +11,9 @@ tags:
     - apps-utilidades
 
 video_id: xWqdusXXG5k
+resources:
+  - name: Canal Deepin en Español
+    link: https://www.youtube.com/channel/UCaBJhTgXo6qXluH909ej3Iw
 ---
 
 Marea es un paquete de iconcos para Deepin.
@@ -23,4 +26,4 @@ Iconos circulares y vivos hacen a Marea una colorida experiencia reemplazando lo
 
 El enlace de descarga en la sección fuentes.
 
-Fuente: [Deepin en Español](https://www.youtube.com/channel/UCaBJhTgXo6qXluH909ej3Iw), [Seducción Linux](https://seduccionlinux.wordpress.com/2017/09/10/marea-icons-otros-tremendos-iconos-para-deepin/)
+Fuente: [Seducción Linux](https://seduccionlinux.wordpress.com/2017/09/10/marea-icons-otros-tremendos-iconos-para-deepin/)

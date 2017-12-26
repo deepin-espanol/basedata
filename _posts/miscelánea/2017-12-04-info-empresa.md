@@ -9,7 +9,7 @@ tags:
     - dudas
 ---
 
-Como complemento a las [dudas frecuentes]({{ site.url }}{{ site.baseurl }}/deepin/dudas), te presentamos información oficial de la empresa. Queremos evitar rumores, enseñándote cómo es la organización, personas importantes y fuentes adicionales.
+Como complemento a las [dudas frecuentes]({{ site.url }}{{ site.baseurl }}/deepin-faq/), te presentamos información oficial de la empresa. Queremos evitar rumores, enseñándote cómo es la organización, personas importantes y fuentes adicionales.
 
 Esta guía forma parte de una <a href="/dudas">serie de dudas frecuentes</a> para facilitar la comprensión a todos los usuarios y usuarias
 
@@ -80,7 +80,7 @@ Mediante su correo electrónico {{ 'support@deepin.org' | encode_email }} (en in
 Además puedes envíar un correo postal a: The 6th Floor, Building B18, Optics Valley Financial Harbour, No. 77, Optics Valley Avenue, Wuhan, China. Código postal 430223.
 
 ## Mi pregunta no está en la lista
-Las preguntas no incluyen información del software, explicado con mejor fundamento en [Dudas técnicas]({{ site.url }}{{ site.baseurl }}/deepin/dudas-tecnicas/).
+Las preguntas no incluyen información del software, explicado con mejor fundamento en [Dudas técnicas]({{ site.url }}{{ site.baseurl }}/deepin-faq//).
 
 También puedes buscar un término importante en el [Buscador]({{ site.url }}{{ site.baseurl }}/search/).
 

@@ -1,21 +1,25 @@
-<!DOCTYPE html>
+---
+layout: compress
+---
 
-<html lang="es">
+<!doctype html>
+
+<html>
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/start.css" type="text/css">
-		<script async type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js"></script>
-		<script async type="text/javascript" src="/js/lazyload.min.js"></script>
+		<meta name="copyright" content="Copyright &#xA9; Comunidad Deepin en Español. Algunos derechos reservados.">
 
+		<!-- Característica: Favicon -->
 		{% include _favicon.html %}
 
+		<!--SEO sin descripción para evitar interferencias (ver post "quince")-->
 		{% seo %}
 		{% feed_meta %}
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<script>
+		<script type="text/javascript">
 				(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
 				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -23,19 +27,24 @@
 
 				ga("create", "{{ site.google_analytics_key }}", "auto");
 				ga("send", "pageview");
-			</script>
+		</script>
 		{% endif %}
+
+		<!--JQuery-->
+		<script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+		<!--CSS-->
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/start.css" type="text/css" >
+
 	</head>
 
 	<body class="{{ page.body_class }}">
 		<header>
 			<div class="wrapper">
-				<section id="main-header">
-					<section class="top-bar">
-						<div class="logo"><a href="/">{% include logo.html %}<span>Deepin en Español</span></a></div>
-						{% include navigation.html %}
-						{% include right-navigation.html %}
-					</section>
+				<section class="top-bar">
+					<div class="logo"><a href="/">{% include logo.html %}<span>Deepin en Español</span></a></div>
+					{% include navigation.html %}
+					{% include right-navigation.html %}
 				</section>
 				<section class="hero_search">
 					<h1>Ayuda de Deepin</h1>
@@ -52,32 +61,12 @@
 		</section>
 
 		{% include footer.html %}
-		<script>
-			$(function() {
-				$('a[href*=\\#]').not(".no-smooth").on('click', function(event){
-					var el = $(this.hash);
-					if (el.length > 0) {
-						// event.preventDefault();
-						$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
-					}
-				});
 
-				$('svg').click(function() {
-					var $form = $(this).parent('form');
-					if ($form.find('input[type="search"]').first().val().length > 0) {
-						$form.submit();
-					}
-				});
-			});
+		{% include _extrajs.html %}
 
-			document.getElementById("open-nav").addEventListener("click", function (event) {
-				event.preventDefault();
-				document.body.classList.toggle("nav-open");
-			});
-		</script>
-		{% include _redirecturl.html %}
 	</body>
 </html>
-
+<!--Extra-->
+<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" type="text/css" >
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Muli:400italic,600italic,700italic,700,600,400|Inconsolata:400,700">
-<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" type="text/css">
+<script type="text/javascript" src="/js/redirect/redirect.min.js"></script>

@@ -8,6 +8,6 @@ tags:
 ---
 
 ### ¿Es necesario conseguir la clave para desbloquear Deepin?
-No, porque es en esencia [software libre]({{ site.url }}{{ site.baseurl }}/deepin/dudas-softlibre).
+No, porque es en esencia [software libre]({{ site.url }}{{ site.baseurl }}/deepin-faq/).
 
 {% include _faq_post.md %}

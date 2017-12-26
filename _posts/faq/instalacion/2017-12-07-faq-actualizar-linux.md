@@ -13,6 +13,6 @@ Si tienes problemas con el núcleo, visita [la página para cambiar el núcleo d
 
 {% include imagen source="graficos/Esquema de un sistema GNU Linux.jpg" alt="Esquema de un sistema operativo GNU/Linux." %}
 
-Fuente: [Slideplayer](http://slideplayer.es/slide/106215/)
+Fuente: [Slideplayer](http://slideplayer.es/slide/106215/), [WikiDebian](https://wiki.debian.org/HowToUpgradeKernel)
 
 {% include _faq_post.md %}

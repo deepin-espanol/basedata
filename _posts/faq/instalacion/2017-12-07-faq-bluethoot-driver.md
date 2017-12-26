@@ -10,6 +10,6 @@ tags:
 
 El Bluetooth es un estándar para transferir datos de forma inalámbrica. Basta instalar los paquetes `Bluetooth`, `bluez` y `pulse-audio` (para los audífonos).
 
-Si tienes problemas con la interfaz gráfica, prueba con `blueman` de GNOME.
+Para más información visita el tip para [arreglar Bluethoot]({{ site.url }}{{ site.baseurl }}/deepin/bluethootfix/).
 
 {% include _faq_post.md %}

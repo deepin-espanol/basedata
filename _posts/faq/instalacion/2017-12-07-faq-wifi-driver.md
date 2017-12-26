@@ -1,5 +1,5 @@
 ---
-title: Cómo arreglar la tarjeta inalámbrica o Wifi
+title: Cómo aseguro que la tarjeta inalámbrica o Wifi funciona
 description: "Parte de la FAQ de Ayuda de Deepin"
 type: Document
 tags:
@@ -8,6 +8,8 @@ tags:
   - internet
 ---
 
-Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivos tipo "rompe muros". Si tienes problemas, [este tip te sirve para encontrar una solución a la conectividad WiFi]({{ site.url }}/deepin/wififix/).
+Por defecto, la conexión inalámbrica está actividada en Laptops y dispositivos tipo "rompe muros". Si tienes problemas, es posible que sea un fallo del controlador. [Este tip puede ayudarte a corregirlo]({{ site.url }}/deepin/wififix/).
+
+Asegúrate comprobar desde el Centro de control.
 
 {% include _faq_post.md %}

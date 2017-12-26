@@ -15,7 +15,7 @@ Sí. Se puede instalar vía [script desde PlayonLinux](http://www.omgubuntu.co.u
 [Gimp]({{ site.url }}{{ site.baseurl }}/deepin/gimp/), disponible en Deepin Store, tiene funcionalidades interesantes. Si lo usas, tienes la oportunidad de personalizar su interfaz.
 
 ### AutoCad
-Hasta el 2017, no todas las versiones funcionan con éxito, las más recientes no permiten instalar. Visita [esta lista de alternativas]({{ site.url }}{{ site.baseurl }}/deepin/appsprofesion/)
+Hasta el 2017, no todas las versiones funcionan con éxito, las más recientes no permiten instalar. Visita [esta lista de alternativas]({{ site.url }}{{ site.baseurl }}/deepin/appsprofesion/).
 
 Fuente: [Wine](https://appdb.winehq.org/appview.php?iAppId=86), [Foro de AutoDesk](https://web.archive.org/web/20171014134437/https://forums.autodesk.com/t5/autocad-forum/autocad-support-for-linux-becoming-a-major-management-decision/td-p/3051192/page/10?nobounce), [Hipertextual](https://web.archive.org/web/20160603181746/http://hipertextual.com:80/2013/09/alternativas-libres-autocad)
 

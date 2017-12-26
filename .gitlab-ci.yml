@@ -1,5 +1,5 @@
-# This file is a dsoftware, and might need editing before it works on your project.
-# dsoftware project: https://gitlab.com/pages/jekyll
+# This file is a jekyll, and might need editing before it works on your project.
+# jekyll project: https://gitlab.com/pages/jekyll
 # Docs: https://docs.gitlab.com/ce/pages/
 image: ruby:2.3
 
@@ -28,4 +28,3 @@ pages:
     - public
   only:
   - master
-

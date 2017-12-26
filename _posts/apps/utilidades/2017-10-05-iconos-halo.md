@@ -9,7 +9,11 @@ tags:
     - sencillez
     - iconos
     - apps-utilidades
+
 video_id: _HalhXRdUiI
+resources:
+  - name: Alejandro Camarena
+    link: https://www.youtube.com/channel/UCueXeAH1UD72MqwpIFWveXA
 ---
 
 Halo es un paquete de iconcos para Deepin con un estilo urbano.
@@ -26,4 +30,4 @@ Nota: Es posible que algunos iconos utilizen variantes libres de MacOS, específ
 
 El enlace de descarga en la sección fuentes.
 
-Fuentes: [Alejandro Camarena](https://www.youtube.com/channel/UCueXeAH1UD72MqwpIFWveXA), [Enlace de descarga](https://seduccionlinux.wordpress.com/2017/10/07/halo-iconos-1-5/)
+Fuentes: [Enlace de descarga](https://seduccionlinux.wordpress.com/2017/10/07/halo-iconos-1-5/)

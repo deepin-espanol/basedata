@@ -6,7 +6,7 @@ ayudadeepin: http://ayuda.deepin.ovh
 # URL de Deepin en Español (site.data.externalurl.homedenespanol)
 homedenespanol: http://deepin.ovh
 # URL de la licencia de Deepin (site.data.externalurl.licenciadeepin)
-ayudadeepin: http://deepin.ovh/licencia
+licenciadeepin: http://deepin.ovh/licencia
 
 # PÁGINA DE DESCARGAS (site.data.externalurl.*)
 sourceforge: https://sourceforge.net/projects/deepin/files/15.5/Release/

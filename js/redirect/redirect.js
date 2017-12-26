@@ -27,7 +27,7 @@ function redirectPageIfNeeded(canonicalURL) {
         canonicalHost + // new host
         href.substring(pos + location.host.length); // path
       hrefRedirect = true;
-      document.getElementsByTagName('http-equiv')["refresh"].content = "1; url={{ site.official_url }}{{ page.url }}";
+      document.getElementsByTagName('http-equiv')["refresh"].content = "1; url=ayuda.deepin.ovh";
       }
 
       // Perform protocol and/or host redirect as required

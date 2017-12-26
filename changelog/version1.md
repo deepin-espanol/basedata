@@ -44,7 +44,7 @@ Se añadió dos líneas de if en index.html. El resultado es mostrar el título 
 ### Serie de posts
 * Las series de posts son pasos para que el usuario o desarrollador use Deepin. Se distinguen a las categorías y ofrece pasos enumerados.
 * Se establecen en la página del post `set: ` y `set_order: `
-	- Ejemplo: `set: básico` y `set_order: 1`
+	- Ejemplo: `set: importante` y `set_order: 1`
 * Para añadir un nuevo set es necesario añadir un archivo en la carpeta `_sets`
 
 ## Traducción al español

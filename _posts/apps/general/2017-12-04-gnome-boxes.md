@@ -1,8 +1,7 @@
 ---
-date: 2017-11-17
 type: Video
 title: "GNOME Boxes"
-description: "Gestiona tu llavero"
+description: "Gestiona otras imágenes y ejecútalas"
 tags:
     - apps-general
     - virtualización

@@ -15,7 +15,7 @@ tutoriales:
 faq:
   description: Varias preguntas elaboradas para Deepin
   featured:
-    - faq-dual-boot
+    - faq-grub
     - faq-driver
     - faq-que-es-terminal
     - faq-reportar-feedback
@@ -26,7 +26,7 @@ tips y trucos:
     - editar-host
     - alacarte
     - fuentes-truetype
-técnico:
+aspectos técnicos:
   description: Información para desarrolladores e investigadores
   featured:
     - drivers
